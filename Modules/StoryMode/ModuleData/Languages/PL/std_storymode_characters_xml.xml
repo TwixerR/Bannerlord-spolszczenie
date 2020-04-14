@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="8AHT9pt5" text="Mistrz treningu" />
+    <string id="daOtjNZp" text="Arzagos" />
+    <string id="IMwAoSax" text="Bandyta Radagosa" />
+    <string id="kfhY01a7" text="Strażnik naczelnika" />
+    <string id="MrpOJn2h" text="Uchodźca" />
+    <string id="No2HgX5E" text="Radagos" />
+    <string id="O8QblvbQ" text="Tacteos" />
+    <string id="uCmEaWOI" text="Istiana" />
+  </strings>
+</base>

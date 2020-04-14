@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="0m0IUnL1" text="fen Uvain" />
+    <string id="0u8ipbgn" text="Plemiona zwane Leśnym Ludem praktykują sposób rolnictwa nazywany przez nich „Wytnij i spal” w środku głębokiego lasu, poza zasięgiem sturgijskich bojarów. Spalają połacie drzew, uprawiają rośliny na dziewiczej glebie nawożonej popiołem przez kilka lat, aż ziemia się wyczerpie, i ruszają dalej. Jest to nieefektywne wykorzystanie ziemi, ale bardzo wydajne wykorzystanie siły roboczej, odpowiednie dla liczebnie małej populacji na dużym obszarze. Ponieważ działki są trudne do zmierzenia i opodatkowania, jest to bardzo dobra strategia dla osób, którzy nie przejmują się władzą." />
+    <string id="1sbJQR4H" text="Grabieżcy" />
+    <string id="3o5s6L3y" text="dey Meroc" />
+    <string id="3PzgpFGq" text="Neutralny" />
+    <string id="4Dbwdjbe" text="Hongeros" />
+    <string id="4rr3d8hY" text="Dolentor" />
+    <string id="4TiYXBqK" text="Ghilman to grupa najemników, którzy rekrutowani są z plemion południowej Calradii i ziem na wschodzie. Są oni prawnie swoimi własnymi niewolnikami i panami: każdy z nich „sprzedaje się” na zamówienie, a tym samym staje się swym współwłaścicielem. Są oni znani ze swoich pięknych koni i pięknych ubrań. Jednak nikt nie powinien zakładać na podstawie naoliwionych loków, perfum i pawich piór, że ​​spędzają więcej czasu na obijaniu się niż na treningu. Ich umiejętności jako konnych łuczników nie mają sobie równych, natomiast ich lansjerzy znajdują się tuż za Vlandianami i Imperialnymi katafraktami." />
+    <string id="6BvGhzao" text="Karakhergit" />
+    <string id="6OEQJV6k" text="Julios" />
+    <string id="7bhNgOKd" text="Wilcze Skórty są spadkobiercami długiej tradycji na ziemiach battani gdzie wielcy wojownicy „szaleli” przez część swojej młodości, ucząc się lasów i cierpiąc trudności. Tak długo, jak nie noszą uszytych ubrań, nie jedzą gotowanego jedzenia i nie śpąi pod dachem, są odporni na wszelkie ludzkie prawa. W rzeczywistości współczesne są oni zwykle synami zamożnych rodzin, którzy potrzebują kilku lat, by oddać się swojej dzikiej stronie, rabować podróżników i żyć okrutnie i niekoniecznie stosując się do zasad starego kodeksu." />
+    <string id="7k9izAvC" text="Skolderbrotva" />
+    <string id="7WL1LWdf" text="Szczury Jeziorne" />
+    <string id="8ba4tpRU" text="Jawwal" />
+    <string id="8Wi66Sp2" text="Prienicos" />
+    <string id="9NWQNInC" text="dey Molarn" />
+    <string id="9ORFG9l4" text="Chonis" />
+    <string id="9qAUWcfa" text="dey Gunric" />
+    <string id="9qAWNBvA" text="Eleftheroi, wolny lud, żyją na stepach na obrzeżach Imperium. Pierwotnie potomkowie zbiegłych niewolników i dłużników, wkrótce stali się wysoko cenieni przez lokalnych dowódców imperialnych za wiedzę na temat tej strefy przygranicznej. Ich przywódcy otrzymali tytuły, natomiast ich młodzi mężczyźni zostali zabrani, by stać się Świtą Archontów i Cesarzy. Jednak chociaż teraz są bardzo lojalni wobec idei Imperium, pozostają dość wrogo nastawieni do jego faktycznego autorytetu." />
+    <string id="9Y1u2onl" text="Banu Hulyan" />
+    <string id="9ZEdEWmi" text="Szczury Jeziorne żyją na bagnach nad brzegiem wielkiego północnego jeziora, w chatkach wykonanych z drewna ze zniszczonych statków. Żyją poprzez „niszczenie” - tj. wabienie statków na ławice za pomocą fałszywych latarni morskich i znaczników. Ponieważ są pogardzani przez resztę Calradii - „wszyscy przestępcy, pachną gazem bagiennym, błotem i zgniłą rybą” - gardzą wszystkimi innymi. Choć w większości są to Sturgianie, ich szeregi zostały powiększone przez zbiegów, dłużników i każdego, kto wolałby żyć według kodeksu złodziei niż prawa szlachty." />
+    <string id="a4GxTbPD" text="Varros" />
+    <string id="A4wIVnM4" text="Gundaroving" />
+    <string id="a67wFbUw" text="fen Gruffendoc" />
+    <string id="Aft8nsgn" text="Banu Sarmal" />
+    <string id="ApJrV7bA" text="Sorados" />
+    <string id="AppNvfPv" text="Ormidoving" />
+    <string id="as2TiAIJ" text="Bractwo Lasu" />
+    <string id="b6SEM6Ab" text="Koltit" />
+    <string id="B8c2mNKj" text="Żarliwy Błysk to potomkowie ruchu rebeliantów, który powstał prawie sto lat temu, po tym, jak święty, lecz nieefektywny Cesarz Darusos został obalony przez jednego ze swych generałów. Twierdzą oni, że przygotowują drogę do Nieba, aby sprowadzić Darusos i zapoczątkować złoty wiek, ale podobnie jak wiele innych ruchów rebeliantów w Calradii, zmuszeni byli zwrócić się do wymuszeń i haraczy, by przetrwać." />
+    <string id="bhxVA9w7" text="Ostatni Legion powstał po tym, jak cesarz Arenicos wprowadził swoje reformy po katastrofie bitwy pod Pendraic, znosząc ostatnią armię Imperium na rzecz prywatnych retorów archontów, które były znacznie tańsze i lepiej nadwały się do kontroli terytorium. Legion składa się z ludzi, którzy nie znosili tej zmiany: kochali starą armię, jej standardy, historię jednostek i życie obozowe, i winią nowy system za zniszczenie imperium. Jednak ich armia nie trzyma się razem, chyba że jest regularnie opłacana, oraz przyjmują oni kontrakty od imperialnych i obcych władców." />
+    <string id="bjemmmcF" text="Corenios" />
+    <string id="bsPd5zri" text="Skolderbroda lub Bracia Tarczownicy to kompania najemników, którzy bardzo poważnie podchodzą do walki i treningu. Są to przede wszystkim wojownicy północy, jednak pozwalają dołączyć rekrutom z innych kultur, pod warunkiem, że aktualnie służący już Tarczownik za nich poręczy. Ich zasady są prawie monastyczne: żadnych kobiet w obozowiskach i żadnych rozrywek, a bratu nie wolno spędzać nocy na zewnątrz bez pozwolenia. W walce walczą włócznią i toporem w stylu nordyckim i są bardzo cenieni przez wszystkie szlachetne domy na północy." />
+    <string id="BxCRDt5m" text="Vizartos" />
+    <string id="cd0yDTM1" text="Lonalion" />
+    <string id="CibaXzG8" text="Phalentes" />
+    <string id="CRSFOSil" text="Urkhunait" />
+    <string id="CS4rSk99" text="dey Cortain" />
+    <string id="Ds2vQVwr" text="Avlonos" />
+    <string id="e6csp4ha" text="Bandyci Stepowi" />
+    <string id="eC6qIOzz" text="Eleftheroi" />
+    <string id="EnZHNc2k" text="Isyaroving" />
+    <string id="Eu932blQ" text="Kuloving" />
+    <string id="fvYgmrjG" text="Banu Sarran" />
+    <string id="fXENjJJL" text="Osticos" />
+    <string id="GCy0xb6U" text="Kompania" />
+    <string id="GgMVWlkr" text="Test Clan" />
+    <string id="gXeF1yKn" text="Harfit" />
+    <string id="H5iWxbbl" text="Ghilman" />
+    <string id="h7ujXmDx" text="Mestricaros" />
+    <string id="HMnHaJac" text="fen Morcar" />
+    <string id="hrWQWgaM" text="Pethros" />
+    <string id="j3KtHQzn" text="Dłoń" />
+    <string id="k3djFmuO" text="fen Penraic" />
+    <string id="kbGk2so8" text="Baltait" />
+    <string id="khnadIv1" text="Bractwo" />
+    <string id="kkUQObZn" text="Pustynni Bandyci" />
+    <string id="l6JtB97p" text="Banu Atij" />
+    <string id="LqTTchsa" text="Legion Zdradzonych" />
+    <string id="lUfFxWlk" text="Banu Qaraz" />
+    <string id="LygSwU3i" text="dey Jelind" />
+    <string id="LZVzzczs" text="dey Fortes" />
+    <string id="m0teef5g" text="Tigrit" />
+    <string id="mddbprXj" text="Vagiroving" />
+    <string id="mOa9CX13" text="Górscy Bandyci" />
+    <string id="mpjp1MT2" text="dey Arromanc" />
+    <string id="mtZu1l2j" text="Żarliwy Błysk" />
+    <string id="MVHawAEp" text="Ukryta Dłoń" />
+    <string id="nh4Y3LOc" text="Wilcze Skóry" />
+    <string id="NObV048p" text="Beni Zilal" />
+    <string id="nQOf27Rx" text="Ukryta Dłoń to mafia, która dominuje na obszarach wiejskich, oraz często również w miastach południowej części Imperium. Rozkwitli, czyniąc się użytecznymi dla władz: tłumiąc niepokoje, uciszając kłopotliwych kaznodziejów i rabując kupców, którzy konkurują ze swoimi patronami. Wielu z nich lawiruje między pełnym szacunku i godnym życiem w miasteczku a przestępczym życiem na wsi, spędzają dwa lub trzy miesiące w roku jako zbójca i stróż, a resztę jako „handlarz” kradzionymi towarami, wiedząc doskonale, że nie znajdzie się nikt, kto im w tym przeszkodzi." />
+    <string id="o0Xm5Rqk" text="Playerland" />
+    <string id="o4wKMT9x" text="Banu Habbab" />
+    <string id="o7ud4X2X" text="Ludzie Lasu" />
+    <string id="ObBvcDhJ" text="fen Giall" />
+    <string id="OVQoC9fn" text="Comnos" />
+    <string id="pBUc2pL8" text="Korsarze" />
+    <string id="pdz4YsEf" text="Maneolis" />
+    <string id="Q1nAHnV7" text="Khergit" />
+    <string id="qFntgcGy" text="dey Tihr" />
+    <string id="qoLWSdRE" text="fen Eingal" />
+    <string id="RWOYui01" text="Jawwal, czyli „Wędrowcy”, to główna konfederacja beduińska na pustyni Nahhas. Wędrują od górskich po nizinne pastwiska, ogłaszając ogromne połacie pustyni swoim „terytorium”, na którym każda karawana musi zaoferować im pieniądze za swą ochronę. Komponują wiersze chwalące swoje czyny i kpią z innych klanów Banu Asera za to, że porzucili 'wolność' namiotów z czarnej wełny dla kamiennych domów w oazach. Inne klany uważają je za chełpiącą się uciążliwość, choć niechętnie szanują ich jako obrońców starych zwyczajów Aserai." />
+    <string id="s0AVQCbJ" text="Togaroving" />
+    <string id="sAbjtZbB" text="Bandyci z Lasu" />
+    <string id="Ssl38GEF" text="Legion" />
+    <string id="tA3IRBgv" text="Impestores" />
+    <string id="tae3lhXh" text="Kompania to Vlandczycy, w większości lokalni, którzy nie dostosowują się dobrze do czasu pokoju i wybrali życie w ciągłej wojnie. Są to prawdopodobnie najmniej zdyscyplinowani i najbardziej bezczelni najemnicy Calradii, i plaga w każdym zakątku wsi, gdzie mogą zaszaleć. Mimo to podobnie, jak wszyscy najemnicy, wiedzą, że ich przyszłe zarobki zależą od ich reputacji, dlatego honorują swoje umowy i ćwiczą swoje umiejętności, szczególnie kusznictwo, aby zapewnić swym pracodawcom, że warci są ich wydanych pieniędzy." />
+    <string id="tdGvElSy" text="Dionicos" />
+    <string id="txCNVmSV" text="Neretzes" />
+    <string id="UmVjzPI4" text="Kompania Złotego Dzika" />
+    <string id="UQHUu2bj" text="Leonipardes" />
+    <string id="UW8BjPXR" text="Argoros" />
+    <string id="vbLAA0RF" text="dey Valant" />
+    <string id="VpF6skYs" text="Arkit" />
+    <string id="W2HkbCeX" text="Ubroving" />
+    <string id="W9n5iPbB" text="Yanserit" />
+    <string id="wFR1ukg9" text="Banu Qild" />
+    <string id="xahrUc5n" text="Bractwo Lasu powstało jako Vlandyjski ruch chłopski, ukrywający się w lasach, rabujący bogatych i rozdający biednym. Napotkano jednak problemy, które mógłby wywołać każdy długotrwały ruch rebeliantów - musieli zapewnić stały zapas żywności, a także upewnić się, że żaden z biednych nie odważy się zarobić worka monet, informując o nich władzy. Powoli, ale pewnie, zaczęli wykorzystywać wymuszenia, terror i korupcyjne porozumienia z lokalnymi władzami, aby przetrwać, niewiele różniąc się od innych zorganizowanych grup bandytów w Calradii" />
+    <string id="XJbDRBfd" text="Karakhergit to koczowniczy klan, który oparł się wszelkim wysiłkom centralizujących się khanów Urkhunid, aby utrzymać ich w jednym miejscu, dać im pola uprawne i poddanych oraz zmusić ich do płacenia podatków i opłat wojskowych. Są traktowani przez inne klany z mieszanką zazdrości i pogardy. Handlują, a czasem nawet zawierają związki małżeńskie ze swoimi osiadłymi braćmi, ale praktykują jednak porwania dla okupu i najazdy na stada, a także szydzą z tych, którzy obwiniliby ich za to, że postępują w heroiczny tradycyjny sposób." />
+    <string id="xqkKtWqa" text="Elaches" />
+    <string id="xw0eTkkb" text="Vezhoving" />
+    <string id="yQcZrUYi" text="dey Folcun" />
+    <string id="zcLTthfN" text="Żary" />
+    <string id="zvas3ieB" text="fen Derngil" />
+    <string id="zY2TQC9t" text="Banu Arbas" />
+  </strings>
+</base>

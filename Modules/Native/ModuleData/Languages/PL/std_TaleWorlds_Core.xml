@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="Ve8xoa3i" text="WIG" />
+    <string id="YWkdD7Ki" text="Wigor" />
+    <string id="jJ9sLOLb" text="Wigor ważny jest w walce wręcz. Pozwala na poruszanie się zarówno szybko, jak i z impetem." />
+    <string id="PiHpR4QL" text="Broń jednoręczna" />
+    <string id="yEkSSqIm" text="Mistrzostwo we władaniu bronią jednoręczną, z tarczą lub bez." />
+    <string id="t78atYqH" text="Broń dwuręczna" />
+    <string id="eoLbkhsY" text="Mistrzostwo w posługiwaniu się bronią dwuręczną średniej długości, jak np. długie miecze i topory bojowe." />
+    <string id="haax8kMa" text="Broń drzewcowa" />	
+    <string id="iKmXX7i3" text="Mistrzostwo we władaniu włóczniami, lancami, kijami i inną bronią drzewcową - zarówno jednoręczną, jak i dwuręczną." />
+	
+    <string id="HuXafdmR" text="KTR" />
+    <string id="zfRqM4mr" text="Kontrola" />
+    <string id="vx0OCvaj" text="Kontrola pozwala na użycie siły bez utraty precyzji. Jest niezbędna przy użyciu broni dystansowych." />
+    <string id="5rj7xQE4" text="Łuk" />
+    <string id="FLf5J3su" text="Zdolność posługiwania się łukami i wiedza o tym, jak celnie z nich strzelać." />
+    <string id="TTWL7RLe" text="Kusza" />
+    <string id="haV3nLYA" text="Wiedza o tym, jak skutecznie posługiwać się kuszą i jak o nią należycie dbać." />
+    <string id="2wclahIJ" text="Broń miotana" />
+	<string id="NwTpATW5" text="Mistrzostwo w posługiwaniu się bronią rzucaną." />
+  
+    <string id="d2ApwXJr" text="WYT" />
+    <string id="kvOavzcs" text="Wytrzymałość" />
+    <string id="K8rCOQUZ" text="Wytrzymałość umożliwia wykonywanie wymagających fizycznie zadań przez dłuższy czas." />
+    <string id="skZS2UlW" text="Atletyka" />
+    <string id="bVD9j0wI" text="Krzepa, szybkość i równowaga." />
+    <string id="p9i3zRm9" text="Jazda konna" />
+    <string id="H9Zamrao" text="Zdolność kontrolowania konia, utrzymania równowagi przy nagłych lub niespodziewanych ruchach, jak i ogólna wiedza o koniach, włącznie z czyszczeniem i rozmnażaniem." />
+    <string id="xs0MpdCM" text="Kowalstwo" />
+    <string id="xWbkjccP" text="Wiedza o tym, jak rozgrzewać metal, kuć w nim, wytwarzać kółka kolcze, łuski, ostrza, miecze, pancerze itd." />
+
+    <string id="tH6Ooj0P" text="SPR" />
+    <string id="JZM1mQvb" text="Spryt" />
+    <string id="YO5LUfiO" text="Spryt umożliwia przewidzenie ruchów i zamysłów innych, co pozwala na zniweczenie ich planów." />
+    <string id="LJ6Krlbr" text="Zwiad" />
+    <string id="kmBxaJZd" text="Wiedza o tym, jak wykrywać zwierzynę i ludzi w dziczy. Łatwiej dostrzec ci ślady, wznoszące się kłęby dymu i błyszczące w świetle ostrza włóczni." />
+    <string id="m8o51fc7" text="Taktyka" />
+    <string id="FQOFDrAu" text="Zdolność osądzenia, jak zachowają się twoi żołnierze w bitwie. Pozwala decydować, kiedy należy trzymać się podręczników wojennych, a kiedy można pozwolić sobie na nieortodoksyjne zagrywki." />
+    <string id="V0ZMJ0PX" text="Przebiegłość" />
+    <string id="81YLbLok" text="Poznaj mniej chwalebną stronę ludzkiego życia. Wiesz, kiedy możesz przekupić strażnika, jak kogoś zastraszyć, oraz wyczuwasz, na co możesz sobie przy innych pozwolić." />
+
+    <string id="PHoxdReD" text="KRS" />
+    <string id="abxndmIh" text="Krasomówstwo" />
+    <string id="XMDTt96y" text="Krasomówstwo pozwala ci na zrozumienie innych oraz nakłonienie ich do swojej opinii." />
+    <string id="EGeY1gfs" text="Charyzma" />
+    <string id="VajIVjkc" text="Zdolność nakłaniania innych do polubienia cię. Wiedza o tym, czego trzeba ludziom i jak wymusić na nich wymaganą reakcję." />
+    <string id="HsLfmEmb" text="Przywództwo" />
+    <string id="97EmbcHQ" text="Zdolność inspirowania innych. Możesz podbudować czyjąś pewność siebie, lub natchnąć entuzjazmem i odwagą większą grupę ludzi." />
+	<string id="GmcgoiGy" text="Handel" />
+    <string id="lsJMCkZy" text="Znajomość cen lokalnych towarów i umiejętność w odróżnianiu jakości przedmiotów oraz opłacalności ofert." />
+
+    <string id="sOrJoxiC" text="Inteligencja" />
+    <string id="Bn7IsMpu" text="INT" />
+    <string id="TeUtEGV0" text="Inteligencja reprezentuje chęć i zdolność rozumienia tekstów czytanych oraz przyswajania informacji." />
+    <string id="Ymw2PKBo" text="Zarządzanie" />
+    <string id="qwEJSBaH" text="Zdolność zarządzania majątkiem ziemskim. Pozwala na rozwijanie się wiosek, osad, miast i zamków." />
+    <string id="JKH59XNp" text="Medycyna" />
+    <string id="igg5sEh3" text="Wiedza o tym, jak powstrzymać krwotok, nastawiać kości, usuwać utknięte groty i ostrza, dezynfekować rany oraz aplikować topiki, które łagodzą ból i podrażnienia." />
+    <string id="PCZ23wvW" text="Inżynieria" />
+    <string id="hbaMnpVR" text="Pojmowanie przełożenia sił i podstaw fizyki. Przydatne, gdy chcesz wybudować coś, co ma się nie rozpaść, oraz przy budowie narzędzi zniszczenia." />
+	
+    <string id="ExjMoUiT" text="Drewno liściaste" />
+    <string id="n3cjEB0X" text="Narzędzia" />
+	<string id="iQadPYNe" text="Węgiel drzewny" />
+    <string id="Kw6BkhIf" text="Ruda żelaza" />
+    <string id="gOpodlt1" text="Surowe żelazo" />
+	<string id="8w0aaDbn" text="Żelazo" />
+    <string id="7HvtT8bm" text="Kute żelazo" />
+    <string id="UfuLKuaI" text="Stal" />
+    <string id="azjMBa86" text="Znakomita stal" />
+    <string id="vLVAfcta" text="Tamaskeńska stal" />
+    <string id="Uz1HHeKg" text="Wykuta losowa broń" />
+	<string id="uZhHh7pm" text="{CURR_TEMPLATE_NAME} ręcznej roboty" />
+    <string id="LmwhFv5p" text="Mięso" />
+    <string id="4kvKQuXM" text="Skóry zwierząt" />
+    <string id="Itv3fgJm" text="Zboże" />
+  
+    <string id="Aj3zqQq4" text="Niedostępne" />
+  </strings>
+</base>

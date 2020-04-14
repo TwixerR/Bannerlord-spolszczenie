@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="16hLiz40" text="Tester Beta" />
+    <string id="1CxYPryo" text="Ta odznaka została przyznana graczom, którzy wygrali 50 meczów w teście Beta" />
+    <string id="21oH4CWa" text="Łowca Błędów" />
+    <string id="5IANKz8a" text="Tester Alfa" />
+    <string id="5ZwXUBV5" text="Ta odznaka została przyznana graczom, którzy wygrali 500 meczów we wczesnym dostępie." />
+    <string id="9C9Nbgbt" text="VIP" />
+    <string id="aNsV4LOg" text="EA Uczestnik" />
+    <string id="aubhe8Hk" text="Deweloper TaleWorlds" />
+    <string id="BCWVcO6k" text="Ta odznaka została przyznana graczom, którzy wzięli udział w Beta Testie dla wielu graczy." />
+    <string id="bKmVrmzG" text="Ta odznaka została przyznana graczom, którzy wzięli udział w Beta Testie dla wielu graczy." />
+    <string id="Cbf52UqN" text="Ta odznaka została przyznana graczom, którzy wygrali 50 meczów we wczesnym dostępie." />
+    <string id="DJY6qD0b" text="Aktualne wygrane" />
+    <string id="DKAH6hMC" text="EA 20 Wygrane" />
+    <string id="dSWtiVLz" text="Ta odznaka została przyznana członkom społeczności, którzy przyczynili się do gry i społeczności." />
+    <string id="DWb2zRsZ" text="Beta 100 Wygrane" />
+    <string id="ESOkYFiD" text="Ta odznaka została przyznana graczom, którzy wygrali 750 meczów we wczesnym dostępie." />
+    <string id="fAaorpa8" text="EA 50 Wygrane" />
+    <string id="FDvwGjni" text="Beta 50 Wygrane" />
+    <string id="gNiQcEa9" text="Odznaka ta została przyznana członkom społeczności, którzy znacznie pomogli nam w znalezieniu błędów i problemów, które napotkaliśmy w okresie alfa i beta dla wielu graczy." />
+    <string id="GTmPMoYe" text="Pracownik TaleWorlds" />
+    <string id="H4Zlsiu1" text="Beta 250 Wygrane" />
+    <string id="IcPNgbtl" text="Ta odznaka została przyznana graczom, którzy wygrali 100 meczów we wczesnym dostępie." />
+    <string id="iGTJ4aQq" text="EA 250 Wygrane" />
+    <string id="KcPkbnu2" text="Beta 20 Wygrane" />
+    <string id="medMGVme" text="Ta odznaka została przyznana graczom, którzy wygrali 250 meczów we wczesnym dostępie." />
+    <string id="OasvPXuW" text="Ta odznaka została przyznana graczom, którzy wygrali 20 meczów we wczesnym dostępie." />
+    <string id="OGsa2aC1" text="Ta odznaka została przyznana graczom, którzy uczestniczyli we wczesnym dostępie." />
+    <string id="qLpxrsFX" text="Ta odznaka została przyznana graczom, którzy wzięli udział w teście alfa dla wielu graczy." />
+    <string id="qvYJuD83" text="EA 100 Wygrane" />
+    <string id="sli6QNV6" text="Ta odznaka została przyznana graczom, którzy wygrali 250 meczów w teście Beta." />
+    <string id="tI5cj3Qz" text="Ta odznaka została przyznana graczom, którzy wygrali 20 meczów w teście beta" />
+    <string id="Xws44eDL" text="EA 500 Wygrane" />
+    <string id="ZodCgSL5" text="EA 750 Wygrane" />
+  </strings>
+</base>

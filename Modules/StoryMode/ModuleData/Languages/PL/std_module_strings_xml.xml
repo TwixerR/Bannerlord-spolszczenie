@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="(" text="Baldimos" />
+    <string id="3nilwlcM" text="Dotarłeś do {TUTORIAL_SETTLEMENT_NAME}. Aby wejść do wioski naciśnij podświetlony przycisk po lewej stronie." />
+    <string id="3RqEmB15" text="Navigating Calradia" />
+    <string id="3Y5dudW9" text="Alda" />
+    <string id="3YkpC9Nf" text="Możesz filtrować przedmioty przyciskami u góry." />
+    <string id="4IZnbvlD" text="Baudein" />
+    <string id="5bYwdRFs" text="Trening walki mieczem" />
+    <string id="5M48atXU" text="Masz aktywne zadanie! Możesz dowiedzieć się więcej na jego temat klikając dziennik zadań w lewym dolnym rogu ekranu." />
+    <string id="7xHMIZEP" text="Cel treningowy" />
+    <string id="8UUV94Lq" text="Trening dystansowy" />
+    <string id="8YvBapxl" text="Varic" />
+    <string id="9YqwNQPO" text="Trening walki dystansowej wierzchem" />
+    <string id="ajo9KQpr" text="Pokonaj łatwego trenera" />
+    <string id="at4MdVBJ" text="Fathid" />
+    <string id="atWs6mkm" text="Trening z Mieczem i Tarczą" />
+    <string id="axnDLcDA" text="Porozmawiaj z naczelnikiem" />
+    <string id="B7WlM3CU" text="Kup zapasy z menu oasdy po lewej." />
+    <string id="C8NDynaB" text="Niasen" />
+    <string id="CaCfbRJq" text="Nozhon" />
+    <string id="CONYULU6" text="Phasos" />
+    <string id="CpKLau15" text="Twój brat doradza kupno dwóch worków zboża.{newline}{newline}Kliknij strzałkę obok niego, przesuń całość, lub kliknij w zboże" />
+    <string id="cZsPNpCs" text="Kupowanie Jedzenia" />
+    <string id="d0LpBfis" text="Trening z kuszą" />
+    <string id="D0SoDPcr" text="Zaawansowane szkolenie walki w zwarciu" />
+    <string id="ddoD208G" text="Notable pozwolą ci rekrutować więcej lepszych (wyższego poziomu) jednostek im lepsza będzie Twoja relacja z nimi.{newline}{newline}Wybierz kilku żołnierzy do swojej drużyny." />
+    <string id="DELVwiEM" text="Tira" />
+    <string id="dFpNRB1g" text="Nogand" />
+    <string id="eFc6YuzQ" text="Aby opuścić lokację przytrzymaj przycisk &quot;Tab&quot;. {newline}{newline}Powrócisz do menu wioski, gdzie możesz kupować zapasy i rekrutować." />
+    <string id="EhELIf65" text="Teruin" />
+    <string id="elRQHiLR" text="Trening walki mieczem wierzchem" />
+    <string id="f6xYa3c4" text="Witaj w Calradii!{newline}{newline}Możesz eksplorować mapę świata przesuwając kamerę za pomocą WASD, przeciągając prawym przyciskiem myszy, oraz przybliżać i oddalać kółkiem myszy.{newline}{newline}Spróbuj." />
+    <string id="FFP17aSl" text="Na początku bitwy Twoi żołnierze utrzymają swoją pozycję. Możesz im wydawać rozkazy. Wydaj im rozkaz podążania za tobą wciskając &quot;F1&quot; i wybierając &quot;Za mną!&quot;  &quot;F2&quot;." />
+    <string id="fpdXZ0fl" text="Rekrutacja" />
+    <string id="GCqWwDWg" text="Baladir" />
+    <string id="GjGF4xbn" text="Trening z tarczą" />
+    <string id="gUvxp8mf" text="Trening z łukiem" />
+    <string id="IcBq2jSZ" text="Aitheen" />
+    <string id="Il7C9LQG" text="Możesz poruszać się:{newline}- wprzód [W]{newline}- wstecz [S]{newline}- w lewo [A]{newline}- w prawo [D]{newline}{newline}Spróbuj teraz!" />
+    <string id="JDtbzwB0" text="Nusun" />
+    <string id="jLWPSiOR" text="Porozmawiaj z naczelnikiem" />
+    <string id="jWvle1tC" text="Ukończ tor trafiając jak najwięcej celów ({HIT} / {ALL}))" />
+    <string id="K0f6WLjV" text="Aby opuścić lokację przytrzymaj przycisk &quot;Tab&quot;. {newline}{newline}Powrócisz do menu wioski, gdzie możesz kupować zapasy i rekrutować." />
+    <string id="KiJd6Xik" text="Poruszanie" />
+    <string id="KUEHAD4U" text="Zadania" />
+    <string id="kwW6v202" text="Idź na pozycje strzelecką." />
+    <string id="L0tOoWpV" text="Idź do zwykłego trenera" />
+    <string id="L24eYhaX" text="Wsiądź na konia" />
+    <string id="LGuJctoZ" text="Atakuj trenera ({HIT} / {ALL})" />
+    <string id="lN1RQ260" text="Trafione cele ({HIT} / {ALL})" />
+    <string id="LS1whiyj" text="Menu w prawym górnym rogu pokazuje ważne osoby w bieżącej lokacji.{newline}{newline}Kliknij portret naczelnika, aby z nim porozmawiać." />
+    <string id="m2uEbrkh" text="Najun" />
+    <string id="mfugkRoz" text="Kryjówka &amp; Rozkazy" />
+    <string id="MgBazeaE" text="Alte" />
+    <string id="MqeQco4z" text="Trening broni drzewcowej wierzchem" />
+    <string id="MUEaqlix" text="Pokonaj doświadczonego trenera" />
+    <string id="NWxC3CbS" text="Fodor" />
+    <string id="OA9bQ8QJ" text="Alea" />
+    <string id="odbkXZkz" text="Ruch drużyny odbywa się poprzez kliknięcie mapy. Postawi to ślad w docelowej lokacji - chyba że kliknąłeś niedostępny obszar, taki jak góry lub morze.{newline}{newline}Ruszaj do {TUTORIAL_SETTLEMENT_NAME}!" />
+    <string id="OFNEE8Xr" text="Możesz rozkazać swoim żołnierzom atak otwierając menu rozkazów ruchu &quot;F1&quot; i wybierając szarżę  &quot;F3&quot;." />
+    <string id="oj7B1GOT" text="Wchodzenie do wioski" />
+    <string id="OJmYUcaU" text="z mieczem" />
+    <string id="okM9QUFA" text="Trening z bronią miotaną" />
+    <string id="opUBnFym" text="Terte" />
+    <string id="P7KbSBvr" text="Trening jazdy wierzchem" />
+    <string id="pAf5Mt3X" text="Alishka" />
+    <string id="q65JaEBW" text="Alya" />
+    <string id="q71nXdD4" text="Idź do trenera" />
+    <string id="QHhdmvLj" text="Trening bojowy" />
+    <string id="qNrWU4Or" text="Walka w zwarciu" />
+    <string id="qXv3BY5v" text="Możesz przytrzymać &quot;lewy Alt&quot; , aby pokazać wskaźniki na istotne postaci i miejsca.{newline}{newline}Znajdź naczelnika i porozmawiaj z nim." />
+    <string id="QZHSvGrD" text="Baldrim" />
+    <string id="rLEIuqZO" text="Po stoczonej bitwie możesz mieć możliwość wzięcia jeńców na okup i najęcia oswobodzonych więźniów przeciwnika.{newline}{newline}Obu dokonujesz przez przeniesienie ich do swojej drużyny używając strzałek z lewej strony." />
+    <string id="Rvn8tGB0" text="Twój brat poradził Ci najęcie przynajmniej czterech żołnierzy zanim zmierzysz się z bandytami.{newline}{newline}Możesz nająć ich w wioskach i miastach, klikając &quot;Rekrutuj żołnierzy&quot;." />
+    <string id="Sfd3aqia" text="Bandan" />
+    <string id="tZtrK3cs" text="Trening łucznictwa konnego" />
+    <string id="uW4htMut" text="Z mieczem i tarczą" />
+    <string id="w4Ajm40u" text="Faroc" />
+    <string id="WjuwOavt" text="Atak na kryjówkę zaczynasz z wrogiem nieświadomym Twojej obecności.{newline}{newline}Rozkaż żołnierzom podążanie za Tobą &quot;F1&quot; i &quot;F2&quot; i postaraj się pokonać ich w małych grupach." />
+    <string id="wq9sNkMc" text="Opuszczanie lokacji" />
+    <string id="WTF4ZIe7" text="Jatu" />
+    <string id="x4xx1Zd6" text="Rozkazy bitewne" />
+    <string id="X7Xp9xGe" text="Tertha" />
+    <string id="xCHBC7S9" text="Kliknij na &quot;Rozmowa&quot; , aby powrócić do naczelnika i dowiedzieć się więcej o zadaniu." />
+    <string id="Xr50xGhr" text=" ({TIME_SCORE} sekund)" />
+    <string id="XsIq2RFs" text="Baldim" />
+    <string id="yCEMiKjB" text="Wybierz {SELECTION}" />
+    <string id="yvdQ9MD6" text="Terea" />
+    <string id="Z33uQl2f" text="Tarya" />
+    <string id="z9eC5hjv" text="Włócznią i tarczą" />
+    <string id="ZozwfwVl" text="Broń się ({HIT} / {ALL})" />
+    <string id="ZW9OGfEt" text="Ratowanie &amp; Branie jeńców" />
+  </strings>
+</base>

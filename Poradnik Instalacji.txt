@@ -1,0 +1,14 @@
+Aby zainstalować spolszczenie:
+ 
+1. 	skopiuj całe foldery GUI i Modules do ścieżki gry bannerlorda,
+	np.
+	D:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord
+
+2.	zamień wszystkie pliki.
+
+3.	Po uruchomieniu gry, wejdź w opcje i zmień język z English na Polski.
+
+4.	Na wszelki wypadek po wprowadzeniu zmian uruchom grę ponownie.
+
+Pozdrawiamy,
+Zespół Projekt Polski Bannerlord :)

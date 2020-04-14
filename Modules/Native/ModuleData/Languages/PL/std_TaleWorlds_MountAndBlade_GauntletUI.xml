@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="074YAjOk" text="Zostałeś wyrzucony z powodu bezczynności" />
+    <string id="2SEofGth" text="Zmiana zespołu" />
+    <string id="4mMySbxI" text="Nieokreślony błąd" />
+    <string id="a0IHtkoa" text="Jesteś wyrzucony przez gospodarza gry" />
+    <string id="AbEh2y8o" text="Zapisz i wyjdź" />
+    <string id="aKjpbRP5" text="Nieznany powód" />
+    <string id="bV75iwKa" text="Zapisz" />
+    <string id="e0KdfaNe" text="Zapisz Jako" />
+    <string id="EzeFJo65" text="Zostałeś odłączony od serwera!" />
+    <string id="hvaDkG4w" text="Naciśnij dowolny klawisz." />
+    <string id="InGwtrWt" text="Wyjdź" />
+    <string id="ivKntfNA" text="Prośba o dołączenie już czeka na odpowiedź serwera" />
+    <string id="IzJ7f5SQ" text="Pojemność serwera jest pełna" />
+    <string id="JluTW3Qw" text="Gra zakończona" />
+    <string id="JQVixeQs" text="Nie można uzyskać dostępu do serwera gry" />
+    <string id="KRNdlbkq" text="Kończy się gra niestandardowa" />
+    <string id="Mm1Kb1bS" text="niepoprawne hasło" />
+    <string id="mO9bh5sy" text="Nie można dołączyć do gry niestandardowej" />
+    <string id="n4UUrd1p" text="Już w użyciu" />
+    <string id="NqarFr4P" text="Opcje" />
+    <string id="OhF7NqSb" text="Zostajesz zablokowany w grze przez głosowanie" />
+    <string id="RamV6yLM" text="Wyjdź do menu głównego" />
+    <string id="RGzyUTzm" text="Zmiana układu formacji na {ARRANGEMENT_ORDER}" />
+    <string id="srAJw3Tg" text="Gracz został zablokowany na serwerze" />
+    <string id="T8IniCKU" text="Serwer gry jest niedostępny" />
+    <string id="tKSxGy5p" text="Serwer nie odpowiada" />
+    <string id="vkpMgobZ" text="Błąd serwera gry" />
+    <string id="wbFB3N72" text="Jesteś wyrzucony z gry przez ankietę" />
+    <string id="wLpJEkKY" text="Awaria serwera" />
+    <string id="WvGviFgt" text="Upłynął limit czasu połączenia z serwerem" />
+    <string id="XnsAbUE3" text="Ponów" />
+    <string id="XzZFhRwr" text="Wróć do gry" />
+  </strings>
+</base>

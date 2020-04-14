@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="0GKH29JG" text="Najemny Strażnik" />
+    <string id="0GkJB08d" text="Sturgijski Doświadczony Strażnik Karawany" />
+    <string id="0Xku0LQD" text="Sturgijski Wieśniak" />
+    <string id="1MXhl6TV" text="tournament_template_vlandia_one_participant_set_v3" />
+    <string id="1PovWQ3G" text="tournament_template_aserai_one_participant_set_v1" />
+    <string id="1PsLlMaQ" text="Imperialny Ekwita" />
+    <string id="1sJcKkVP" text="Gwardzista" />
+    <string id="1WfDVpya" text="Sturgijski Łucznik" />
+    <string id="1zObCG2o" text="Battański Czempion Fian" />
+    <string id="275LD0Gh" text="Pracownik Sklepu" />
+    <string id="2gUjKT5H" text="Battański Konny" />
+    <string id="2HDPaohZ" text="Doświadczony Łowca" />
+    <string id="2RGc09o0" text="Alijin" />
+    <string id="2w6jXVzJ" text="Battański Preset" />
+    <string id="34as7AX2" text="tournament_template_battania_two_participant_set_v3" />
+    <string id="3lNtvh9W" text="Łowca Głów" />
+    <string id="3UoCf10i" text="Valtis" />
+    <string id="3uSMU7zy" text="Sturgia Weapon Dummy" />
+    <string id="3VosbFR0" text="Vlandzki Czempion" />
+    <string id="4BxUa4Sr" text="Aserajski Bojówkarz" />
+    <string id="4C4WiTb2" text="Varyag" />
+    <string id="5b6KjY5b" text="Vlandzki Siepacz" />
+    <string id="5JFkQn5U" text="Khuzaicki Ochotniczy Doświadczony Łucznik" />
+    <string id="5NhnfkCq" text="Battania Weapon Dummy" />
+    <string id="6akxY6JL" text="tournament_template_khuzait_four_participant_set_v2" />
+    <string id="6aqDcMPr" text="Maksymalny Pancerz (55)" />
+    <string id="6C3OMP1X" text="Battański Zwiadowca" />
+    <string id="6HG4SVYE" text="tournament_template_empire_two_participant_set_v1" />
+    <string id="6hhspFvz" text="Khuzaicki Doświadczony Strażnik Karawany" />
+    <string id="6oc7CXbI" text="Aserajski Doświadczony Farys" />
+    <string id="6UFEfIJV" text="Khuzaicki Włócznik" />
+    <string id="79ElOr2x" text="Handlarz Końmi" />
+    <string id="7aRhhGAs" text="Zabijaka" />
+    <string id="7EUhAv8b" text="Ghulam" />
+    <string id="7JZPTbxB" text="Uczony" />
+    <string id="7LaefhBV" text="Battania Gear Dummy" />
+    <string id="7WWUxI6y" text="Sturgijski Wytrawny Strzelec" />
+    <string id="80plewQ1" text="Rekrut Zaprzysiężonych" />
+    <string id="8bA4PvdG" text="Imperialny Ciężki Strzelec" />
+    <string id="8Gh8q1PX" text="Straż Królewska Beni Zilal" />
+    <string id="8nRua2zi" text="tournament_template_aserai_two_participant_set_v1" />
+    <string id="8PLgCsiR" text="Vlandzki Rycerz" />
+    <string id="8TdbKFa9" text="Aserajski Uzbrojony Handlarz" />
+    <string id="96pj2wxH" text="Sturgijski Wojownik" />
+    <string id="9Bw85Elg" text="Młody Dzik" />
+    <string id="9Di0NfG2" text="Niemowlę" />
+    <string id="9GIK6fnm" text="Kradus" />
+    <string id="9Ylw5Spz" text="Stary Dzik" />
+    <string id="9zXXes9i" text="Żołnierz Beni Zilal" />
+    <string id="A3XqnOlT" text="tournament_template_khuzait_two_participant_set_v2" />
+    <string id="a9b2fKYR" text="Sturgijski Berserker" />
+    <string id="abFIj4ZW" text="Battański Konny Bojówkarz" />
+    <string id="ac8MZYne" text="Battański Bohater" />
+    <string id="acubGB3g" text="Vlandzki Zaprawiony Kusznik" />
+    <string id="afhXdjBU" text="Nomad" />
+    <string id="ah2qifbo" text="tournament_template_vlandia_two_participant_set_v3" />
+    <string id="AlmaRAib" text="RuralNotableNotary" />
+    <string id="AloMryIU" text="Vlandzka Lekka Jazda" />
+    <string id="ansW4mx2" text="Mieszczanin" />
+    <string id="AoFZUbun" text="Aserajski Gwardzista Farys" />
+    <string id="arb5nRri" text="Aserajski Członek Plemienny" />
+    <string id="AssCCFew" text="Najemny Konny" />
+    <string id="aSZpSRmr" text="tournament_template_vlandia_four_participant_set_v2" />
+    <string id="aUHtqC9o" text="Vlandzki Poborowy Włócznik" />
+    <string id="auxU5OGA" text="Sturgijski Wjownik Sonu" />
+    <string id="B4ls6R2b" text="Aserajski Mstrz Łucznictwa" />
+    <string id="b4QPaEnA" text="Battański Poborowy Łucznik" />
+    <string id="B7oI7AZG" text="Khuzaicki Strażnik Khana" />
+    <string id="b7OTX7XO" text="tournament_template_vlandia_four_participant_set_v4" />
+    <string id="baAQDdE5" text="Mieszczanka" />
+    <string id="BBJKgKj2" text="Sturgijski Rekrut" />
+    <string id="BbTpfJ7G" text="Dranton" />
+    <string id="bFyidmyK" text="Sturgia preset" />
+    <string id="bHx8jaeI" text="Wojownik" />
+    <string id="bLMGbLF8" text="PreacherNotary" />
+    <string id="bLq2HXMo" text="Imperialny Doświadczony Strażnik Karawany" />
+    <string id="BmYpwIYi" text="Battański Wieśniak" />
+    <string id="bNnQt4jN" text="Kowal" />
+    <string id="brlJJW5I" text="Sturgijski Żołnierz" />
+    <string id="bTApMxWr" text="Vlandzki Rycerz Pocztowy" />
+    <string id="Btb7p3mD" text="Battański Wojownik Fian" />
+    <string id="bYn4ad1t" text="Doświadczony zaprzysiężony" />
+    <string id="c5rVdg75" text="Imperialny Doświadczony Poborowy Włócznik" />
+    <string id="c7uYiGFj" text="Sturgia Gear Dummy" />
+    <string id="CAYZDsAj" text="Legionista" />
+    <string id="Cc3knKFB" text="Straż Pałacowa" />
+    <string id="CDUvlu4d" text="Imperialna Platynowa Straż" />
+    <string id="cEKbOxRA" text="Weteran Eleftheroi" />
+    <string id="CfO7eDsv" text="Sturgijski Włócznik" />
+    <string id="CKoq1wQa" text="Khuzaicki Poborowy Strzelec" />
+    <string id="cMcGn6n3" text="Doświadczony Strażnik" />
+    <string id="cOt1onbR" text="Triarii" />
+    <string id="cP1bu5GK" text="Khuzaicki Ciężki Lansjer" />
+    <string id="CPcJ2gRF" text="Aserajski Poborowy Strzelec" />
+    <string id="cPQx1RXt" text="Sturgijski Uzbrojony Handlarz" />
+    <string id="CRRzVcBT" text="tournament_template_vlandia_two_participant_set_v2" />
+    <string id="CRzrHomf" text="Sturgijski Drużynnik" />
+    <string id="cSdSSXsO" text="Złoty Dzik" />
+    <string id="CsjtWt1g" text="Karczmarz" />
+    <string id="cte0zSCz" text="Imperialny Członek Plemienia" />
+    <string id="cVMvBy1p" text="Empire Gear Dummy" />
+    <string id="cZms8Ivb" text="Battański Młody Wysokourodzony" />
+    <string id="d6vsgKnp" text="Aserajski Wieśniak" />
+    <string id="d7MMYGLI" text="Aserai Weapon Dummy" />
+    <string id="dAIGb3JM" text="tournament_template_empire_four_participant_set_v2" />
+    <string id="dfv7E49q" text="Aserajski Plemienny Jeździec" />
+    <string id="DhtS4tVo" text="tournament_template_empire_four_participant_set_v1" />
+    <string id="DIt9SuMb" text="Kiełkujący" />
+    <string id="DlIU2vJB" text="Khuzaicki Strzelec Wyborowy" />
+    <string id="DNIa6a5p" text="Vlandzki Doświadczony Poborowy Strzelec" />
+    <string id="DNsbKR7B" text="Battański Goniec Leśny" />
+    <string id="DNTUqbGo" text="Xerina" />
+    <string id="DvHR91Ca" text="Khuzaicki preset" />
+    <string id="E2uvuKII" text="tournament_template_vlandia_four_participant_set_v3" />
+    <string id="e8qbF7Ey" text="Imperialny Menavliaton" />
+    <string id="ECxiXTbF" text="Notariusz Rzemieślnik" />
+    <string id="ehACDRBk" text="Ukryty Pionek" />
+    <string id="EhCc2XI1" text="Khuzait Gear Dummy" />
+    <string id="eHVgfyPH" text="Khuzacki Konny Strzelec" />
+    <string id="eHYBfWLj" text="tournament_template_aserai_two_participant_set_v3" />
+    <string id="euTE3FUY" text="tournament_template_battania_four_participant_set_v3" />
+    <string id="eWRlQ4XU" text="Złodziej" />
+    <string id="eYIMQafj" text="Imperialny Ciężki Jeździec" />
+    <string id="f2a1fPca" text="Khuzaicki Poborowy Doświadczony Włócznik" />
+    <string id="F54qLieU" text="Aserajski Strażnik Mameluk" />
+    <string id="fdaZ3tri" text="Sturgijski Łucznik" />
+    <string id="fHQ8ifKM" text="Imperialny Szkolony Strzelec" />
+    <string id="FpdoaZST" text="Vlandia Weapon Dummy" />
+    <string id="FrTTT0G1" text="Sturgijski Czempion Drużyny" />
+    <string id="fxGlBFPk" text="Szemrany Charakter" />
+    <string id="g1zvdEE3" text="Aserajski Weteran Piechoty" />
+    <string id="G9ByT85b" text="Hastati" />
+    <string id="gBuGfUg3" text="Karakhuzaicki Starszy" />
+    <string id="Gd0y7SxJ" text="Vlandzki Włócznik" />
+    <string id="Ge4GmFVE" text="tournament_template_sturgia_two_participant_set_v2" />
+    <string id="GEnwDYp1" text="Vlandzki Rekrut" />
+    <string id="GGlSSJ6w" text="tournament_template_empire_two_participant_set_v2" />
+    <string id="GGVehOu9" text="Giermek" />
+    <string id="GopVkA1q" text="Banita" />
+    <string id="GUQ3zfg2" text="Battański Ochotnik" />
+    <string id="Gvy2b4fa" text="Aserajski Młodzieniec" />
+    <string id="gwEB28tC" text="Szaleniec Bez Broni" />
+    <string id="gyvXsXs8" text="Battański Zdziczały Wojownik" />
+    <string id="gZ4JeEw4" text="Sturgijski Doświadczony Poborowy Strzelec" />
+    <string id="H5HJUejD" text="Aserajski Rekrut" />
+    <string id="H5iWxbbl" text="Chłopiec" />
+    <string id="H7eELtL6" text="Pożyczony Oddział" />
+    <string id="h7nGFImt" text="Niedoświadczony Łowca" />
+    <string id="hcMzt0G2" text="tournament_template_sturgia_two_participant_set_v3" />
+    <string id="HMHzTNqJ" text="Battański Szkolony Wojownik" />
+    <string id="HsboF2mR" text="Imperialny Doświadczony Poborowy Strzelec" />
+    <string id="HZRKBDyB" text="Żebrak" />
+    <string id="i17zuvS4" text="Sturgijski Łowca" />
+    <string id="i5DfUz6D" text="Battański Doświadczony Poborowy Strzelec" />
+    <string id="i5QgQbRi" text="Imperialny Żołnierz" />
+    <string id="i9Nm42Wl" text="tournament_template_battania_one_participant_set_v1" />
+    <string id="ieiqOaZp" text="Strzelec" />
+    <string id="IfjWyWjc" text="Imperialny Piechur" />
+    <string id="IHczn7ti" text="Battański Wysokourodzony Wojownik" />
+    <string id="IHKXNP9H" text="Mistrz Turniejów" />
+    <string id="IKvwsCaJ" text="Battański Najeźdźca" />
+    <string id="IxcCmtxz" text="Battański Doświadczony Poborowy Włócznik" />
+    <string id="iXjMfCyp" text="Khuzaicki Konny" />
+    <string id="IZ8OmByJ" text="Imperialny Szkolony Piechur" />
+    <string id="iZqYAIQy" text="Sturgijski Żołnierz Szturmowy" />
+    <string id="jaK1A7CI" text="Aserajski Farys" />
+    <string id="jFQPRvLg" text="Huskarl" />
+    <string id="JGsUtBT3" text="Imperialny Legionista" />
+    <string id="jMQvcrlf" text="tournament_template_empire_one_participant_set_v1" />
+    <string id="JMZiICD8" text="Vlandzki Wieśniak" />
+    <string id="jRFfRZv2" text="Sturgijski Poborowy Strzelec" />
+    <string id="jRFHgzHi" text="tournament_template_empire_four_participant_set_v3" />
+    <string id="juBPAThy" text="Battański Doświadczony Strażnik Larawany" />
+    <string id="JVG0zC4e" text="Aserajski Mameluk" />
+    <string id="jx8ohENz" text="Płatnerz" />
+    <string id="jxNe8lH2" text="Strażnik Karawany" />
+    <string id="k2vXtuDV" text="tournament_template_battania_four_participant_set_v1" />
+    <string id="k4EiLrU0" text="Sturgijski Ulfhednar" />
+    <string id="KAJKOooN" text="Khuzaicki Ciężki Konny Strzelec" />
+    <string id="kih9DwL4" text="Vlandzki Kusznik" />
+    <string id="KnhpjA7Y" text="Kolmaniec" />
+    <string id="kNt6v1Aa" text="Vlandia Gear Dummy" />
+    <string id="kPCcelVX" text="Handlarz " />
+    <string id="kppseK3N" text="Khuzaicki Plemienny Wojownik" />
+    <string id="KPrRxeC3" text="każdy z toporem i tarczą" />
+    <string id="KqpiU4tH" text="z bronią oburęczną" />
+    <string id="KtqB640w" text="Imperialny wieśniak" />
+    <string id="kueBlg9A" text="tournament_template_aserai_four_participant_set_v2" />
+    <string id="L0cGAnWw" text="Battański Poborowy Włócznik" />
+    <string id="L2q565AG" text="tournament_template_battania_two_participant_set_v1" />
+    <string id="l6NFOl8c" text="Khuzaicki Uzbrojony Handlarz" />
+    <string id="L8uOuwsM" text="tournament_template_sturgia_one_participant_set_v1" />
+    <string id="LbjxH9yp" text="Imperialny Strzelec" />
+    <string id="lduchnvD" text="Karakhuzaicki Jeździec" />
+    <string id="LEJukldW" text="Imperialny Uzbrojony Handlarz" />
+    <string id="LFUaO6rG" text="Khuzaicki Wieśniak" />
+    <string id="LKb8DXby" text="Battański Mistrz Karawany" />
+    <string id="lkrV8jZa" text="Khuzaicki Strzelec" />
+    <string id="LNfQk4MM" text="Min Armor (0)" />
+    <string id="LNNXiPyV" text="Ochroniarz Przywódcy Gangu" />
+    <string id="Loc1XOIk" text="Khuzacki Łowca" />
+    <string id="lumFaIud" text="Khuzaicki Lansjer" />
+    <string id="LVEU4se3" text="Sturgijski Doświadczony Poborowy Włócznik" />
+    <string id="lxU4pWsS" text="Battański Doświadczony Bojówkarz" />
+    <string id="LXybWXde" text="Wojownik Skolderbrotvy" />
+    <string id="m0T0vXjT" text="tournament_template_battania_two_participant_set_v4" />
+    <string id="Mcbjdntz" text="Jawwalski Jeździec Na Wielbłądzie" />
+    <string id="MDIuyBHP" text="Khuzaicki Poborowy Włócznik" />
+    <string id="mfFIyKIa" text="Brogomir" />
+    <string id="Mgr6qv1j" text="Najemny Miecznik" />
+    <string id="mrBbsiPN" text="Młody Wilk" />
+    <string id="muu5cofb" text="Mieszczanin" />
+    <string id="MVHawAEp" text="Ukryta Dłoń" />
+    <string id="MYwUFMsz" text="Imperialny Elitarny Katafrakt" />
+    <string id="mzyc3bms" text="Magister" />
+    <string id="n41jlEa3" text="Imperialny Rekrut Vigla" />
+    <string id="nDoENDqD" text="Aserajski Mistrz Karawany" />
+    <string id="nLGiBeUj" text="tournament_template_sturgia_four_participant_set_v2" />
+    <string id="noTLVPDD" text="Lekarz" />
+    <string id="nPyqHxmf" text="Vlandzki Spieszony Rycerz" />
+    <string id="nsyTIbtp" text="Weteran Zaprzysiężonych" />
+    <string id="o077j2j5" text="Nastolatek" />
+    <string id="o1jvmi9P" text="Khuzaicki Jeździec" />
+    <string id="OQPDvtpk" text="Vlandzki Chrobry Wojownik" />
+    <string id="oseSwa56" text="Vlandzki Rycerz" />
+    <string id="oXAbblBV" text="Main Hero" />
+    <string id="p4rN07tt" text="tournament_template_sturgia_two_participant_set_v1" />
+    <string id="P8EATvn8" text="Imperialny Poborowy Strzelec" />
+    <string id="PCZ23wvW" text="Inżynieria" />
+    <string id="Pd9qAiOu" text="Aserajski Doświadczony Poborowy Włócznik" />
+    <string id="PG7b26H7" text="tournament_template_khuzait_four_participant_set_v1" />
+    <string id="PgOknaEN" text="Najemny Kusznik" />
+    <string id="PJNW1UWK" text="Właściciel Sklepu" />
+    <string id="pOCOS8um" text="Dziecko" />
+    <string id="pooybAKI" text="Vlandzki Miecznik" />
+    <string id="pRbbJHkU" text="Imperialny Bucellarii" />
+    <string id="PU2zIMu0" text="Lalkarz" />
+    <string id="pzKCIEaK" text="Vlandzki Członek Plemienia" />
+    <string id="pzmgMODE" text="Sturgijski Strażnik Karawany" />
+    <string id="q1tbZIR9" text="Wyższa Średnia Pancerza (37)" />
+    <string id="q7b4pQc9" text="Zaprawiony Wilk" />
+    <string id="q7VeZazL" text="Battański Bojówkarz" />
+    <string id="Q7wFotYV" text="Mieszczanka" />
+    <string id="Q96uooDt" text="tournament_template_battania_four_participant_set_v2" />
+    <string id="qAsnj7vU" text="Imperialny Elitarny Menavlion" />
+    <string id="qAvxmnav" text="Jawwalski Beduin" />
+    <string id="QbSjMefR" text="Vlandzki Mistrz Karawany" />
+    <string id="qBVNIhme" text="Zaprawiony Eleftheroi" />
+    <string id="QE4RyAlt" text="tournament_template_vlandia_two_participant_set_v1" />
+    <string id="qfaTMEBw" text="Battański Strażnik Karawany" />
+    <string id="QfVe3IVw" text="Najemny Kusznik" />
+    <string id="QGPAEtj7" text="Weteran Varyagów" />
+    <string id="QhNpvW0Y" text="Khuzaicki Torguud" />
+    <string id="QlVeZvbv" text="Aserajski Zaprawiony Strażnik Karawany" />
+    <string id="qMqRkvWu" text="Mieszczanka" />
+    <string id="qMYpZKWo" text="Pryncyp" />
+    <string id="QNKfXvuA" text="Imperialny Chorąży" />
+    <string id="Qo2cc7bF" text="Skene" />
+    <string id="qu7ObbPa" text="tournament_template_aserai_four_participant_set_v3" />
+    <string id="QvSmhaAV" text="Wybrany Wilk" />
+    <string id="R74i2pQz" text="Najemne Ostrze" />
+    <string id="reoVAtrE" text="Kupiec Notariusz" />
+    <string id="rIqwYlSK" text="Khuzaicki Nomad" />
+    <string id="riT39wKu" text="Drzewko" />
+    <string id="Rj0bNOOh" text="Korzeń" />
+    <string id="RJNNsaSP" text="Sturgijski Harcownik" />
+    <string id="ro3qze3R" text="tournament_template_vlandia_one_participant_set_v2" />
+    <string id="rojq8QTp" text="Khuzait Weapon Dummy" />
+    <string id="rQ0t0Wws" text="Vlandzki Strażnik Karawany" />
+    <string id="rtOJNB6u" text="Poborowy Strażnik" />
+    <string id="Ru3xeL6l" text="Rybałt" />
+    <string id="RYP9hzIy" text="Stróż" />
+    <string id="RzZyrBw7" text="tournament_template_khuzait_four_participant_set_v3" />
+    <string id="s0oKleXi" text="tournament_template_battania_one_participant_set_v2" />
+    <string id="s3IJIFUw" text="Imperialny Rekrut" />
+    <string id="S6BosJUq" text="Rekrut Eleftheroi" />
+    <string id="S8ElYRrb" text="Aserajski preset" />
+    <string id="S9z09NaN" text="Doświadczony Pożyczony Oddział" />
+    <string id="SAILNYbu" text="Vlandzki Szkolony Piechur" />
+    <string id="SaqVvzyV" text="Najemny Kawalerzysta" />
+    <string id="SDRIahK8" text="Szaleniec" /> 
+    <string id="sG8BWbhw" text="tournament_template_battania_two_participant_set_v2" />
+    <string id="Si5ZCb1O" text="Vlandzki Pikinier" />
+    <string id="sMI3wMZu" text="disguise_equipment_set" />
+    <string id="SNziVpYb" text="tournament_template_khuzait_two_participant_set_v1" />
+    <string id="strAI" text="AI" />
+    <string id="SvAADOwm" text="Vlandzki Poborowy Kusznik" />
+    <string id="szrwmL2i" text="tournament_template_khuzait_two_participant_set_v3" />
+    <string id="t9eMjdgC" text="Empire Weapon Dummy" />
+    <string id="ta34CxLs" text="Krwawodziób" />
+    <string id="TbBnWiao" text="Imperialny Strażnik Larawany" />
+    <string id="tCCm9Pka" text="tournament_template_battania_two_participant_set_v5" />
+    <string id="tDYfuUuU" text="Aserajski Haremowy Eunuch" />
+    <string id="thbcgVVO" text="Kupiec" />
+    <string id="THOfB9DZ" text="Khuzaicki Strażnik Karawany" />
+    <string id="THyv3q9f" text="Imperialny Sierżant Kuszników" />
+    <string id="tke6VCV6" text="Aserajski Piechur" />
+    <string id="tKKZubh8" text="tournament_template_empire_two_participant_set_v3" />
+    <string id="tL6aGah4" text="Aserajski Doświadczony Poborowy Strzelec" />
+    <string id="Tm3CY9tC" text="Niższa średnia pancerza (12)" />
+    <string id="TpECDErA" text="Imperialny Mistrz Karawany" />
+    <string id="tPMjk0SX" text="tournament_template_khuzait_one_participant_set_v2" />
+    <string id="tSc0mHy7" text="Battaniański Wybrany Wojownik" />
+    <string id="twCIejxn" text="Organizator Gry" />
+    <string id="u0UNwnw2" text="Imperialny Katafrakt" />
+    <string id="u3K1SozQ" text="Nadrzewny" />
+    <string id="UaN2lfwi" text="Zbrojmistrz" />
+    <string id="uca778lM" text="Rekrut Beni Zilal" />
+    <string id="uDseaKcb" text="Sturgijski Mistrz Karawany" />
+    <string id="UdTc1PGo" text="Imperialny Kusznik" />
+    <string id="ueasbGtd" text="Doświadczony łowca" />
+    <string id="ugAzd39p" text="tournament_template_vlandia_one_participant_set_v1" />
+    <string id="ugJfuabA" text="Strzelec Konny" />
+    <string id="uh4rIbZ9" text="Konny" />
+    <string id="ULaNn3pp" text="Aserajski Poborowy Włócznik" />
+    <string id="uqpp0v8D" text="tournament_template_aserai_two_participant_set_v2" />
+    <string id="UrSjhs4x" text="Vlandzki Halabardnik" />
+    <string id="uViDMxLC" text="Skolderski Rekrut" />
+    <string id="UYPaQP2j" text="Khuzaicki Qanqli" />
+    <string id="uzwfybTH" text="Khuzaicki Piechur" />
+    <string id="V1hoeBch" text="Zaprawiony Łobuz" />
+    <string id="v5zz9lxR" text="Aserai Gear Dummy" />
+    <string id="V7iJlSuT" text="miecz w miecz" />
+    <string id="V8GrFH4B" text="Mieszczanka" />
+    <string id="v8hRrmY2" text="Battański uzbrojony Handlarz" />
+    <string id="VbWtdAWn" text="Sturgijski Konny Harcownik" />
+    <string id="VdmOugeu" text="tournament_template_vlandia_four_participant_set_v1" />
+    <string id="vGFdbjFC" text="Vlandzki Doświadczony Poborowy Włócznik" />
+    <string id="vkuJeNSa" text="Vlandzki Poborowy Strzelec" />
+    <string id="VqrQ096u" text="Khuzaicki Kheshig" />
+    <string id="VtlvxEs7" text="Battański Wojownik Klanowy" />
+    <string id="vxlAJIiU" text="Jawwalski Rekrut" />
+    <string id="vYeUaQSp" text="tournament_template_aserai_four_participant_set_v4" />
+    <string id="vZlMfmng" text="Aserajski Mameluk Z Toporem" />
+    <string id="W2WXkiAh" text="Pośrednik Okupów" />
+    <string id="w6YwFaG7" text="Khuzaicki Młodszy Włócznik" />
+    <string id="WbH2HS8j" text="Mieszczanka" />
+    <string id="WEHDGbEE" text="Khuzaicki Mistrz Karawany" />
+    <string id="Whj89hlF" text="tournament_template_sturgia_four_participant_set_v1" />
+    <string id="WJbOQSiT" text="Aserajski Elitarny Mameluk" />
+    <string id="wLuvDLeY" text="tournament_template_sturgia_one_participant_set_v2" />
+    <string id="WNU7kE5N" text="Doświadczony Strażnik" />
+    <string id="wtmCSMrC" text="Aserajski Piechur" />
+    <string id="X12lazIs" text="Vlandzki Uzbrojony Handlarz" />
+    <string id="X3KYysuv" text="Tancerz" />
+    <string id="X4GvzDdW" text="Battański Falxman" />
+    <string id="X6CQ9CMZ" text="Vlandzki Strzelec Wyborowy" />
+    <string id="xaYwo9tM" text="Najemny Zwiadowca" />
+    <string id="XgjXfmM1" text="Strażnik Lochu" />
+    <string id="XI3qvYnG" text="tournament_template_vlandia_two_participant_set_v4" />
+    <string id="xIFHLI66" text="Karakhuzaicki Nomad" />
+    <string id="xiuAStPO" text="Sturgijski Zaprawiony Wojownik" />
+    <string id="xJFWflj0" text="tournament_template_sturgia_four_participant_set_v3" />
+    <string id="xnzpQbwQ" text="Sturgijski Zatwardziały Konny" />
+    <string id="XTM6Lthg" text="tournament_template_aserai_four_participant_set_v1" />
+    <string id="XzDObEiH" text="Vlandzki Giermek" />
+    <string id="YE4RGuzU" text="Vlandzki Doświadczony Strażnik Karawany" />
+    <string id="yG42k5GC" text="Aserajski Strażnik Karawany" />
+    <string id="YGexslSX" text="Weteran Skolderbrotvy" />
+    <string id="yhBagy1Y" text="Aserajski Strzelec" />
+    <string id="YIuBzk88" text="Zwykły Wojownik" />
+    <string id="yMqWnBfT" text="Battański Zaprawiony Falxman" />
+    <string id="yPF32fbh" text="Vlandzki Piechur" />
+    <string id="yrGYZsQ7" text="Imperialny Doświadczony Piechur" />
+    <string id="YUCzyA8C" text="Aserajski Szkolony Mameluk" />
+    <string id="z4Ke6pJl" text="Czempion" />
+    <string id="z6RMWTaA" text="Karczmarka" />
+    <string id="Za4B0blc" text="Zaprawiony Wojownik" />
+    <string id="ZEA2JReZ" text="tournament_template_khuzait_one_participant_set_v1" />
+    <string id="zEQTwpnv" text="Aserajski Spieszony Mameluk" />
+    <string id="zfCoeglY" text="Grajek" />
+    <string id="ZhKoCVby" text="Imperialny Poborowy Włócznik" />
+    <string id="ZK0GXYCx" text="Siostra Miecza" />
+    <string id="ZKuabzhK" text="Khuzaicki Syn Szlachcica" />
+    <string id="zkVWALaF" text="Battański Możny Włócznik" />
+    <string id="Zmajp2o1" text="Sturgijski Poborowy Włócznik" />
+    <string id="ZRkceJx3" text="Sędzia" />
+    <string id="ZSU7sMYX" text="Khuzaicki Darkhan" />
+  </strings>
+</base>

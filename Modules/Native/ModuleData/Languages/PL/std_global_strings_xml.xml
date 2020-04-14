@@ -1,0 +1,621 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="03mPaWum" text="Królestwo" />
+    <string id="08oulGov" text="Wyrzuć broń z ręki." />
+    <string id="0EDGnl1C" text="Tylko dystansowa" />
+    <string id="0fLpwDzk" text="Ustawienia Wyświetlania.{newline}Okienkowy: Uruchamia grę w okienku.{newline}Pełny Ekran: Uruchamia grę w trybie pełnoekranowym.{newline}Borderless: Uruchamia grę w otwartym okienku." />
+    <string id="0hzYbsXD" text="Załóż broń 1 DESC" />
+    <string id="0MvDMsEl" text="Metoda Okluzji" />
+    <string id="0ot0eBzv" text="Ustawienia Kamery W Jeździe Konnej" />
+    <string id="0ufcpRUS" text="Kamera do góry" />
+    <string id="0WrKbmfz" text="SMAA x2" />
+    <string id="0x44y8fb" text="Grupa 2 Słuchaj DESC" />
+    <string id="0YV6wbsq" text="Zatrzymaj czas na mapie kampanii." />
+	<string id="16EUzfcH" text="Dostosuj poziom jasności zgodnie z twoimi preferencjami, używając suwaka." />
+    <string id="1awQTVqN" text="Ilość ragdoli" />
+    <string id="1dQFNvhQ" text="Numpad +" />
+    <string id="1ebaa1Wf" text="Przełącz tryb chodzenie/bieganie" />
+    <string id="1uCaibsd" text="Pełne" />
+    <string id="1WsmBXkN" text="Limit Klatek" />
+    <string id="1zEr6Zs8" text="Lewy drążek w prawo" />
+    <string id="25MeMNbP" text="Prawo" />
+    <string id="26r6Q8at" text="Right Stick Down" />
+    <string id="2Ao5DCb6" text="Ruch Drużyny Na Mapie : Dół" />
+    <string id="2AyPP3rw" text="Wysokie" />
+    <string id="2bPTx7So" text="Twoja postać przechodzi w stan kucania." />
+    <string id="2e8wI3EM" text="Załóż broń 2" />
+    <string id="2EjZcRgF" text="F5" />
+    <string id="2h2148cq" text="Wyślij wiadomość do wszystkich" />
+    <string id="2qFVBblU" text="Przełącz tryb broni DESC" />
+    <string id="2v1xw6JS" text="Prawy patyk" />
+    <string id="2ZJQylWo" text="Przełączaj między trybami biegu i chodu." />
+    <string id="3Dngsvya" text="Move Forward" />
+    <string id="3Gb7tKgJ" text="{LEFT} i {RIGHT}" />
+    <string id="3MLvkSjw" text="Trudność strzału" />
+    <string id="3nTeojbI" text="=" />
+    <string id="3oUbmqJY" text="Synchronizuje grę z częstotliwością odświeżania monitora. Eliminuje artefakty łzawiące." />
+    <string id="3P7eDKEY" text="Wyposaż przedmiot 4" />
+    <string id="3sRdGQou" text="Wyjdź" />
+    <string id="3V0bvyLC" text="{STR1}{STR2}" />
+    <string id="3YwMXbAT" text="Przyśmieszenie czasu na mapie kampanii." />
+    <string id="3zk3mzG4" text="Leave DESC" />
+    <string id="41Na9Lg1" text="Left Stick" />
+    <string id="44akzqlm" text="Strzałka w Prawo" />
+    <string id="45yEpDdE" text="Skala Rozdzielczości" />
+    <string id="46vWdakp" text="Y" />
+    <string id="4aAvY4yO" text="Niskie" />
+    <string id="4AyPI1H9" text="Camera Toggle DESC" />
+    <string id="4e0ycN1Q" text="Everyone Hear" />
+    <string id="4Gdng2Tt" text="Przytrzymaj, aby szybciej przesuwać kamerę po mapie kampani." />
+    <string id="4NaOKslb" text="-" />
+    <string id="4Nw1hF2R" text="Kopnij wrogów, aby złamać ich obronę, gdy nie atakują ani nie bronią się. Uderzaj wrogów swoią bronią." />
+    <string id="4Q9pzbqM" text="Włącz efekt wibracji kontrolerze." />
+    <string id="4R4shVxp" text="Ostrość obrazu" />
+    <string id="4SeC2VOQ" text="D-pad Right" />
+    <string id="4spC1rcN" text="SelectOrder7 DESC" />
+    <string id="4v3kotBH" text="SelectOrder2 DESC" />
+    <string id="4x1wGwW9" text="Wybierz Polecenie 7" />
+    <string id="4Z2NBfW4" text="Czat Drużynowy" />
+    <string id="58eAHUQi" text="Group 4 Hear DESC" />
+    <string id="5B3ptxje" text="Karta Postaci" />
+    <string id="5c7l7r31" text="Lewy przycisk myszy" />
+    <string id="5JwDMBlz" text="Move Left DESC" />
+    <string id="5jxcNYlU" text="Numpad 6" />
+    <string id="5QpTaCa0" text="W" />
+    <string id="5siWUJPw" text="Pełny Ekran" />
+    <string id="5WDQLWCk" text="Campaign AI" />
+    <string id="6AnHiJGR" text="Monitor Wyświetlania" />
+    <string id="6auWfPnA" text="SelectOrder6 DESC" />
+    <string id="6CeL6iOp" text="Wybierz Grupę 1" />
+    <string id="6g0y182U" text="Detale Środowiska" />
+    <string id="6HJxnF3G" text="Nie udało się zapisać gry!" />	
+    <string id="6QiPm27r" text="Przemieść swoją drużynę w górę na mapie kampani." />
+    <string id="6sIFj7K9" text="Przyspieszenie Czasu" />
+    <string id="6Uh76bYG" text="Map Time Stop" />
+    <string id="6uNvJbdx" text="Wybierz Grupę 4" />
+    <string id="7MU008BT" text="F11" />
+    <string id="7pBx0s07" text="Włącz wibracje w kontrolerze" />	
+    <string id="7phVPcDc" text="Ustawia jakość shaderów. Wyższa wartość oznacza lepsze efekty graficzne." />
+    <string id="7QKjVON8" text="Skok" />
+    <string id="7RV38Hoy" text="Group 7 Hear DESC" />
+    <string id="7S1aCWFa" text="Skacz pieszo lub konno." />
+    <string id="7SSytk7Z" text="U" />
+    <string id="7tYiV9Vw" text="Anizotropowe 8X" />
+    <string id="7vl1ebVZ" text="Lewy Control" />
+    <string id="7X6fZ5kQ" text="Włącza odbicia przestrzeni ekranu." />
+    <string id="7XmaJYuh" text="Przemieść swoją drużynę w prawo na mapie kampani" />
+    <string id="7zUWqY3O" text="Lewo" />
+    <string id="8AiDqTFB" text="Map Move Backward" />
+    <string id="8b45xcyL" text="Ustawia jakość drzew i traw." />
+    <string id="8b5HDBl9" text="Map Move Right DESC" />
+    <string id="8hArJQWf" text="Celownik" />
+    <string id="8iwie5KL" text="SelectOrder5" />
+    <string id="8kO2jDVf" text="Wpływa na jakość tekstur." />
+    <string id="8t4KDZfU" text="E" />
+    <string id="8UBfIenN" text="Normal" />
+    <string id="8WrQ9fnb" text="C" />
+    <string id="929oYf3G" text="Oddalenie" />
+    <string id="92ZztgDd" text="Jakość Naklejek" />
+    <string id="9F323ez4" text="Trójliniowy" />
+    <string id="9gAVbJAR" text="Wznów czas" />
+    <string id="9hRcH7kV" text="Promienie Słoneczne" />
+    <string id="9k4sahxA" text="Schowaj Swoją Wyposażoną Broń." />
+    <string id="9OHGqgjH" text="Przybliż, aby celować w wrogów lub patrzeć dalej." />
+    <string id="9pEc15Sb" text="S" />
+    <string id="9QsTWOYN" text="Start Button" />
+    <string id="9qZw55vR" text="Główny poziom głośności." />
+    <string id="9Rr1iimX" text="D-pad Left" />
+    <string id="9xKCz9BE" text="Przełączaj między widokiem pierwszej i trzeciej osoby." />
+    <string id="A0bqGRQc" text="F" />
+    <string id="A4B0GTqw" text="FXAA" />
+    <string id="Aa2Yokz3" text="Numpad *" />
+    <string id="aAaF9FWC" text="Prawy Control" />
+    <string id="accbLVWL" text="Ustawia technikę wygładzania. " />
+    <string id="acqAYxhr" text="," />
+    <string id="Ad8NUgpY" text="Group 5 Hear DESC" />
+    <string id="aFPK4kIi" text="Map Move Left DESC" />
+    <string id="AhrWBKx9" text="Wyposaż Przedmiot 1" />
+    <string id="AiYklNiQ" text="UI Move Right" />
+	<string id="AJFpx99v" text="Dostosowanie ekspozycji" />
+    <string id="aJxmDbur" text="Przytrzymaj, aby opuścić obszar. " />
+    <string id="aKghgqEl" text="SelectOrder1 DESC" />
+    <string id="aky3YmaT" text="Map Wait DESC" />
+    <string id="amdYLZ6o" text="Dziennik zadań" />
+    <string id="aNs2hcVi" text="UI Move Down" />
+	<string id="aombIn07" text="Ustaw poziom ekspozycji." />
+    <string id="ap1wEfdW" text="V" />
+    <string id="aqcFXbir" text="Right Stick Up" />
+    <string id="ar2Y8Xs9" text="{LEFT}: " />
+    <string id="asrbFBbn" text="Menu Rozkazów" />
+    <string id="au7tXcD1" text="Stereo" />
+    <string id="aufrcNmq" text="Szczegóły Cząstek" />
+    <string id="avDb6Y66" text="Middle Mouse Button" />
+    <string id="AVZ0zB0g" text="UI Switch To Right Tab" />
+    <string id="aWDfG0RO" text="F3" />
+    <string id="aydCb7WA" text="Średnie" />
+    <string id="Az084VJK" text="Obrona" />
+    <string id="b1OtYhnF" text="Filtrowanie Tekstur" />
+    <string id="b9rDOY21" text="SelectOrder2" />
+    <string id="bdJv9dcm" text="Przybliżanie" />
+    <string id="BDSEgN41" text="Ustawia ogólne ustawienia jakości grafiki." />
+    <string id="bEJsGiBK" text="Jakość Roślinności" />
+    <string id="bFSxl4Vl" text="UI Move Up DESC" />
+    <string id="bGbIRSmD" text="." />
+    <string id="BgjaAUNf" text="Ustawia jakość wody. Wyższa wartość oznacza bardziej szczegółową symulację wody." />
+    <string id="bgwA4Pd8" text="2" />
+    <string id="BJJl0qam" text="Faster" />
+    <string id="bJRFVONJ" text="X Button" />
+	<string id="Bl8cKwhL" text="Kalibracja wyświetlania" />
+    <string id="bmpagYCb" text="Wyposaż swoją tarcze lub zmień na następną." />
+    <string id="BmSzvXlZ" text="Do Przodu" />
+    <string id="bNWx8Zqb" text="Banner Window DESC" />
+    <string id="bqb2K5b1" text="Move Right" />
+    <string id="br4J1TTA" text="Take Screenshot DESC" />
+    <string id="BSdIYN9F" text="P" />
+    <string id="bT77aWti" text="Przełącz Broń" />
+    <string id="bvJUmRBd" text="Wybierz Grupę 2" />
+    <string id="bW2urPqE" text="SelectOrder6" />
+    <string id="bWV5BOyc" text="D-pad Down" />
+    <string id="bYwwY9qh" text="Numpad 5" />
+	<string id="c49AY7yF" text="Niskie (128)" />
+    <string id="C7zwur4k" text="Escape" />
+    <string id="cAkgnVr5" text="Num Lock" />
+    <string id="CbwmI1JY" text="Umożliwia głębię ostrości." />
+    <string id="cdaUUBFQ" text="UI Move Up" />
+    <string id="CnJQpaiK" text="Party Window DESC" />
+    <string id="combatkick" text="Kopnięcie / Uderzenie" />
+    <string id="cOuaMvNR" text="Temporal SMAA x2" />
+    <string id="cp80Mq2W" text=";" />
+    <string id="Crf6Z1S5" text="Page Up" />
+    <string id="CsEtp6Az" text="Group 3 Hear" />
+    <string id="ct0coyrR" text="A" />
+    <string id="cTHGQ62C" text="Group 1 Hear DESC" />
+    <string id="CTiemsyh" text="Numpad 3" />
+    <string id="Cvdaadvs" text="Bardzo Wysokie" />
+    <string id="cvhQOE38" text="Pokaż Kierunek Ataku" />
+    <string id="cWRA5VVr" text="Lewy Alt" />
+    <string id="czYbd1vo" text="H" />
+    <string id="D008gyKC" text="Wybierz Polecenie 1" />
+	<string id="d5a3QdBR" text="Nie można otworzyć pliku zapisu." />
+    <string id="d6DkPU2b" text="Całość" />
+    <string id="d75b5uSL" text="Dwuliniowe" />
+    <string id="dB6cFDmz" text="/" />
+    <string id="dbkFMtJw" text="Przybliżenie mapy" />
+    <string id="DbpgZxxK" text="Odległość kamery trzecioosobowej" />
+    <string id="dC1MBjrO" text="Wpływa na rozmiar pliku strumieniowanych tekstur. Wyższa wartość wymaga więcej zasobów obliczeniowych, ale oferuje płynniejszą rozgrywkę." />
+    <string id="Dg0SKmCS" text="Combat Speed DESC" />
+    <string id="dg6yQU6z" text="Wyślij wiadomość do drużyny" />
+    <string id="DiK2cKUi" text="Urządzenie dźwiękowe" />
+    <string id="DIvUcHY1" text="UI Leave" />
+    <string id="dkLG4JC4" text="Enter" />
+    <string id="DqFxOjTp" text="Rozdzielczość ekranu" />
+    <string id="drbgOAqx" text="Włącza raporty o uzyskiwaniu doświadczenia" />
+    <string id="drG1OL8d" text="Mouse Scroll Up" />
+    <string id="dRx9qWRO" text="Map Context Menu DESC" />
+    <string id="DTSHoHbu" text="Inventory Window" />
+    <string id="Dw58UUua" text="Podpowierzchniowe rozpraszanie" />
+    <string id="dYu897GO" text="A Button" />
+    <string id="E5xbXlLB" text="Włącza promienie słoneczne." />
+    <string id="ea8kNj32" text="Twoje preferowane urządzenie wyjściowe." />
+    <string id="EaOcWkH3" text="Otwórz encyklopedię." />
+    <string id="EkzORIiZ" text="Otwórz czat ze wszystkimi." />
+    <string id="evc8yBIy" text="M" />
+    <string id="EvOLbiqM" text="Wybierz Grupę 3" />
+    <string id="evzb1cmP" text="Załóż przedmiot na 4 slot." />
+    <string id="ewbUcb3N" text="UI Move Right DESC" />
+    <string id="eZsVkuQD" text="8" />
+    <string id="F7yNEXrV" text="Map Zoom In DESC" />
+    <string id="F8Q8mEak" text="UI Enter" />
+    <string id="fBXuMgdm" text="Campaign AI DESC" />
+    <string id="FEDEsbCx" text="Przemieść drużynę w dół względem mapy świata." />
+    <string id="ffHX9L80" text="Numpad 0" />
+    <string id="FHBoO2sp" text="6" />
+    <string id="fJnqJx8m" text="Okno Postaci" />
+    <string id="FLLnblfP" text="Raporty o stratach" />
+    <string id="FqvJUBRn" text="Bardzo niskie" />
+    <string id="fsI2wuHa" text="Grupa 2, słuchać" />
+    <string id="fXKtZqmW" text="Kamera w dół" />
+    <string id="G2e8xucc" text="Jeśli kratkowane wzory nie są widoczne wewnątrz ramek, spróbuj poruszać suwakiem.{newline}Dostosuj suwaki tak, aby ramki były ledwie widoczne." />
+    <string id="g4Iq82iw" text="Otwórz czat drużynowy." />
+    <string id="g4VjAbMG" text="J" />
+    <string id="G8ug5Bwx" text="Czat" />
+    <string id="gAJHtTK2" text="Włącza raporty o poziomie trudności oddanego strzału lub rzutu." />
+    <string id="GAWxyVgq" text="Delete" />
+    <string id="gCDjIGB6" text="Pokaż krew" />
+    <string id="Gd2iUUHa" text="Ustawia jakość renderowania cząstek. Wyższa wartość oznacza ostrzejsze cząsteczki." />
+    <string id="GgUBPvBH" text="Włącz wyświetlanie banerów na przyjaznych żołnierzach." />
+    <string id="gIsqhwTs" text="Pole widzenia z perspektywy pierwszej osoby" />
+    <string id="Gl2S6WEW" text="Ustawia monitorowi wyświetlanie okna gry." />
+    <string id="Gl7wgtPQ" text="Ruch Drużyny Na Mapie : Góra" />
+    <string id="glpNsbMs" text="Zoom DESC" />
+    <string id="GO6zrJwF" text="Inventory Window DESC" />
+    <string id="GPaZ8wOo" text="UI Switch To Right Tab DESC" />
+    <string id="GxHV8b1b" text="Numpad 1" />
+    <string id="gzMIzYTF" text="Game Log Window" />
+    <string id="h6wUbray" text="Ilość Ciał" />
+    <string id="haX0xRHa" text="Przyspieszenie Kamery Przewijania" />
+    <string id="hdbb0Jjp" text="Encyclopedia Window" />
+    <string id="HDV63kra" text="4" />
+    <string id="hfpb4NaS" text="Group 0 Hear DESC" />
+    <string id="hHxSj7tY" text="SelectOrder3" />
+    <string id="hK9bkACI" text="UI Switch To Left Tab" />
+    <string id="hL2Lnp6N" text="View Orders DESC" />
+    <string id="HmgPBPeq" text="Rozdzielczość Pulpitu" />
+    <string id="HNTCnUYY" text="Party Window" />
+    <string id="HRTeeku9" text="D-pad Up" />
+    <string id="Hs1CYfbc" text="Załóż następną broń" />
+    <string id="hS4wYBa8" text="Reverse Order Group" />
+    <string id="HsljR1NL" text="Equip Weapon 1" />
+    <string id="HsYbuReS" text="PCF" />
+    <string id="hUyPaplJ" text="Rozmiar Bitwy" />
+    <string id="HVa0okoe" text="F9" />
+    <string id="HxIqxjmk" text="Wybierz Wszystkich" />
+    <string id="HyDC937R" text="Map Time Fast Forward DESC" />
+    <string id="hZEAeoCk" text="Przemieść swoją drużynę w lewo na mapie kampani." />
+    <string id="I3eooo5c" text="Ustawia jakość terenu." />
+    <string id="I3rTzBae" text="Jakość Postaci" />
+    <string id="i5xbEcE3" text="Wznów lub wstrzymaj czas na mapie kampanii." />
+    <string id="I6OJtaMT" text="Nigdy" />
+    <string id="i6rQFv6i" text="Map Move Forward DESC" />
+    <string id="I9PN1qny" text="Numpad Enter" />
+    <string id="IahiWHHW" text="K" />
+    <string id="IaoVYeZi" text="Włącza teselację." />
+    <string id="IBEJPlEj" text="Home" />
+    <string id="Ibl4avht" text="Right Bumper" />
+    <string id="iblHebbT" text="F1" />
+    <string id="IcEPmXxM" text="Ustawia technikę okluzji otoczenia." />
+    <string id="ICgda8Is" text="W górę Podwójne naciśnięcie: Sprint" />
+    <string id="ID9lG6xg" text="Wyświel Polecenia" />
+    <string id="IDKbw4Sw" text="UI Leave DESC" />
+    <string id="igGLkaf6" text="Wyposaż Przedmiot 2" />
+    <string id="iGi5HsGS" text="Lewy Shift" />
+    <string id="IiioTamH" text="TSAO" />
+    <string id="IjhCSwNn" text="Oddal kamerę od swojej postaci w widoku trzeciej osoby." />
+    <string id="IjRHUbbN" text="Teselacja" />
+    <string id="IKjxVh2N" text="Motion Blur" />
+    <string id="ikoUJQyl" text="Włącza efekt Bloom." />
+    <string id="IOZ4aWVp" text="Wybierz Grupę 8" />
+    <string id="IPbh2TvZ" text="Pisz na czacie zespołu" />
+	<string id="iPx4jep6" text="Ekspozycja" />
+    <string id="Irhxad7u" text="Jakość Wody" />
+    <string id="iTau5cxh" text="Przeciętne" />
+	<string id="iUFgqwkA" text="Średnie (256)" />
+    <string id="iwO3g6Rz" text="Wybierz, jak trudne będzie Si walki." />
+    <string id="IYLn67Xm" text="X" />
+    <string id="Iz2vu6xM" text="Rolka myszy w dół" />
+    <string id="iZq6c4bd" text="UI Move Left DESC" />
+    <string id="izZCwYNb" text="SMAA" />
+    <string id="j2g8BSOF" text="Statyczne i dynamiczne" />
+    <string id="J2pcA6KR" text="Swobodna Kamera Postaci" />
+    <string id="j3k8PiPo" text="Włącza efekt fizyki trawy." />
+    <string id="j4F7tTzy" text="Klan" />
+    <string id="jaeLYPIG" text="Pauza" />
+    <string id="jafcz97A" text="Jakość Cieni" />
+    <string id="JAzv5xYY" text="Włącz raporty dla zadanych obrażeń." />
+    <string id="jbLwdd6z" text="Słuchawki" />
+    <string id="jbMwcl0G" text="Everyone Hear DESC" />
+    <string id="jd9ZG2CI" text="R" />
+    <string id="jgCb0sga" text="Włącz celownik dla broni dystansowej." />
+    <string id="jIcGy6gI" text="{LEFT} : {RIGHT}" />
+    <string id="JLqe3lrb" text="Poziom Trudności SI na Bitwie" />
+    <string id="JLtTANZg" text="Move Left" />
+    <string id="JmlrVqFz" text="Equip Weapon 2 DESC" />
+    <string id="JP1y1i0A" text="Equip Weapon 4" />
+    <string id="Js1lhJkk" text="Język" />
+    <string id="Ju6btXsv" text="Kontrola Kierunku Ataku" />
+    <string id="jvOYgHOe" text="Własne" />
+    <string id="JXdwIX8Q" text="Ustaw grubość śladów broni dystansowej." />
+    <string id="jZs8I1Uq" text="Włącza efekt ziarna filmu." />
+    <string id="JZYQGUF3" text="W dół Podwójne naciśnięcie: Nagłe chamowanie" />
+    <string id="k2QXfBBn" text="Y Button" />
+    <string id="k3CLKsrz" text="Przez ruch myszy" />
+    <string id="k3LajvfJ" text="Otwórz Ekran Edytora Banerów" />
+    <string id="k4E1gylQ" text="Ustawia poziom efektu wyostrzenia." />
+    <string id="k7gJYLLj" text="Numpad 8" />
+    <string id="K80z5onY" text="Określa odległość kamery w trybie osoby trzeciej." />
+    <string id="kak4GxOh" text="F6" />
+    <string id="KBSbXN5F" text="Left Stick Left" />
+    <string id="kF5FabLb" text="Defend DESC" />
+    <string id="kG4051e5" text="SelectOrder7" />
+    <string id="KHbdmIfF" text="Tylko Statyczne" />
+    <string id="KjZas5Xs" text="Ustawia kartę graficzną, na której będzie działać gra." />
+    <string id="Kk0hMffJ" text="Czułość Myszy" />
+    <string id="KKNmozPI" text="Strzałka w Lewo" />
+    <string id="KO5zuUvN" text="Akcje" />
+    <string id="KONClayU" text="\" />
+    <string id="koX9okuG" text="Wyłączone" />
+    <string id="KtYtBnvP" text="Ustawia limit klatek." />
+    <string id="KUEHAD4U" text="Zadania" />
+    <string id="KUGomrhD" text="Nie pokazuj tego ponownie" />
+    <string id="KwNTg7BT" text="Ustawienia Wyświetlania" />
+    <string id="lC5xsoSh" text="Nieograniczone" />
+    <string id="lCucoVwJ" text="Szacowane użycie pamięci GPU" />
+    <string id="lgOBD6MF" text="Włącz znaki dla kierunku ataku." />
+    <string id="lgzmPG6K" text="Kucanie" />
+    <string id="lhHUGbnm" text="Pisz na czacie ogólnym" />
+    <string id="LjNnWa7R" text="F10" />
+    <string id="LJZAvH8f" text="Jakość Tekstur" />
+    <string id="ll2iP8yo" text="Using more than your available GPU memory can result in serious performance drops and stability issues. Proceed with caution." />
+    <string id="LoZajra1" text="View Character DESC" />
+    <string id="Lp0byzGQ" text="I" />
+    <string id="LsX8rTwl" text="Otwórz ekran rozwoju postaci" />
+    <string id="lsxqkhy6" text="O" />
+    <string id="lxIeKgXe" text="Schowaj Broń" />
+    <string id="LYAeYPlT" text="Sheath Weapon DESC" />
+    <string id="m1PinhQd" text="Otwórz ekran drużyny." />
+    <string id="M1ZFZR5I" text="Jakość Terenu" />
+    <string id="M2LCpC4Z" text="Odwróć Oś Myszy" />
+    <string id="m7B471Hw" text="Ustawia jakość oświetlenia." />
+    <string id="Mf5qVgAv" text="Wyposaż Przedmiot 3" />
+    <string id="MFbBFDqx" text="Map Fast Move" />
+    <string id="MfsNAPh6" text="Umożliwia rozpraszanie podpowierzchniowe." />
+	<string id="MfunBOxF" text="Kalibruje poziomy kontrastu." />
+    <string id="mG4rCrfE" text="0" />
+    <string id="MkKL3Y4P" text="Numpad 7" />
+    <string id="mLtHlKzD" text="Right Alt" />
+    <string id="MNsKxGzK" text="Przesyłanie strumieniowe tekstur" />
+    <string id="Mpl0oqe9" text="Map Zoom Out DESC" />
+    <string id="mueocuFG" text="Pokaż Znaczniki" />
+    <string id="mWnA4X5D" text="Wybierz Polecenie 6" />
+    <string id="MXHkvySm" text="F7" />
+    <string id="MxmOWsHj" text="Encyklopedia" />
+    <string id="Mxnj08mB" text="Ruch Drużyny Na Mapie : Prawo" />
+    <string id="N5fmlTza" text="{LEFT}, {RIGHT}" />
+    <string id="n6cE42p9" text="Equip Secondary Weapon DESC" />
+    <string id="nD11hOsQ" text="Otwórz dziennik zadań." />
+    <string id="nDjFBDvE" text="Ustawia maksymalną liczbę jednostek w bitwach. Wyższa wartość wymaga lepszego procesora i karty graficznej." />
+    <string id="NdZYJ8dO" text="SelectOrder5 DESC" />
+    <string id="NkgHkAlZ" text="SelectOrder8 DESC" />
+    <string id="nMeL96ib" text="(HOLD) Leave" />
+    <string id="NN7DHB1A" text="Group 1 Hear" />
+    <string id="nNBb8a9A" text="UI Enter DESC" />
+    <string id="NPBaJKwW" text="Move Forward DESC" />
+    <string id="nsM4izfn" text="Crouch DESC" />
+    <string id="o0QPZODk" text="Ruch Drużyny Na Mapie : Lewo" />
+    <string id="o8WjGqS4" text="Z" />
+    <string id="ocNVbyPJ" text="Pełny ekran bez obramowania" />
+    <string id="odsVjkbO" text="Otwórz ekwipunek." />
+    <string id="oEdTBobd" text="Anizotropowe 2X" />
+    <string id="oeXA4OpG" text="Map Select DESC" />
+    <string id="OgXnrvcA" text="Włącza fizykę ubrań. Wykorzystuje pamięć procesora." />
+    <string id="oHaWR73d" text="Ok" />
+    <string id="OHs18aCS" text="Najwolniej" />
+    <string id="oI1gktYa" text="Poziom głośności efektów dźwiękowych." />
+    <string id="OiB50fga" text="Map Select" />
+    <string id="oMaTg568" text="Zbliż kamere do mapy kampanii." />
+    <string id="Oo7wQbfG" text="X2 Mouse Button" />
+    <string id="Op68a8dO" text="Skróty menu" />
+    <string id="OqYO78Jb" text="SelectOrder9 DESC" />
+    <string id="OREWvYbi" text="Equip Weapon 4 DESC" />
+    <string id="otHjiYlN" text="Jakość Cząstek" />
+    <string id="OtS4DYD1" text="T" />
+    <string id="OYaqdNAI" text="Wybierz Polecenie 2" />
+    <string id="P4rblFQN" text="Oddalenie mapy" />
+    <string id="P5x1HU1u" text="Wygładzanie" />
+    <string id="P63jJ5Jq" text="Back Button" />
+    <string id="P7E3rS3m" text="Poziom głośności muzyki." />
+    <string id="pa8A2VG3" text="Włącz czerwoną ramkę wokół ekranu, gdy gracz otrzyma obrażenia." />
+    <string id="PACe9VHN" text="&lt;" />
+    <string id="PADeKaAu" text="Map Context Menu" />
+    <string id="PjP4MktO" text="Equip Primary Weapon DESC" />
+    <string id="PksJtzwJ" text="Spacja" />
+    <string id="Pkw17hO0" text="Prędkość walki" />
+    <string id="pLCcV4GU" text="UI Switch To Left Tab DESC" />
+    <string id="pMRw0fvV" text="Map Fast Move DESC" />
+    <string id="pnEeRPAk" text="Grupa 7, słuchać" />
+    <string id="pNocZkrx" text="Włącz Efekty Wizualne Otrzymywanych Obrażeń" />
+    <string id="PPFFxlsX" text="Wybierz sposób wykonywania bloków." />
+    <string id="pQVSwtfn" text="Przybliż kamerę do swojej postaci w widoku trzeciej osoby." />
+    <string id="PRsSB9B8" text="Interakcja z bronią, wierzchowcami, drzwiami, ludźmi itp." />
+    <string id="ps103cxD" text="Wykonaj atak swoją bronią." />
+    <string id="pshodFff" text="Widoczność szlaku broni dystansowej" />
+    <string id="PtI8voo3" text="F8" />
+    <string id="PvNGaexX" text="Przytrzymaj, aby pokazać znaki dla ważnych osób, miejsc, tabliczek itp" />
+    <string id="pVrv5hnp" text="B" />
+    <string id="py0auN0A" text="{ESTIMATED} MB / {TOTAL} MB" />
+    <string id="QaMie1KY" text="Tylko walka w zwarciu" />
+    <string id="QBzjt1c4" text="Extended Key 1" />
+    <string id="qggjceRq" text="Wyjście Dźwięku" />
+    <string id="QIVW29Yw" text="Game Log Window DESC" />
+    <string id="QiYy3Ja4" text="Powrót" />
+    <string id="qnCZjP1H" text="Quests Window DESC" />
+    <string id="qnxJYAs7" text="Drużyna" />
+    <string id="qOcw1xap" text="Page Down" />
+    <string id="QoGjzEwI" text="Move Back" />
+    <string id="qR1j0Mu5" text="Encyclopedia Window DESC" />
+    <string id="qS0z458V" text="~" />
+    <string id="QsdUafoH" text="Wybierz Polecenie 5" />
+    <string id="qSJZyoro" text="F2" />
+    <string id="qsrqjK0B" text="Ustawia poziom szczegółowości elementów środowiska." />
+    <string id="qtgBKzY8" text="Ustawia liczbę widocznych zwłok." />
+    <string id="qvaJYO9c" text="Anizotropowe 16X" />
+    <string id="qW1FWX0C" text="Strzałka w Dół" />
+    <string id="qYTo5C4x" text="Quick Save DESC" />
+    <string id="r0tu2Y57" text="Wstecz" />
+    <string id="R9cQCadq" text="Wybierz sposób przeprowadzania ataków." />
+    <string id="r9tGsO4Z" text="Wymagane ponowne uruchomienie gry" />
+    <string id="RaijrIxP" text="Interakcja" />
+    <string id="rbz1Bwbv" text="Ekwipunek" />
+    <string id="rCstRmpZ" text="Left Stick Down" />
+    <string id="RdARXWNw" text="Pionowy Ruch Myszy" />
+    <string id="rH6gEaNP" text="Drop Weapon DESC" />
+    <string id="Rh7aDJ3n" text="Banner Window" />
+    <string id="Rhl5E2ut" text="Ustawia rodzaj cieni." />
+    <string id="rNiESgEo" text="]" />
+    <string id="ro0NhUnJ" text="Ustaw pole widzenia dla kamery z perspektywy pierwszej osoby." />
+    <string id="roJLc9oH" text="Połowa" />
+    <string id="rP058aIm" text="Wyposaż przedmiot w pierwszym slocie." />
+	<string id="rs0wImmD" text="Nie można utworzyć pliku zapisu." />
+    <string id="RSmsn6mb" text="Wznowienie / Pauza" />
+    <string id="rwE0VVQX" text="Map Camera Follow Mode DESC" />
+    <string id="RX76Kfa8" text="Przełączanie Kamery" />
+    <string id="rYCYUZu5" text="Grupa 5, słuchać" />
+    <string id="s4QeCCDp" text="(Double Press) Sudden Turn Right" />
+    <string id="s4r1xdg0" text="Grupa 6, słuchać" />
+    <string id="s533kEjf" text="Muzyka" />
+    <string id="s6qTeIw1" text="Ustaw czułość myszy i sterowanie kamerą." />
+    <string id="s7yWjpeB" text="Karta Graficzna" />
+    <string id="sAa2SIgO" text="Możesz przełączać się między różnymi trybami miksowania, lepiej dostosowanymi do konfiguracji głośników." />
+    <string id="SaA3oKNB" text="Map Move Backward DESC" />
+    <string id="sAoWNAwZ" text="W Oknie" />
+    <string id="Sb3L2QwL" text="Ustawia skalę rozdzielczości." />
+    <string id="sbUBtOTb" text="Raport Obrażeń" />
+    <string id="SEucYSln" text="Numpad 2" />
+    <string id="ShDZ4GgG" text="Equip Weapon 3" />
+    <string id="SN6IWnyb" text="Najszybsza" />
+    <string id="sQCP8t0U" text="Map Wait" />
+    <string id="sqPUaHTk" text="Action DESC" />
+    <string id="StaoHYba" text="Group 4 Hear" />
+    <string id="sTlHHQPs" text="Musisz ponownie uruchomić grę, aby to ustawienie zaczęło obowiązywać" />
+    <string id="SuYh3GtG" text="Toggle Weapon Mode" />
+    <string id="SWDHaFCK" text="SelectOrder4" />
+    <string id="sxFsZAeC" text="1" />
+    <string id="T3Ex0K1p" text="End" />
+    <string id="T6IJg6wq" text="Map Camera Follow Mode" />
+    <string id="T7VMJyYS" text="SelectOrder3 DESC" />
+    <string id="TAaxoNCf" text="Move Back DESC" />
+    <string id="tbGol5PT" text="F4" />
+    <string id="tbwhjsqS" text="Prawy przycisk myszy" />
+    <string id="Tdf5AbRp" text="Otwórz ekran klanu." />
+    <string id="teuLiI9S" text="Ustawia poziom jasności." />
+    <string id="TEuOMadV" text="Tab" />
+    <string id="tewykKdc" text="Kontrola Kierunku Obrony" />
+    <string id="TgIAHPHs" text="Wybierz Polecenie 4" />
+    <string id="tifiQGTa" text="Otwórz ekran królestwa." />
+    <string id="TIYrYxpr" text="Wybierz Grupę 5" />
+    <string id="tkCbjgfx" text="Numpad -" />
+    <string id="TOebahlA" text="Przyśpieszenie czasu mapy" />
+    <string id="TPEUvYDt" text="Right Stick Right" />
+    <string id="ttCcMbwO" text="Strzałka w Góre" />
+    <string id="TtusHm10" text="Slower" />
+    <string id="TtWjblNo" text="Toggle Show" />
+    <string id="TUWeNFOv" text="Take Screenshot" />
+    <string id="TvGJqPGp" text="Włącz raporty zgonów i nokautów." />
+    <string id="TVXacQUJ" text="Czat Ogólny" />
+    <string id="tw5Wxv3b" text="Numpad ." />
+    <string id="u2dQaVY2" text="Wyposaż przedmiot w trzeczim miejscu." />
+    <string id="u5aqR1ys" text="Temporal SMAA" />
+    <string id="U5xKAHGi" text="Bloom" />
+    <string id="u7FkCtRN" text="Grupa 0, słuchać" />
+    <string id="U8NaF1bo" text="Dostosuj Jasność" />
+    <string id="Uaae1eBV" text="Prawy podwójny przycisk: Nagły zwrot w prawo" />
+    <string id="UboDNGJw" text="Wybierz Grupę 7" />
+    <string id="uBRn8Je8" text="3" />
+    <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}" />
+    <string id="UFHqkvah" text="Fizyka Trawy" />
+    <string id="UixNc11t" text="Broń ataków bronią lub tarczą." />
+    <string id="UjX1E56u" text="Odwrotny ruch myszy" />
+    <string id="ukw0Zi1X" text="[" />
+    <string id="UNmUcizM" text="Wybierz Polecenie 3" />
+    <string id="Uojm77jP" text="Jakość Oświetlenia" />
+    <string id="UoxjMhfJ" text="SelectOrder1" />
+    <string id="UqB9zKfE" text="Wyposaż główną broń" />
+    <string id="uQfDuGem" text="Oddalanie" />
+    <string id="urbLiiQJ" text="Konfiguracja ekspozycji" />
+    <string id="urSa4wQG" text="Pokaż Sztandary Sojuszniczych Jednostek" />
+    <string id="uRXlSUVh" text="N" />
+    <string id="uSGPBRFS" text="Zbliżenie Celowania" />
+    <string id="uSVfhkwj" text="B Button" />
+    <string id="UTU6yVsp" text="Wznów grę na mapie kampanii." />
+    <string id="uUHUfeQr" text="Wybierz Grupę 6" />
+    <string id="UwJIMaRi" text="Jakość Shadera" />
+    <string id="UwuYCgIU" text="Ostrzeżenie" />
+    <string id="UwXP9UAR" text="Dobre" />
+    <string id="UY79LYHf" text="Słabe" />
+    <string id="UZUKtbSJ" text="(Double Press) Charge Forward" />
+    <string id="v8GIxASM" text="Synchronizacja Pionowa" />
+    <string id="vAnlshLW" text="9" />
+    <string id="VasVb9DK" text="Wyposaż swoją broń lub zmień na następną." />
+    <string id="VAtNIoKC" text="L" />
+    <string id="Vb2KV9q1" text="Right Stick Left" />
+    <string id="Ve99pCSo" text="Fizyka Ubrań" />
+    <string id="VE9TavSl" text="Ustawia jakość naklejek." />
+    <string id="Vn4uzMUH" text="Group 6 Hear DESC" />
+    <string id="Vo5lBwQA" text="Equip Weapon 3 DESC" />
+    <string id="Vpy2qEcN" text="Według klawiszy kierunowych" />
+    <string id="vT3yIxmO" text="Numpad 4" />
+    <string id="vXvmeGhm" text="Rodzaj Cieni" />
+    <string id="VzSerzva" text="Prawy Shift" />
+    <string id="w4l8xA2Q" text="Map Move Left" />
+    <string id="waNCurZY" text="Włącza efekt rozmycia ruchu." />
+    <string id="wb84GjZw" text="Filtrowanie Cieni" />
+    <string id="WBVMg0bd" text="Ustawia technikę filtrowania tekstur. Wyższa wartość oznacza bardziej szczegółowe i ostre tekstury." />
+    <string id="wdVrbMbQ" text="Kick DESC" />
+    <string id="wg5YeO4k" text="Mapa Kampanii" />
+    <string id="wGa1SUop" text="Wyposaż przedmiot w drugim miejscu." />
+    <string id="whn4v32E" text="Ustawia rozdzielczość cieni." />
+    <string id="WiBlu6mE" text="SelectOrder9" />
+    <string id="wJWICbOg" text="Twój preferowany język gry." />
+    <string id="WldVAZhy" text="Ustawia poziom szczegółowości modeli postaci." />
+    <string id="wMe5p2HG" text="7" />
+    <string id="WMmGH9yp" text="Oddal kamere z mapy kampanii." />
+    <string id="wNOvkaRa" text="SelectOrder4 DESC" />
+    <string id="WOubRnjm" text="Raport Doświadczenia" />
+    <string id="wWDHH5FK" text="DOF" />
+    <string id="WWEa79vw" text="UI Move Left" />
+    <string id="wYicqUa9" text="Normalny czas mapy" />
+    <string id="X0N6Ij5Z" text="Attack DESC" />
+    <string id="X5cSNxHf" text="5" />
+    <string id="x7kYOUfi" text="Efekty" />
+    <string id="x7OgHYfc" text="{LEFT}" />
+    <string id="x7qfk550" text="Q" />
+    <string id="XdCZzFrV" text="Map Time Stop DESC" />
+    <string id="xEquRfRF" text="10" />
+    <string id="xhdIdzWK" text="Character Window DESC" />
+    <string id="xnGGas4h" text="Odwróć oś myszy do sterowania kamerą." />
+    <string id="XnhBdHnS" text="Dźwięk przestrzenny" />
+    <string id="XnoL375p" text="Jump DESC" />
+    <string id="xNprkuJl" text="Rzuć broń" />
+    <string id="xnulLUFX" text="Zapisz swoją grę szybko za pomocą skrótu." />
+    <string id="XoQ13rWc" text="UI Move Down DESC" />
+    <string id="xRbpqS2U" text="Group 3 Hear DESC" />
+    <string id="XrUGC7H4" text="Backspace" />
+    <string id="xtFZDect" text="(Double Press) Sudden Turn Left" />
+    <string id="xuOz73hl" text="Wybierz, czy krew jest widoczna w bitwach." />
+    <string id="XXbswuug" text="Reverse Order Group DESC" />
+    <string id="xyFNxwyH" text="(Double Press) Sudden Break" />
+    <string id="xZ84ujuu" text="Ile dźwięków można odtwarzać jednocześnie. Niższe wartości obniżą użycie procesora, a wyższe wartości zapewnią lepszą atmosferę." />
+    <string id="y4fZ1Gn7" text="Ustaw swój pionowy mnożnik ruchu myszy w porównaniu z ruchem poziomym." />
+    <string id="y7dx24ih" text="Obracanie kamery podczas zmiany kierunku na koniu w widoku z pierwszej osoby." />
+    <string id="Y9Xqe21r" text="Left Bumper" />
+    <string id="YAHs7wBa" text="Wybierz Polecenie 8" />
+    <string id="ybHmTTyI" text="Left Stick Up" />
+    <string id="YDccwh2x" text="Główna Głośność" />
+    <string id="YDnWm5eI" text="Left Trigger" />
+    <string id="yDr2HCFR" text="Widok 360 stopni wokół swojej postaci." />
+    <string id="yfMN8wWN" text="Anizotropowe 4X" />
+    <string id="Yg2jHH1M" text="Numpad /" />
+    <string id="yLCSTuBw" text="Ustawia rozdzielczość gry. Wyższa rozdzielczość wymaga mocniejszej karty graficznej." />
+    <string id="Yn8bh0qT" text="Wyposaż Następną Tarcze" />
+    <string id="YT6ljA5V" text="Map Move Forward" />
+    <string id="yV64UCaW" text="Zbliżenie" />
+    <string id="YZv1752W" text="D" />
+    <string id="yZvw7EQb" text="Odbicie przestrzeni ekranu" />
+    <string id="z8XjxODK" text="Zmień na alternatywne użycie broni. W zwarciu lub na dystans." />
+    <string id="ZaaPPemL" text="SelectOrder8" />
+    <string id="ZBA0g1L8" text="Right Trigger" />
+    <string id="ZeIsxhk4" text="Ustawia technikę filtrowania cieni." />
+    <string id="ZewnkWoO" text="G" />
+    <string id="ZglliSpV" text="Move Right DESC" />
+    <string id="Zgs47DHB" text="Caps Lock" />
+    <string id="ZIKuUbUG" text="Ustawia liczbę jednoczesnych symulacji ragdoll." />
+    <string id="znSZmZvV" text="Map Move Right" />
+    <string id="Zo2ngsUk" text="Edytor Postaci." />
+    <string id="zofULNb8" text="Equip Secondary Weapon" />
+    <string id="ZP1tLaa1" text="Numpad 9" />
+    <string id="ZtDJrNz9" text="Filmowe Ziarno" />
+    <string id="zTFbqJ6R" text="'" />
+    <string id="ZtxvyzjY" text="Kanały Dźwiękowe" />
+    <string id="zUXxshZK" text="F12" />
+    <string id="zvD48rVQ" text="Szybki Zapis" />
+    <string id="ZVLr4CMO" text="X1 Mouse Button" />
+    <string id="ZvtKqPt3" text="Lewe podwójne naciśnięcie: Nagły zwrot w lewo" />
+    <string id="zwL5NFAr" text="Insert" />
+    <string id="zxMOqlhs" text="Atak" />
+	<string id="zzonsjpL" text="Wysokie (512)" />
+  </strings>
+</base>

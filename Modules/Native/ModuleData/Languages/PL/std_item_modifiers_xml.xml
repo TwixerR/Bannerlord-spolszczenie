@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="3FdaOPBi" text="Zwęglone {ITEMNAME}" />
+    <string id="3JaHZA3Y" text="Duża torba {ITEMNAME}" />
+    <string id="4nprSS1a" text="Elastyczne {ITEMNAME}" />
+    <string id="582QaBL6" text="Lekki {ITEMNAME}" />
+    <string id="5yVgXqQr" text="Używany {ITEMNAME}" />
+    <string id="6MVH4JVN" text="Nakrochmalony {ITEMNAME}" />
+    <string id="85WO1MKG" text="Dobrze wykonany {ITEMNAME}" />
+    <string id="8Pd6fLoy" text="Rozłupany {ITEMNAME}" />
+    <string id="8Tal0XIj" text="Mistrzowskiej Ręki {ITEMNAME}" />
+    <string id="ajjSonIo" text="Masywnegu Wyglądu {ITEMNAME}" />
+    <string id="ajLElAyS" text="Dobrze Wywoważony {ITEMNAME}" />
+    <string id="B14fVQHG" text="Poplamiony {ITEMNAME}" />
+    <string id="BA9c7gPb" text="Sporej Grubości {ITEMNAME}" />
+    <string id="bAdxUq7s" text="Jakość {ITEMNAME}" />
+    <string id="br0N6SSH" text="Pęknięty {ITEMNAME}" />
+    <string id="bWhJwHA1" text="Luźny {ITEMNAME}" />
+    <string id="bXYcvUcR" text="Rozszarpany {ITEMNAME}" />
+    <string id="CAP1BUjL" text="Z Hartowanej Stali {ITEMNAME}" />
+    <string id="CCKZv6GM" text="Odłupany {ITEMNAME}" />
+    <string id="dXjbxaKQ" text="Rozkładający się {ITEMNAME}" />
+    <string id="eb4miTUB" text="Zgięty {ITEMNAME}" />
+    <string id="fdgcpipH" text="Zrównoważony {ITEMNAME}" />
+    <string id="geUpgQI5" text="Kulawy {ITEMNAME}" />
+    <string id="H30eaZdf" text="Ciężki {ITEMNAME}" />
+    <string id="l7QEpVwU" text="Zardzewiały {ITEMNAME}" />
+    <string id="O0EcDd0a" text="Postrzępiony {ITEMNAME}" />
+    <string id="Pbb94NdW" text="Podarte {ITEMNAME}" />
+    <string id="PobRGG9S" text="Wgniecione {ITEMNAME}" />
+    <string id="Q5HVyNWJ" text="Dostosowane {ITEMNAME}" />
+    <string id="rpUIBrOu" text="Zwinny {ITEMNAME}" />
+    <string id="RwBOv1Mz" text="Surowy {ITEMNAME}" />
+    <string id="SbNbqhOX" text="Rozdarty {ITEMNAME}" />
+    <string id="TePk4BSJ" text="Poobijany {ITEMNAME}" />
+    <string id="w3jn7Ahz" text="Pański {ITEMNAME}" />
+    <string id="WbaIorOh" text="Dostrojony {ITEMNAME}" />
+    <string id="WK5y3PyJ" text="Szybki {ITEMNAME}" />
+    <string id="xeb1b5PQ" text="W porządku {ITEMNAME}" />
+    <string id="zbs4c6sG" text="Wzmocniony {ITEMNAME}" />
+  </strings>
+</base>

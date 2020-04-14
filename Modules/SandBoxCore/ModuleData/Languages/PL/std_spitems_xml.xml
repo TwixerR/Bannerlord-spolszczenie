@@ -1,0 +1,969 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="02g6K4Yw" text="Południowy plemienny turban" />
+    <string id="0666zYUB" text="Ćwiekowana Adarga" />
+    <string id="0AS3253G" text="Wschodnia buława" />
+    <string id="0bE9MxK4" text="Owijana południowa czapa" />
+    <string id="0e17RZrZ" text="Arbalest" />
+    <string id="0n0JmWv0" text="Południowy toporek do rzucania" />
+    <string id="0NLJnGfF" text="Prosty oszczep" />
+    <string id="0Pxq8UqX" text="Góralska peleryna" />
+    <string id="0rzKQbWy" text="Stepowa końska półzbroja" />
+    <string id="0s4IP7jB" text="Stary koń pociągowy" />
+    <string id="0SpLcthg" text="Góralska nasieka" />
+    <string id="0SsLGsXk" text="Długa wyściełana szata" />
+    <string id="12PL4971" text="Północna zbroja lamelkowa" />
+    <string id="160aqzPm" text="Bojowa brzytwa" />
+    <string id="1aOuyULB" text="Burzliwy bucefał" />
+    <string id="1bc4kTaz" text="Thamaskeński stalowy spathion" />
+    <string id="1bdDdwub" text="Kolczy hełm z nasalem" />
+    <string id="1blLtbDf" text="Południowa jedwabna tkanina" />
+    <string id="1Brz8D10" text="Krótki miecz ze złotym piętnem" />
+    <string id="1CamO1P3" text="Żelazna spatha" />
+    <string id="1CPdu9K0" text="Kamień" />
+    <string id="1cYka5tR" text="Futrzany kaftan bez rękawów" />
+    <string id="1Fdtj39w" text="Opierzony Spangenhelm z imperialną misiurką" />
+    <string id="1GpTOIqU" text="Kapalin z podbitką" />
+    <string id="1HWRwbwT" text="Drewniany miecz" />
+    <string id="1jqxlEkT" text="Przyprawy" />
+    <string id="1lmGO2Da" text="Północny kwadratowy topór" />
+    <string id="1oQWbXJw" text="Harpun na ryby" />
+    <string id="1UZGbygw" text="Imperialna długa przeszywanica" />
+    <string id="1w5StEM1" text="Pleciona tarcza" />
+    <string id="1WxLaeQE" text="Świetny miecz dwuręczny" />
+    <string id="21U7JTFv" text="Zachodni aketon" />
+    <string id="24MA4JLX" text="Długa prążkowana kaskara" />
+    <string id="24xuA5G2" text="Pustynny koń bojowy" />
+    <string id="2AcfBbCR" text="Tunika wojskowa" />
+    <string id="2dJ5HB8a" text="Czarne serce" />
+    <string id="2FubBDYB" text="Wschodnia naginata" />
+    <string id="2K0o7NK9" text="Południowa zbroja lamelkowa" />
+    <string id="2KQbV4To" text="Futro kupca" />
+    <string id="2m1kWsao" text="Skórzany owijany ćwiekowany hełm" />
+    <string id="2MdVVkVL" text="Kapalin z wyściełanym garnkiem" />
+    <string id="2Q0m5CG0" text="Desert Cloth Harness" />
+    <string id="2qisE5ys" text="Kapalin z wyściełanym czepcem" />
+    <string id="2rvCcBuS" text="Brązowy hidżab" />
+    <string id="2SUb8jNP" text="Uprząż z workami dla osiołka" />
+    <string id="2Tz96poW" text="Południowa suknia plebejska" />
+    <string id="2VYmGLC6" text="Północny skórzany czepiec" />
+    <string id="2WQTvOLF" text="Fartuch z tkaniny" />
+    <string id="2XEbqNQz" text="Dekorowane imperialne rękawice" />
+    <string id="33aaUcaX" text="Battańska uprząż" />
+    <string id="3BGHFFsL" text="Północna wyściełana tkanina" />
+    <string id="3bqwOJ8z" text="Zadarty futrzany czepiec" />
+    <string id="3DV3GoHb" text="Szpiczasta czapa z misiurką" />
+    <string id="3hOPlGlS" text="Imperialna przeszywanica ze skórzaną kurtą" />
+    <string id="3iq3rOh8" text="Kapalin z wojskowym czepcem" />
+    <string id="3NnlCd3V" text="Skrzydełkowa zachodnia buława" />
+    <string id="3Pv0SlYj" text="Seax" />
+    <string id="3TAnl7hb" text="Dekorowana wschodnia tarcza" />
+    <string id="3Wzhxkn1" text="Garnuszek" />
+    <string id="3YhwjpQ0" text="Wąski miecz" />
+    <string id="3Z91Nxbf" text="Spangenhelm ze skórzaną podbitką" />
+    <string id="42KNket2" text="Góralskie buty" />
+    <string id="45kZUyjh" text="Oliwki" />
+    <string id="46orXtt0" text="Leśne odzienie" />
+    <string id="4AfHO0BA" text="Ćwiekowany utwardzony futrzany bezrękawnik" />
+    <string id="4BaTgzia" text="Południowa czapa" />
+    <string id="4BfbPgkY" text="Północna łebka z podbitką" />
+    <string id="4c7e0RCE" text="Północny hełm z nosalem" />
+    <string id="4cMV1pY3" text="Lekka imperialna buława" />
+    <string id="4gMJDK0L" text="Północny dekorowany dwuręczny topór" />
+    <string id="4jmcs2Xm" text="Bełty turniejowe" />
+    <string id="4KYF5iCd" text="Warstwowana skórzana tunika" />
+    <string id="4n6n3KL7" text="Pustynne nakrycie głowy" />
+    <string id="4OaVIYuD" text="Spatha z wąskim jelcem" />
+    <string id="4okauhMv" text="Zachodni topór piechoty" />
+    <string id="4pqIsPhp" text="Krótki podbijany płaszcz" />
+    <string id="4RTsybkx" text="Brzytwa bojowa" />
+    <string id="4SadJFch" text="Wschodni ząbkowany oszczep" />
+    <string id="4wdgiTta" text="Sierp" />
+    <string id="4wQRk3f5" text="Długi dekorowany miecz wojenny" />
+    <string id="4XAa0tca" text="Zamknięty południowy hełm" />
+    <string id="4YTJJaTG" text="Ciężka szabla" />
+    <string id="4YxbZlbi" text="Owijane buty" />
+    <string id="51EcVnzd" text="Hełm z wizjerem podszyty czapą" />
+    <string id="57jpWo7g" text="Wspaniały stalowy szeroki kawaleryjski miecz" />
+    <string id="59TEk33X" text="Południowa szeroka Kaskara" />
+    <string id="5h1qpdoa" text="Imperialna przeszywanica z zapięciami" />
+    <string id="5lJrGXqR" text="Południowa suknia fałdowana" />
+    <string id="5n4rWI9T" text="Spiked Helmet With Facemask" />
+    <string id="60fpbHiH" text="Zachodni Hauberk" />
+    <string id="62nIvqbA" text="Battańskie góralskie ostrze" />
+    <string id="6Cc4zpeQ" text="Południowa wzmocniona okrągła tarcza" />
+    <string id="6Db7aDbF" text="Amunicja do balisty" />
+    <string id="6eO6QDoE" text="Sturgijska ciężka lanca" />
+    <string id="6EWm09LY" text="Gwiazda zaranna" />
+    <string id="6fPAlYR5" text="Zachodni długi łuk" />
+    <string id="6hwZwODh" text="Glewia" />
+    <string id="6J0aJo7u" text="Południowe wiejskie nakrycie głowy" />
+    <string id="6Ls9naf4" text="Wschodnie stepowe skórzany obuwie" />
+    <string id="6n44BIll" text="Szpiczasty hełm ze sznurowaną podszywką" />
+    <string id="6q0nmVtg" text="Topór rębacza" />
+    <string id="6qaNQAND" text="Wschodnia zbroja lamelkowa" />
+    <string id="6QI8X6CY" text="Południowa lekka buława" />
+    <string id="6SxJ9cpN" text="Południowa okrągła tarcza" />
+    <string id="6WcZ5Tr0" text="Młot kowala" />
+    <string id="6Wkq14uk" text="Góralska suknia plebejska" />
+    <string id="6YCbEaHK" text="Północna okrągła tarcza" />
+    <string id="77RIGK7B" text="Misiurka" />
+    <string id="7D3jvAfS" text="Czapa skórzana" />
+    <string id="7dAy51ln" text="Łebka z bojową misiurką" />
+    <string id="7jH0kuof" text="Wekiera" />
+    <string id="7LmUe8fQ" text="Menavlion" />
+    <string id="7phSQw5i" text="Motyka" />
+    <string id="7rGaUG0W" text="Wschodni futrzany kaptur" />
+    <string id="7S6BjECG" text="Uprząż dla osiołka z pakunkami" />
+    <string id="7sgW3eHd" text="Wschodnia suknia z futrem" />
+    <string id="7yGwvnUA" text="Północna tunika" />
+    <string id="85q9uY76" text="Góralska łuskowa półzbroja końska" />
+    <string id="89OWzLBb" text="Bambusowa Askia" />
+    <string id="8cM840mh" text="Północna luksusowa tunika" />
+    <string id="8el5a3sF" text="Kurak" />
+    <string id="8fK5E68M" text="Przyzdabiany bułat" />
+    <string id="8hDoWBIa" text="Pospolita koszula" />
+    <string id="8jEDX9J4" text="Szeroki miecz obosieczny" />
+    <string id="8kUwD98O" text="Imperialne ćwiekowane naramienniki" />
+    <string id="8mpp8ZCL" text="Miecz rycerski" />
+    <string id="8ndLVeN0" text="Drewniana tarcza migdałowa" />
+    <string id="8Nkurzdw" text="Wschodnia stalowa buława" />
+    <string id="8nNLS96w" text="Wzmocniona owalna tarcza" />
+    <string id="8NrM7hzY" text="Zachodni nóż do rzucania" />
+    <string id="8Oi89KRn" text="Północna lekka uprząż" />
+    <string id="8pnCvnFR" text="Stalowy Shestopyor" />
+    <string id="8r0Z9Hyb" text="Barwione południowe sukno" />
+    <string id="8R6kpH2J" text="Południowa kolczuga z tabardem" />
+    <string id="8SNS2wF9" text="Turban" />
+    <string id="8TbraEGR" text="Zachodnia długa kolczuga" />
+    <string id="8tHbqjmB" text="Szpiczasty kaptur futrzany" />
+    <string id="8uBew3nD" text="Ćwiekowane zarękawia" />
+    <string id="8ulJswRY" text="Płytowy płaszcz skórzany" />
+    <string id="8UMQ8ocB" text="Wschodnia tarcza kawaleryjska" />
+    <string id="927d3urB" text="Drewniana owalna tarcza" />
+    <string id="93OHSnEV" text="Dekorowany długi bułat" />
+    <string id="94yBVV6R" text="Południowy półszal na głowę" />
+    <string id="9BENgwRK" text="Okrągły kapalin ze sznurowaną podszywką" />
+    <string id="9cHyHQ7a" text="Lamelkowe buty płytowe" />
+    <string id="9EWN9SiT" text="Lekki Shishpar" />
+    <string id="9Eyd2qGo" text="Wzmocnione buty zamszowe" />
+    <string id="9FgxK9se" text="Wysoki hełm" />
+    <string id="9Hr4oEvw" text="Okrągły kapalin z imperialną skórzaną podszywką" />
+    <string id="9X2l53vY" text="Ruda srebra" />
+    <string id="9ZiUK3JJ" text="Szeroki skrzydełkowy dwuręczniak" />
+    <string id="a10taTGb" text="Szabla z wizerunkiem lwa" />
+    <string id="a1BGHdaU" text="Obijane naręczaki" />
+    <string id="a1KxyGOj" text="Północna suknia" />
+    <string id="A1zFbFta" text="Wzmocniona płaska tarcza migdałowa" />
+    <string id="A2I5SHCr" text="Północny hełm z wizjerem" />
+    <string id="a2XnhQ3V" text="Północny zamknięty hełm" />
+    <string id="a71fiml4" text="Imperialna lamelka" />
+    <string id="A8MJWbhf" text="Wyściełany hełm z wizjerem" />
+    <string id="AB1mV5Pg" text="Kapalin ze sznurowaną czapą" />
+    <string id="AdafHtud" text="Szpiczasty hełm z misiurką" />
+    <string id="aDDTouCQ" text="Imperialne pikowane odzienie" />
+    <string id="ADJBbfbQ" text="Futro" />
+    <string id="aEBMmzn6" text="Vlandzka lanca" />
+    <string id="aGbTPme1" text="Kosa" />
+    <string id="aGkXbDlr" text="Zachodnia koszula kolcza" />
+    <string id="agqzAXa9" text="Hełm z wizjerem z pikowaną czapą" />
+    <string id="aHQCG5Tn" text="Łańcuchowa zbroja końska" />
+    <string id="Ai7qIb9I" text="Mała trójkątna tarcza" />
+    <string id="AIu3kKvz" text="Osiodłany koń" />
+    <string id="AloILntx" text="Pospolita południowa uprząż" />
+    <string id="AMIdBVZb" text="Wspaniała stalowa Spatha" />
+    <string id="AobNdBBU" text="Tanie ochraniacze" />
+    <string id="AOZbTGOS" text="Xiphos" />
+    <string id="ap2yulQ2" text="Płaska trójkątna tarcza" />
+    <string id="aPa3Cp4l" text="Imperialny skórzany czepiec" />
+    <string id="aq8lbNZo" text="Południowy hełm" />
+    <string id="arBdK7st" text="Prosty półtorak" />
+    <string id="ArPvuBYK" text="Tkany turban" />
+    <string id="aufKSKLa" text="Południowe pikowane odzienie" />
+    <string id="Auwoehal" text="Góralska zbroja wodza" />
+    <string id="av4ncLDl" text="Zbroja imperialnego auxiliari" />
+    <string id="AVcbBH1J" text="Północny hełm z nosalem" />
+    <string id="aVGSZhCN" text="Pawęż" />
+    <string id="AwARTy44" text="Imperialne obuwie konnego" />
+    <string id="awQrcrt2" text="Ceramika" />
+    <string id="aYCvg89I" text="Luksusowe imperialne szaty" />
+    <string id="aYoIrpe0" text="Spięte kolcze bryczesy" />
+    <string id="b1pqUQju" text="Segmentowy hełm z pikowanym czepcem" />
+    <string id="b4q4ehF4" text="Północny pancerz lamelkowy z kolczugą" />
+    <string id="B5akzp6B" text="Żelazny piórowany spangen" />
+    <string id="b6JvcSiQ" text="Kot" />
+    <string id="B7tbURzI" text="Głowa wilka" />
+    <string id="b8AgXwbL" text="Szeroki rycerski miecz" />
+    <string id="B8eDrNXG" text="Południowa końska zbroja" />
+    <string id="B9LjhTj6" text="Imperialna ćwiekowana skóra" />
+    <string id="baDdigZj" text="Północna owijka" />
+    <string id="baIE2VQW" text="Wielbłąd bojowy" />
+    <string id="bANXyotg" text="Lekko prążkowana Flyssa" />
+    <string id="BAsjzOiH" text="Topór kata" />
+    <string id="BavVxSoC" text="Tanie barwione odzienie" />
+    <string id="bAvyfxIy" text="Kapalin strażnika" />
+    <string id="bcjcw1o9" text="Siekiera do drewna" />
+    <string id="BD07fj39" text="Imperialny hełm z klejnotami" />
+    <string id="bdpjqoGe" text="Segmentowy szyszak z kolczugą" />
+    <string id="beMSPAOG" text="Skórzany ćwiekowany hełm ze szmatą" />
+    <string id="beVFwINO" text="Drewniany młotek" />
+    <string id="bevik0LU" text="Suknia z wcięciem" />
+    <string id="bEy8qTnn" text="Wschodnia lekka buława" />
+    <string id="bfFNYaiU" text="Łebka z watowanym kapturem" />
+    <string id="bFm9jOft" text="Podbite skórzane buty" />
+    <string id="bGSbaT2n" text="Północne nagolenice" />
+    <string id="Biq7t1xv" text="Strzały dalekosiężne" />
+    <string id="bK03bqdA" text="Strzały turniejowe" />
+    <string id="Bl72Ribb" text="Pikowane ramiona" />
+    <string id="BmHJmxXz" text="Wzmocniona tarcza kawaleryjska" />
+    <string id="bNABNs8O" text="Kanciasty topór dwuręczny" />
+    <string id="BqAUrOpn" text="Lekkie strzały z zadziorami" />
+    <string id="bQXR1jzG" text="Wschodni hełm szlachcica z ochraniaczem karku" />
+    <string id="brLFIN46" text="Góralskie karwasze wodza" />
+    <string id="brvgn9Ja" text="Wschodni hełm wendelski" />
+    <string id="bt0uFefo" text="Drewniany dwuręczniak" />
+    <string id="btrf2AXp" text="Luźne kajtuzy" />
+    <string id="bTUGfbH5" text="Trwała przeszywanica" />
+    <string id="buaIafV6" text="Obijana tarcza trójkątna" />
+    <string id="bubcrmTC" text="Hełm z nosalem" />
+    <string id="bvgHgb6E" text="Wschodnia lustrzana skórzana zbroja" />
+    <string id="bVzkrtUc" text="Pugio" />
+    <string id="bwXACVOb" text="Wspaniała stalowa włócznia listkowa" />
+    <string id="bX3P9X7I" text="Mosiężne lamelkowe naramienniki" />
+    <string id="bxa4JHlU" text="Ćwiekowane skórzane zarękawia" />
+    <string id="BYPhysbH" text="Ręka sprawiedliwości" />
+    <string id="bz5lXkHS" text="Krótki pikowany płaszcz" />
+    <string id="bzrVXGAl" text="Piórowany spangenhelm z brązu" />
+    <string id="C2Z43pzq" text="Północna skóra z ciężką obszywką" />
+    <string id="C7oo0zAY" text="Wschodnia stepowa szata" />
+    <string id="c7UNJSNi" text="Tkane skórzane naramienniki" />
+    <string id="CB97qhVM" text="Osiołek" />
+    <string id="cCaHNMwf" text="Góralskie onuce" />
+    <string id="ccLDacS4" text="Battański rasowy koń" />
+    <string id="CEj2Rfh5" text="Wschodnia szata szlachcianki" />
+    <string id="CgG2aRyh" text="Pół lamelkowa zbroja końska" />
+    <string id="CIT7Zuxh" text="Koń czystokrwisty" />
+    <string id="CLYcnUra" text="Wiązany skórzany kirys" />
+    <string id="cmuMaYGR" text="Długi łuk treningowy" />
+    <string id="Cp5aIHqR" text="Północna kamizelka lamelkowa" />
+    <string id="CPI0wkaZ" text="Kusza orzesznikowa" />
+    <string id="CQBiJLgv" text="Wielbłąd" />
+    <string id="cRCkC36E" text="Krótki miecz" />
+    <string id="CtJPuRDa" text="Pikowany skórzany płaszcz" />
+    <string id="ctkNWKbq" text="Vlandzka lekka lanca" />
+    <string id="CWI7a4z5" text="Południowy niewielki topór" />
+    <string id="cXesETQJ" text="Duża adarga z umbem" />
+    <string id="CXnhFf1t" text="Wzmocnione skórzane karwasze" />
+    <string id="D4gxNfzG" text="Południowe bogato zdobione szaty" />
+    <string id="d8DrtmwP" text="Kolczy hełm z wizjerem" />
+    <string id="D8xeIXcI" text="Góralska tunika mieszczańska" />
+    <string id="Da1bV3ph" text="Imperialny podbijany czepiec" />
+    <string id="dacwWKE2" text="Zużyta tarcza migdałowa" />
+    <string id="dbbwszHd" text="Dekorowana okrągła tarcza" />
+    <string id="DbNdyJgQ" text="Góralska łuskowa końska zbroja" />
+    <string id="DC0qJkVs" text="Tępe strzały" />
+    <string id="Dc4ia4m9" text="Pikowana czapa" />
+    <string id="dCbrowBV" text="Wspaniała stalowa długa kaskara" />
+    <string id="deA729dQ" text="Suknia z wcięciem i sakiewką" />
+    <string id="DI9P2HDG" text="Związane strzały z zadziorami" />
+    <string id="dIfcfMbY" text="Ćwiekowany skórzany płaszcz" />
+    <string id="Dj64aJKQ" text="Halabarda" />
+    <string id="DJjCCQ59" text="battanian_savage_armor" />
+    <string id="dkuzrKJF" text="Dostojna pika" />
+    <string id="DlHkNiJA" text="Góralska suknia" />
+    <string id="dLLD8bVX" text="Wytrzymałe pustynne siodło" />
+    <string id="DlPOte0H" text="Juczny wielbłąd" />
+    <string id="DoiwC1Qa" text="Kolcze bryczesy" />
+    <string id="DOYS7dmq" text="Skórzane karwasze z paskiem" />
+    <string id="dPQGxmJ7" text="Wzmocnione kolcze łapki" />
+    <string id="DQaV0i5W" text="Żelazny szeroki miecz" />
+    <string id="dqyN7Sbz" text="Imperialna lekka lanca" />
+    <string id="dRLIr22v" text="Imperialna zszyta skóra" />
+    <string id="dRWKmbaa" text="mały zadarty topór" />
+    <string id="dS4zm0UT" text="Ćwiekowana skóra z aketonem" />
+    <string id="DuLFJbXJ" text="Wschodnia skóra z pasem" />
+    <string id="dVekhkIU" text="Futrzany płaszcz z tuniką" />
+    <string id="DvGueBrU" text="Len" />
+    <string id="dWr3nuBq" text="Wzmocniona migdałowa tarcza z żelazną ramą" />
+    <string id="DYwjfcM8" text="Szpiczasty imperialny kapalin kolczy" />
+    <string id="e4lKZhgv" text="Przewiązane skórzane karwasze" />
+    <string id="e6WzpsWz" text="Żelazny hełm z nasalem z imperialną wyściółką" />
+    <string id="E7miRMw1" text="Ciężki łuk refleksyjny" />
+    <string id="E7puv7hi" text="Południowe mokasyny" />
+    <string id="e8amL6a1" text="Szeroki ild" />
+    <string id="e9BpfZ9L" text="Łebka z okryciem na twarz" />
+    <string id="eaALL6uO" text="Długa szabla" />
+    <string id="EadnjRjs" text="Długi miecz wojenny" />
+    <string id="ebHdQfbX" text="Spangen z wyściełaną tkaniną" />
+    <string id="EELLBAbX" text="Góralski pancerz łuskowy" />
+    <string id="efFb16x7" text="veteran_mercenary_armor" />
+    <string id="EfRKaKs0" text="Stepowa futrzana uprząż" />
+    <string id="efW2XbK8" text="Hełm emira" />
+    <string id="EgrNdBct" text="Ząbkowana włócznia do rzucania" />
+    <string id="ekTny86c" text="Imperialny pancerz lamelkowy ze skórą" />
+    <string id="ekUvh8Em" text="Krótki wygodni dwuręczniak" />
+    <string id="ELsDFwAD" text="Winko" />
+    <string id="elTXYb9f" text="Nóż typu falx" />
+    <string id="eND6ECxg" text="Lanca katafrakta" />
+    <string id="EO7pCu1b" text="Łuk szlachcica" />
+    <string id="ErOLa263" text="Pochodnia" />
+    <string id="ESqqwNDd" text="Południowy hełm szlachcica" />
+    <string id="eTKxlDl1" text="Góralskie buty wodza" />
+    <string id="eU6YOqBC" text="Południowa szata" />
+    <string id="eWf7bFGo" text="Futrzany pancerz z pasami" />
+    <string id="EWR2MNeM" text="Kolczy hełm z nosalem" />
+    <string id="ewSpZ10R" text="Szorstka wyściełana czapa" />
+    <string id="EXasg15J" text="Południowa przeszywanica" />
+    <string id="EXLY9mEb" text="Wzmacniana duża okrągła tarcza" />
+    <string id="f2O1XjYd" text="Pies" />
+    <string id="F4xD8gjJ" text="Franczeska" />
+    <string id="f7RmWqJ2" text="Zachodni szal na głowę" />
+    <string id="F9GB8lMZ" text="Podarte szmaty" />
+    <string id="F9HQABfN" text="Wzmacniana trójkątna pleciona tarcza" />
+    <string id="FAPHmzxQ" text="Pustynny kaftan" />
+    <string id="FaWA8c50" text="Północny ciężki płaszcz" />
+    <string id="FAzGPJn6" text="Topór bambusowy" />
+    <string id="Fb7PrJuc" text="Buty szynowe" />
+    <string id="FbG3CW5p" text="Bojowe widły" />
+    <string id="fcgDtZy7" text="Wschodnia ciężka buława" />
+    <string id="ffwgZit3" text="Wspaniała kusza" />
+    <string id="fHj6NbWy" text="Żelazna flyssa" />
+    <string id="FhTUc64z" text="Gęś" />
+    <string id="FHu0bGub" text="Północny zakryty kolczy hełm okularowy" />
+    <string id="fk42FxCE" text="Fałdowana szata" />
+    <string id="FktkkUMK" text="Stalowa okrągła tarcza" />
+    <string id="FlikwkEx" text="Imperialny pancerz auxiliari pasami" />
+    <string id="FOJHPU5N" text="Mniejszy fartuch" />
+    <string id="FOx5vZSJ" text="Opancerzona niedźwiedzia skóra" />
+    <string id="fptsl0Qn" text="Kilt z płytowaną skórą" />
+    <string id="fqHrMC1v" text="Zachodni luźny szal na głowę" />
+    <string id="frwBm3Oh" text="Tkanina na głowę" />
+    <string id="FSa9qv8i" text="Zachodni szal" />
+    <string id="FsDZC8Yl" text="Pełny hełm z kolczugą" />
+    <string id="FSGtJ7eX" text="Ciężki hełm z nosalem z imperialną skórą" />
+    <string id="fUmehyHq" text="Tkane skórzane karwasze" />
+    <string id="fUsA9TM4" text="Prosty wschodni miecz" />
+    <string id="fuyj7s3F" text="Wspaniały stalowy długi bułat" />
+    <string id="FWFDkjBk" text="Hełm z nosalem ze sznurowanym czepcem" />
+    <string id="FxnFBhrF" text="Jeździecka tarcza migdałowa" />
+    <string id="FyaygeEx" text="Obita pałka" />
+    <string id="FyXM8Iob" text="Południowe naramienniki z włókna" />
+    <string id="G40DJB7q" text="Południowy hełm kolczy" />
+    <string id="g51zVsKU" text="kolcze łapki" />
+    <string id="G7AEWZ6c" text="Dekorowana owalna tarcza" />
+    <string id="g7iQsvPw" text="Ćwiekowany imperialny ochraniacz na szyję" />
+    <string id="gadEbFyj" text="Wspaniała stalowa szabla" />
+    <string id="GazIGIJG" text="Zachodni kaptur" />
+    <string id="gbRVBOLH" text="Pospolite odzienie" />
+    <string id="GcFAmAaR" text="Wschodnie skórzane karwasze" />
+    <string id="GD4aQgl7" text="Owieczka" />
+    <string id="gf3tDqNk" text="Brązowa kefija" />
+    <string id="gfQDDkEY" text="Drewniana adarga" />
+    <string id="gFtu0j4T" text="Strzały" />
+    <string id="gfvG04SP" text="Pustynna skórzana narzuta" />
+    <string id="GghHAbIT" text="Siekierka" />
+    <string id="gGhrQa29" text="Kobiecy kaptur" />
+    <string id="gJPogg0J" text="Prosty topór typu Sparth" />
+    <string id="gKhpLiyg" text="Płytowo-kolcza zbroja końsa" />
+    <string id="GKzw7E8a" text="Pospolita pika" />
+    <string id="gLfxeU17" text="Imperialny podbity hełm lorda" />
+    <string id="GMqE9FCN" text="Wspaniała południowa suknia" />
+    <string id="GNdVXMue" text="Szal" />
+    <string id="gnvIGThE" text="Aserajski koń" />
+    <string id="Goloz0Vm" text="Wielbłąd Husnphree" />
+    <string id="gqbjCBld" text="Północny toporek do rzucania" />
+    <string id="GrfnpDxu" text="Góralski toporek do rzucania" />
+    <string id="Gs2f3aeh" text="Karwasze z płytowych pasów" />
+    <string id="gSaKwztg" text="Góralskie karwasze szlachcica" />
+    <string id="gsGjXj8J" text="Pustynny długi miecz" />
+    <string id="gT8WENO3" text="Dummy Higher Average" />
+    <string id="GTWUtUFj" text="Kolcza zbroja końska" />
+    <string id="gUTqDROO" text="zamknięta tkana owijka" />
+    <string id="gXbmGrGL" text="Dekorowane imperialne buty" />
+    <string id="GXmDq2KR" text="Niedźwiedzi łeb" />
+    <string id="Gxual4pG" text="Imperialny hełm z metalowymi pasami" />
+    <string id="gYpNILVC" text="Kafar" />
+    <string id="GyYsQlVd" text="Dekorowana krótka spatha" />
+    <string id="h1jKICdp" text="Pospolity krótki łuk" />
+    <string id="h3vqV5Qy" text="Północny skórzany tabard" />
+    <string id="H41qKfaL" text="Góralski opierzony hełm szlachcica" />
+    <string id="h5kfaD4v" text="Rumak" />
+    <string id="h6UXvU3B" text="Łebka z nosalem ze sznurowaną czapą" />
+    <string id="h7IWO4DV" text="Pustynny koń" />
+    <string id="h7VQk4jd" text="Góralska kloaka z pasami na ramionach" />
+    <string id="H9hzBJz3" text="Włócznia treningowa" />
+    <string id="ha3rVEzP" text="Ostry rycerski miecz z szerokim zbroczem" />
+    <string id="habJjtmv" text="Żelazny miecz obosieczny" />
+    <string id="HaK3y9yi" text="Nabijana maczuga" />
+    <string id="hCBCLp0e" text="Płytowo-kolcza zbroja końska" />
+    <string id="HclLXEaT" text="Koński bat" />
+    <string id="hE8s9bpP" text="Zagięta okrągła tarcza" />
+    <string id="hELN8VXv" text="Podarta szata" />
+    <string id="HG2emvr7" text="Południowa szata z paskiem" />
+    <string id="hhprIQti" text="Południowa szata ze skórzanym paskiem" />
+    <string id="HiSzYWeh" text="Piwo" />
+    <string id="HkiLq2ry" text="Góralskie futrzane naramienniki z futrzaną kloaką" />
+    <string id="HKRGEXqy" text="Kolczuga obieżyświata" />
+    <string id="Hm61IBcT" text="Południowa szata z kutasami" />
+    <string id="ho4bsI3Q" text="Imperialny pancerz łuskowy" />
+    <string id="hQrLHkaU" text="Topór Gallogaich" />
+    <string id="hRKmfw2H" text="Ciężka okrągła tarcza" />
+    <string id="hsRwbHSk" text="Lanca mameluka" />
+    <string id="htACXBhH" text="Żelazny kolczy hełm z nosalem" />
+    <string id="hTPJXK1w" text="Ciężki topór kata" />
+    <string id="hTRaPvRa" text="Góralskie skórzane obuwie" />
+    <string id="HwO0AYul" text="Szeroki prążkowany miecz krótki" />
+    <string id="hXijcZyp" text="Krótki płaszcz z grubej tkaniny" />
+    <string id="hyNitMsQ" text="Góralskie wspaniałe stalowe ostrze" />
+    <string id="hytuHaoA" text="Podbita migdałowa tarcza z umbem" />
+    <string id="hz87PBsa" text="Szeroka włócznia listkowa" />
+    <string id="i17zuvS4" text="Sturgijski łowca" />
+    <string id="i4bslk7h" text="Południowy sztylet do rzucania" />
+    <string id="i4CfsNGd" text="Imperialna kamizelka kolcza" />
+    <string id="i8S2PJB4" text="Góralskie rękawice" />
+    <string id="iAWzr8Q0" text="Kolczuga obita skórzanymi pasami" />
+    <string id="IbdUT6PA" text="Południowe łuskowe naramienniki" />
+    <string id="iD0ePqi7" text="Skórzane karwasze na guziki" />
+    <string id="iE9JNuZI" text="Okrągła tarcza stepowa" />
+    <string id="iEbP2INp" text="Dekorowana kaskara" />
+    <string id="iFPkhVGe" text="Mała owalna trójkątna tarcza" />
+    <string id="ifzgMcrK" text="Łuk nomadzki" />
+    <string id="IK2IPJi1" text="Sól" />
+    <string id="IM2SamZ8" text="Bułat" />
+    <string id="Im7wOGaC" text="Północna przepasana tunika" />
+    <string id="inr9Mt1i" text="Khuzaicka lanca" />
+    <string id="IOt4KTHs" text="Midlandzki wierzchowiec" />
+    <string id="IPyPb4Dp" text="Północny hełm z okularem" />
+    <string id="Isioqvt9" text="Góralska tkanina" />
+    <string id="Ita1lG33" text="Obijana skórą migdałowa tarcza" />
+    <string id="ITUNob5T" text="Ciężki imperialny kolczy hełm z nosalem" />
+    <string id="ItUyYjdd" text="Topór do egzekucji" />
+    <string id="ITvet7CV" text="Południowy hełm" />
+    <string id="ItZt3amR" text="Wschodnia kolcza mosiężna zbroja lamelkowa" />
+    <string id="IuD9SaQM" text="Konopna suknia" />
+    <string id="iUjgXGNn" text="Zachodnia gorsetowa sukienka" />
+    <string id="iVataLxL" text="Pikowana szata ze skórzanymi pasami" />
+    <string id="IW6uvAgP" text="Zachodnia krótka włócznia" />
+    <string id="IX3kafcb" text="Spiczasty żelazny kolczy kapalin" />
+    <string id="J00AF9Qv" text="Tkane skórzane buty" />
+    <string id="J1zcabv4" text="Wschodnie ćwiekowane naramienniki" />
+    <string id="J3erdO1b" text="Brzask" />
+    <string id="J3YHMkL3" text="Pikowane łapki" />
+    <string id="J4fgemze" text="Sturgijska lanca" />
+    <string id="j5O8mt4I" text="Zachodnie owijadło" />
+    <string id="j7EZxCiG" text="Stary futrzany płaszcz" />
+    <string id="jakLnIQv" text="Hełm z szorstkiej łuski" />
+    <string id="JbTCDDb0" text="Bełt" />
+    <string id="JBVAeXx3" text="Widły" />
+    <string id="jbxeZs8K" text="Pospolity bezrękawnik" />
+    <string id="JEaU5XOP" text="Zdobiona bojarska misiurka z włosiem" />
+    <string id="jfWzICId" text="Długi bojowy miecz z fulerem" />
+    <string id="JHef9oad" text="Uprząż dla osiołka z koszami" />
+    <string id="jhFSLdve" text="Wiercony dwuręczny topór" />
+    <string id="jhgVsWKr" text="Koń Tyalski" />
+    <string id="Jhshwa48" text="Łatana przeszywanica" />
+    <string id="jIwjYOVj" text="Porwane owijaki" />
+    <string id="JjLQ2VdT" text="Łebka z nosalem z pikowanym czepcem" />
+    <string id="JK7uQLqb" text="Północna skórzana kurta" />
+    <string id="Jkd2gmyj" text="Trójkątna włócznia" />
+    <string id="JkLoAelJ" text="Kolcze naramienniki" />
+    <string id="JKRQ8RDA" text="Pikowane pasiaste odzienie" />
+    <string id="jLkVVTJh" text="Wschodnie skórzane karwasze z płytową podbitką" />
+    <string id="JLWxF0yJ" text="Południowa suknia z pasem" />
+    <string id="JM8Mjfa0" text="Spiralna buława" />
+    <string id="JPByibJQ" text="Żelazny bułat" />
+    <string id="Jpt1WvTM" text="Kapalin strażnika ze sznurowanym czepcem" />
+    <string id="jqWBGBo7" text="Wzmocniona mała tarcza jeździecka" />
+    <string id="jsFgjWOj" text="Kolczuga z czerwonym tabardem" />
+    <string id="JslRu3rX" text="Surowa wschodnia skórzana zbroja" />
+    <string id="JsmnUp0T" text="Suknia dla panny" />
+    <string id="JTrZ8ugB" text="Okrągły imperialny kolczy kapalin" />
+    <string id="JvhvtKsT" text="Szpiczasty kolczy hełm" />
+    <string id="jw2Kb97b" text="Imperialna włócznia" />
+    <string id="JxV66l02" text="Długa glewia" />
+    <string id="K1UFTirG" text="Lekka kusza" />
+    <string id="K2xGw3Oo" text="Dummy Lower Average" />
+    <string id="K2Xtca1a" text="Krótka halabarda" />
+    <string id="K4JtuMzP" text="Battańska plebejska kloaka" />
+    <string id="K5XLb84w" text="Imperialne strzały" />
+    <string id="kanUXCLc" text="Góralska plebejska tunika" />
+    <string id="KaZY0Ixp" text="Góralska tunika" />
+    <string id="KFGfTXqE" text="Koń juczny" />
+    <string id="Kgnm0FkE" text="Skórzane obuwie" />
+    <string id="KHFQdxvL" text="Ciężka północna tunika" />
+    <string id="KhXnRIan" text="Damska owijka" />
+    <string id="kIMOcPgn" text="Żelazny imperialny hełm z nosalem podbity tkaniną" />
+    <string id="KIxX6dH2" text="Surowe futro kolcze" />
+    <string id="Kj68cfhA" text="Imperialne lamelkowe naramienniki" />
+    <string id="kJzIZMBR" text="Trójkątna włócznia do rzucania" />
+    <string id="KKWEkA4P" text="Surowe niedźwiedzie futro" />
+    <string id="kmdjRAoG" text="Sznurowana tkana czapa" />
+    <string id="KmZHXINa" text="Imperialny hełm z brązu podbity skórą" />
+    <string id="kNDbSy6K" text="Wzmocniona kawaleryjska tarcza migdałowa" />
+    <string id="Ko7tWuRb" text="Południowa szata z kolczugą" />
+    <string id="koOrDa9q" text="Góralski sztylet do rzucania" />
+    <string id="KpyTaAwL" text="Góralski płytowy hełm szlachcica" />
+    <string id="kR1blV2k" text="Ząbkowane widły bojowe" />
+    <string id="KrCGcsmJ" text="Wschodnia przekładana suknia" />
+    <string id="KRhIG1cw" text="Duża franczeska" />
+    <string id="KRuZuMFI" text="Argument starosty" />
+    <string id="kshM0xDc" text="Przetarta jeździecka tarcza migdałowa" />
+    <string id="ksxylfU4" text="Miecz zbrojnego" />
+    <string id="KTegaNPW" text="Długi łuk" />
+    <string id="ktJ6crBs" text="Szeroki bułat" />
+    <string id="Kv4zAMIh" text="Buława katafrakta" />
+    <string id="kweDHlz8" text="Zachodni płytowy hełm koronny" />
+    <string id="kxtSkGju" text="Ambasador" />
+    <string id="kyPoQt0f" text="Prosty imperialny skórzany pancerz" />
+    <string id="KZmZ9HXW" text="Mosiężne łuskowe naramienniki" />
+    <string id="l69aXkKH" text="Widły do sztychów" />
+    <string id="L7qYlJqn" text="Leśne obuwie" />
+    <string id="l91l1TJo" text="Barwiony turban" />
+    <string id="l9kAJ1Xh" text="Góralskie szerokie ostrze" />
+    <string id="LaKFAU1V" text="Imperialna kolczuga ze skórzana podbitką" />
+    <string id="Lbm7asY3" text="Wysoka trójkątna tarcza" />
+    <string id="Ldqb9oAF" text="Góralskie ciężkie naramienniki wodza" />
+    <string id="LgftnHPs" text="Pleciona skórzana kamizelka" />
+    <string id="lIJ1EVBh" text="Skórzane rękawice" />
+    <string id="ljE4zLrf" text="Hełm wodza z pełną kolczugą" />
+    <string id="ljOwXClb" text="Nordycki toporek" />
+    <string id="lkDQMG0y" text="Zachodni łuk cisowy" />
+    <string id="ln6ZboT7" text="Północna skóra typu Sloven" />
+    <string id="LOhfAMnh" text="Mała trójkątna kawaleryjska tarcza" />
+    <string id="loHYOJA9" text="Północny hełm lorda z otwartą kolczugą" />
+    <string id="LOPavWRp" text="Wiązane buty" />
+    <string id="LqA9uBH9" text="Szpiczasty hełm ze szmatą" />
+    <string id="LSgDVSfl" text="Zachodni hełm koronny" />
+    <string id="lspv3mUE" text="Stepowa ćwiekowana końska uprząż" />
+    <string id="Lt8nT1hb" text="Lamelkowe naramienniki" />
+    <string id="lULBZ714" text="Oliwa" />
+    <string id="LWbJKKK1" text="Północna szlachetna uprząż" />
+    <string id="lXwaLAYP" text="Thamaskeński stalowy miecz bojowy" />
+    <string id="lZ93DOrn" text="Pikowany płaszcz bez rękawów" />
+    <string id="LzqugHen" text="Skalpel" />
+    <string id="M00MeRJD" text="Bawełna" />
+    <string id="M2wvaObX" text="Spatha" />
+    <string id="m3Nv9rt2" text="Opierzony hełm nomada" />
+    <string id="mAEjSAlV" text="Północny zamknięty hełm kolczy" />
+    <string id="MamotK0a" text="Podbijane karwasze" />
+    <string id="maYSspDY" text="Okrągły wyściełany kapalin" />
+    <string id="Mb0CuONB" text="Wąski topór typu Skeggøx" />
+    <string id="Mb1hQRyT" text="Pustynna owalna tarcza" />
+    <string id="Mc6IC6UM" text="Zapięta zbroja dzikusa" />
+    <string id="meC5HTQD" text="Północny kolczy hełm wodza" />
+    <string id="MEOtMRxx" text="Przetarta tarcza migdałowa" />
+    <string id="mFbFEOVz" text="Północna czapaja" />
+    <string id="mfeM775z" text="Długi falcjon" />
+    <string id="mkdIMTrX" text="Północny szeroki wielki miecz z fulerem" />
+    <string id="mkoMUmLh" text="Konopna kurta" />
+    <string id="MKT5IzWm" text="Gruba szata z rękawami" />
+    <string id="MLBA8tej" text="Suknia" />
+    <string id="mlJKNbbn" text="skórzany czepiec" />
+    <string id="mMGfhc3M" text="Góralski pancerz szlachcica" />
+    <string id="mMtKWolp" text="Zagięta wielka szabla" />
+    <string id="MQ8LCvCE" text="Wiązana tunika" />
+    <string id="MqBSmahz" text="Vlandzki rumak" />
+    <string id="Mr06Juj5" text="Wschodni zszywany skórzany płaszcz" />
+    <string id="mRGIxvYh" text="Kolczy hełm z nosalem" />
+    <string id="MRIdGqhA" text="Szpiczasty miecz bojowy" />
+    <string id="MTDaLQOV" text="Peleryna z Imperium" />
+    <string id="mTHZCZ2D" text="Rycerska lanca" />
+    <string id="mtVcMgWO" text="Kolczy opierzony spangen z brązu" />
+    <string id="mTWvG1xz" text="Łuk strażnika lasu" />
+    <string id="mVAaWp5U" text="Imperialny bucefał" />
+    <string id="MvvlKO0U" text="Żelazny opierzony spangen ze skórzaną podbitką" />
+    <string id="mWxNSjSP" text="Wspaniała cieńka zaostrzona włócznia" />
+    <string id="Mx1MQYHl" text="Pospolity północny topór" />
+    <string id="MYA3SKhh" text="Miecz bojowy z grawerowanymi złotymi kwiatami" />
+    <string id="mzvtFPPi" text="Łamignat" />
+    <string id="MZzQZcCf" text="Wschodni opierzony hełm szlachcica" />
+    <string id="n1Jb7piG" text="Południowy skórzany kaptur" />
+    <string id="N28bDEhh" text="Wspaniała stalowa zaostrzona włócznia" />
+    <string id="N2S0Uj8R" text="Pospolita zachodnia włócznia" />
+    <string id="n3sz2k5j" text="Rycerska tarcza migdałowa" />
+    <string id="nBU3EXp6" text="Góralski przepasany naramiennik" />
+    <string id="ndfDy5B8" text="Związane owijadło" />
+    <string id="NEupkuqV" text="Pustynny szal na głowę" />
+    <string id="NFvuDpwG" text="Umocniona tarcza migdałowa" />
+    <string id="NkV2c6YX" text="Związane stepowe strzały" />
+    <string id="NmLEZfiI" text="Wschodni oszczep" />
+    <string id="nNGCuIUf" text="Imperialny otwarty kaptur kolczy" />
+    <string id="Nqa2maO2" text="Woven Leather Coat" />
+    <string id="NtsdmmW9" text="Daktyle" />
+    <string id="nUarDXVH" text="Żelazny imperialny kapalin podbity skórą" />
+    <string id="NUHzapSv" text="Długa konopna tunika" />
+    <string id="NUmDuEqI" text="Imperialna uprząż jeździecka" />
+    <string id="nVAhoxcH" text="Rycerska tarcza" />
+    <string id="NVV1j1E4" text="Zachodnia przeszywanica" />
+    <string id="NZLTEI9c" text="Wschodnie skórzane naramienniki" />
+    <string id="o0ZuY9Ux" text="Zachodni skórzany płaszcz" />
+    <string id="o24Fpzvu" text="Ćwiekowana stepowa skóra" />
+    <string id="O37kzdXO" text="lekka uprząż" />
+    <string id="O3TTXEFe" text="Lekka kawaleryjska tarcza migdałowa" />
+    <string id="o67ySkfH" text="Płytowy hełm" />
+    <string id="O8TpGSDA" text="Jedwab" />
+    <string id="Oa4h7TVi" text="Czapa nomadzka" />
+    <string id="ObGN145P" text="Leśny oszczep" />
+    <string id="oEJnxsQ1" text="Owijaki na ręce" />
+    <string id="oEvhhNNR" text="Skórzane buty kawaleryjskie" />
+    <string id="OEyuUWji" text="Wschodnie owijane naręczaki" />
+    <string id="oFEzCTpW" text="Żelazne widły" />
+    <string id="OflbQCw6" text="Siodło dla wielbłąda z lekkimi bagażami" />
+    <string id="oGVGhYeP" text="Wschodni stepowy pancerz 616SP" />
+    <string id="oH8iFEv7" text="Fałdowane buty miejskie" />
+    <string id="OhEQUMk0" text="Szeroka trójkątna tarcza" />
+    <string id="OIcwZGmC" text="Wzmacniana pleciona tarcza" />
+    <string id="oIOYBIbv" text="Północny zamknięty kolczy hełm z okularem" />
+    <string id="olamAwhb" text="Owijany hełm z nosalem" />
+    <string id="OLTUHPaD" text="Wspaniały stalowy Paramerion" />
+    <string id="OM9achAa" text="Wzmocniona dębowa migdałowa tarcza" />
+    <string id="omLMiX89" text="Kolczuga ze zszywaną skórzaną kurtą" />
+    <string id="Oo0baNaq" text="Surowe wiązane buty" />
+    <string id="OpYdqPWs" text="Otwarty czepiec kolczy" />
+    <string id="OQg5Plsh" text="Długa wąska wschodnia włócznia" />
+    <string id="oQmUlQWp" text="Prosta szabla " />
+    <string id="OrEgjXZ1" text="Surowa kefija" />
+    <string id="Orx2jbyH" text="Wschodnia wspaniała stalowa buława" />
+    <string id="OSHSIyhN" text="Góralska okrągła tarcza" />
+    <string id="OzUsuoDO" text="Północny hełm" />
+    <string id="p2jR7Urm" text="Wytrzymałe siodło" />
+    <string id="P8GrNSkF" text="Kolczy hełm segmentowy" />
+    <string id="p92WdLt4" text="Północny miecz" />
+    <string id="p949oNWk" text="Kolczy płaszcz płytowy" />
+    <string id="PBLsXDgP" text="lekka buława" />
+    <string id="pEaYQqG9" text="Pleciona prostokątna tarcza" />
+    <string id="PhodGU5y" text="Damski szal" />
+    <string id="pjvwuVuc" text="Jednoręczny toporek typu Skeggøx" />
+    <string id="PL3Ut0vL" text="Południowa plebejska szata" />
+    <string id="PL5SG9hI" text="Skórzany pancerz łuskowy" />
+    <string id="PLtQdf23" text="Wzmocnione pikowane łapki" />
+    <string id="pmabPgC0" text="Plemienna tarcza stepowa" />
+    <string id="PoY2Vh7K" text="Łuk stepowy" />
+    <string id="pP0GacSW" text="Wspaniały stalowy zaokrąglony toporek" />
+    <string id="PP5SzUx0" text="Wiązana suknia" />
+    <string id="ppiy9Cwl" text="Szeroki oszczep" />
+    <string id="PTKyNh2O" text="Kolczuga legionisty" />
+    <string id="Pv3YQMk1" text="Góralska owijka na głowę" />
+    <string id="PVgSGCYK" text="Kolczy hełm z nosalem" />
+    <string id="pzfbPbWW" text="Głaz" />
+    <string id="PZPphq6H" text="Bojowy koń stepowy" />
+    <string id="q1z4FQub" text="Siodło dla wielbłąda" />
+    <string id="q3ePGPbF" text="Imperialny pancerz kawalerzysty" />
+    <string id="Q4sO8AZd" text="Koń Nahasawski" />
+    <string id="QaKohN0V" text="Imperialna kolczuga z pasami" />
+    <string id="qaraQjXa" text="Okrągły imperialny kapalin z wyściółką" />
+    <string id="QaysED62" text="Tunika z przewijanym suknem" />
+    <string id="Qazvdg1P" text="Imperialna płócienna czapa" />
+    <string id="qc0P0b2r" text="Kolczy hełm z okularem" />
+    <string id="QcKpipVr" text="Adarga" />
+    <string id="qDlabQvR" text="Południowy szeroki dwuręczny topór" />
+    <string id="qFL0VxZX" text="Sznurowany czepiec" />
+    <string id="QGaIYQpg" text="Ryby" />
+    <string id="qGzZ78bM" text="Podbijane skórzane pasy" />
+    <string id="qhbOjHRI" text="Porwane pikowane odzienie" />
+    <string id="qILO0HdK" text="Obwiązywane pikowane odzienie" />
+    <string id="QjdyYS0m" text="Żelazna szabla" />
+    <string id="QLcP8bIs" text="Falx" />
+    <string id="QMAGJdyN" text="Góralska suknia wiejska" />
+    <string id="QN1Zg2eV" text="Południowa buława milicyjna" />
+    <string id="qo8hwDNU" text="Surowy pancerz z futra" />
+    <string id="QodawBSN" text="Żelazna okrągła tarcza" />
+    <string id="qOfuxNxR" text="Południowy skózany ćwiekowany płaszcz" />
+    <string id="qoT97j7u" text="Kapalin z brązu" />
+    <string id="Qpl5aCb0" text="Topór doświadczonego woja" />
+    <string id="qSn0JTfa" text="Południowy zawinięty szal" />
+    <string id="qsVRoGUv" text="Otwarty szal na głowę" />
+    <string id="qT6jIu3v" text="Futrzana kieca z tuniką" />
+    <string id="QuaE76ua" text="Szaty uczonego" />
+    <string id="qVj5NqrL" text="Pełny hełm z wyściełanym czepcem" />
+    <string id="qw2oyv1j" text="Leśna kolczuga" />
+    <string id="QwiI8Uho" text="Sturgijski kłusak"  />
+    <string id="QWqvGa1P" text="Krasula" />
+    <string id="QX2pp6jX" text="Imperialna przeszywanica z brzegami" />
+    <string id="qXb7YoGc" text="Asaligat" />
+    <string id="QxzcuhmA" text="Skóra leoparda" />
+    <string id="qZOpdQVx" text="Gwieździsty falcjon" />
+    <string id="r07M9xbT" text="Ciężka kusza" />
+    <string id="r0Ln9bAp" text="Skórzany fartuch" />
+    <string id="R4RT36MH" text="Wschodni hełm" />
+    <string id="r8b5miDE" text="Kolczy kapalin" />
+    <string id="RaTK0SBu" text="Zachodnia jeździecka migdałowa tarcza" />
+    <string id="Rcc0JW6H" text="Tamaskeńska stalowa spatha" />
+    <string id="RcCtV0aS" text="Leśny cisowy łuk" />
+    <string id="rdKSIamN" text="Strzały przeszywające" />
+    <string id="REYaHXQb" text="Sturgijski pancerz jeździecki" />
+    <string id="rF7Xm7C0" text="Ciężka tarcza trójkątna" />
+    <string id="Rhfp7ath" text="Szpiczasty sznurowany hełm" />
+    <string id="rifv0h0H" text="Północna kawaleryjska migdałowa tarcza" />
+    <string id="Rmpm1E71" text="Wschodnia prosta szabla" />
+    <string id="rnzpyc0N" text="Piernacz" />
+    <string id="rO0oKtAo" text="Mały sztandar" />
+    <string id="rOpxDHXL" text="Wschodni skórzany lamelkowy pancerz" />
+    <string id="rtRGq1uU" text="Szeroki dwuręczniak" />
+    <string id="rTuNnhWI" text="Południowy Shawl" />
+    <string id="RU2EppgI" text="Damskie obuwie" />
+    <string id="RWKafLdU" text="Wschodnie zagięte buty" />
+    <string id="RwpJFXxc" text="Thamaskeńska pika" />
+    <string id="rXO7ajRX" text="Imperialny kolczy kapalin z brązu" />
+    <string id="S0IkfoDo" text="Wschodnia płytowa skóra" />
+    <string id="S6BFpEg3" text="Imperialne szerokie noże do rzucania" />
+    <string id="s7jkSgba" text="Zaostrzone strzały" />
+    <string id="s7WRzaf2" text="Futro niedźwiedzia" />
+    <string id="S9htzkbe" text="Czapa kupca" />
+    <string id="SbARa2gU" text="Zadarte strzały" />
+    <string id="Se3La8Aq" text="Południowa ciężka buława" />
+    <string id="sfPB9ro3" text="Dekorowany północny hauberk" />
+    <string id="SGdY9jmK" text="Wąski miecz bojowy z fulerem" />
+    <string id="sgfKrAaZ" text="Battański kuc" />
+    <string id="SHZ0P7Iu" text="Skórzana wyściełana peleryna" />
+    <string id="siuuhU6b" text="Imperialny hełm z nosalem z brązu" />
+    <string id="sJ1R62Tn" text="Hełm ze szczotą" />
+    <string id="smHA8Apa" text="Dekorowana czapa nomadzka" />
+    <string id="smKogclC" text="Tunika z worka" />
+    <string id="Sn2O0Ogx" text="Okrągły podbity skórą imperialny kapalin z brązu" />
+    <string id="sQAXkEQ7" text="Południowy kaptur kolczy" />
+    <string id="SrRspWRy" text="Skórzany pancerz płytowy" />
+    <string id="SUSbUAEl" text="Łuk ćwiczebny" />
+    <string id="SV1pTR2P" text="wyściełany czepiec" />
+    <string id="SW3lkPHe" text="Barwiony biszt" />
+    <string id="SXCa9d1n" text="Żelazny imperialny kolczy hełm z nosalem" />
+    <string id="SY2LOqnB" text="Prosta krótka północna włócznia" />
+    <string id="syb2EPBa" text="Pospolity północny topór bojowy" />
+    <string id="SYvBTD0p" text="Pełny hełm z tkaną owijką" />
+    <string id="SZrd85Uh" text="Koń bojowy" />
+    <string id="Szuxa9Bs" text="Porwane trzewiki" />
+    <string id="t01v8qW7" text="Dostojne wyściełane łapki" />
+    <string id="t28VYqjP" text="Wspaniała długa stalowa włócznia" />
+    <string id="T49rswmY" text="Otwarta południowa przyłbica" />
+    <string id="t695AnJU" text="Prosta suknia" />
+    <string id="t7IgyUea" text="Wschodnia lanca szlachcica" />
+    <string id="TbFLTHHm" text="Tyrhung" />
+    <string id="TBW9E2ao" text="Wiązana kusza" />
+    <string id="TDCn5dar" text="Imperialne wyściełane naramienniki" />
+    <string id="te48yHa8" text="Listkowy nóż do rzucania" />
+    <string id="tEimkEsU" text="Nordycki krótki łuk" />
+    <string id="TFT2Xapz" text="Szpiczasty wyściełany hełm" />
+    <string id="TgZIAdRk" text="Mocny południowy długi łuk" />
+    <string id="tiTTWhpW" text="Watowana skórzana koszula" />
+    <string id="tKODIU0F" text="Skórzane lamelkowe naramienniki" />
+    <string id="tMLH04n4" text="Kolczy kapalin" />
+    <string id="tMwsE9IR" text="Obijane skórzane buty" />
+    <string id="Tp7zXWGa" text="Watowany hełm z nosalem" />
+    <string id="TpjbgasA" text="Północny hełm wodza" />
+    <string id="tpQLvMSM" text="Kolczy hełm z nosalem" />
+    <string id="tQw4Zfwu" text="Gwieździsty Falcjon" />
+    <string id="Tr3x7ynD" text="Góralska łatana suknia" />
+    <string id="TsGFHbqp" text="Południowy pancerz lamelkowy" />
+    <string id="TTWL7RLe" text="Kusza" />
+    <string id="tVyuxl8e" text="Podarte szaty" />
+    <string id="tWfAPrPa" text="Kolcze buty kawalera" />
+    <string id="TxAYmCjr" text="Podbity skórą hełm z nosalem" />
+    <string id="tXbRb3QO" text="Ćwiekowana zbroja z futra" />
+    <string id="txgUxMYw" text="Trójkątna tarcza z wcięciem" />
+    <string id="tYVrECy7" text="Prowizoryczna jeździecka tarcza migdałowa" />
+    <string id="tZN9H492" text="Battański ogier bojowy" />
+    <string id="U4n0uSlg" text="Ciasny szal" />
+    <string id="u6c9yIXF" text="Południowa krótka watowana szata" />
+    <string id="U8QfF3Gw" text="Długa wełniana tunika" />
+    <string id="ubplQTXa" text="Południowe kolcze naramienniki" />
+    <string id="uDrT6v7a" text="Zachodnia tkana tunika" />
+    <string id="uEPRE33m" text="Surowe obwiązane karwasze" />
+    <string id="ueSnrLRy" text="Koń Cossyjski" />
+    <string id="ufnnUxKb" text="Skóra" />
+    <string id="UGhKalqb" text="Haczykowy zachodni topór" />
+    <string id="ukQCN90m" text="Wschodnie skórzane buty" />
+    <string id="uLpnmNkZ" text="Skórzana czapa" />
+    <string id="UMX05EQF" text="Lekka królewska buława" />
+    <string id="UoHZGyZa" text="Hełm z osłoną" />
+    <string id="UqdZmdcf" text="Koń bojowy" />
+    <string id="uqO6e6vN" text="Tarcza migdałowa" />
+    <string id="UsOgGylA" text="Kapalin kolczy" />
+    <string id="uUGAMReu" text="Dostojne buty mieszczańskie" />
+    <string id="UunjXpgb" text="Wspaniały stalowy Menavlion" />
+    <string id="UvJDlhMq" text="Wschodnia czapka" />
+    <string id="UvOa4elc" text="Zielony kaptur" />
+    <string id="UWPEu577" text="Północne mosiężne karwasze" />
+    <string id="UWvOndG0" text="Khuzaicka lekka lanca" />
+    <string id="uZ1sIlSQ" text="Wschodnia płytowa kamizelka skórzana" />
+    <string id="v1I2K4ab" text="Północny szeroki topór" />
+    <string id="v3lIxLvX" text="Pilum" />
+    <string id="V4b2ZRTH" text="Rhomphalia" />
+    <string id="v6W9XaDI" text="Stary futrzany pancerz" />
+    <string id="V7U0fFU9" text="Góralski łuskowany pancerz" />
+    <string id="v7WQhge3" text="Dekorowana szabla" />
+    <string id="VAcSEseI" text="Szeroki miecz z fulerem" />
+    <string id="VAO11FSu" text="Thamaskeński dwuręczniak" />
+    <string id="VbAHQ1BS" text="Długi futrzany płaszcz" />
+    <string id="VbL6GFmy" text="Masełko Harlausa" />
+    <string id="vbOjUu9M" text="Szpiczasty imperialny wyściełany kapalin" />
+    <string id="vbPBXiPC" text="Bogata tunika" />
+    <string id="VcbEaV7T" text="Wyściełany kapalin" />
+    <string id="Vdi0vZV7" text="Góralska kloaka" />
+    <string id="VDMkVMxt" text="Ciężkie kolcze łapki" />
+    <string id="vDvj5zkG" text="Morowe powietrze" />
+    <string id="veI9RcR3" text="Wzmacniana migdałowa tarcza" />
+    <string id="vfBg561n" text="Północny nabijany topór wojenny" />
+    <string id="VHPPqw9J" text="Zachodnia owijka na głowę" />
+    <string id="VMqzvfDO" text="Wschodni wiązany pancerz lamelkowy" />
+    <string id="vmz4vfu5" text="Oszczep z zadziorem" />
+    <string id="vNNMGllv" text="Północne płytowe rękawice" />
+    <string id="vPAHwC3X" text="Kradzione towary" />
+    <string id="VpxmlDyY" text="Zniszczone skórzane buty" />
+    <string id="vPXWpJTP" text="Góralski sztylet" />
+    <string id="VqFV9LS4" text="Czerwona suknia" />
+    <string id="VRP5Q4mU" text="Południowa kolczuga" />
+    <string id="vsavMoLZ" text="Segmentowy szyszak z wyściółką" />
+    <string id="VSMpadvq" text="Futrzany pancerz" />
+    <string id="vSu1fLNl" text="Góralska kloaka z futrzaną podbitką" />
+    <string id="vtoxbHmB" text="Zagięty góralski hełm" />
+    <string id="vU1ibFrY" text="Wschodni wzmocniony pancerz" />
+    <string id="VucrovFw" text="Grawerowany miecz" />
+    <string id="vw9qbiER" text="Stepowa uprząż" />
+    <string id="vwAaIwnD" text="Zamknięty południowy hełm kolczy" />
+    <string id="vwVFF1XJ" text="Góralskie futrzane buty" />
+    <string id="VXER7AbJ" text="Imperialny hełm możnego" />
+    <string id="VXFwEF3M" text="Kaptur pielgrzyma" />
+    <string id="vXvuViMT" text="Prowizoryczna tarcza migdałowa" />
+    <string id="VylHwqVq" text="Segmentowy hełm z wiązanym czepcem" />
+    <string id="VyOsYv8J" text="Długa południowa szata" />
+    <string id="w6EU77OH" text="Stepowy łuk refleksyjny" />
+    <string id="w6j8Oaai" text="Podbite luźne kajtuzy" />
+    <string id="w6sFabVp" text="Łuk z południowego plemienia" />
+    <string id="W8OGOfyt" text="Kefija z brązowym pierścieniem" />
+    <string id="w9RLq82l" text="Żelazny miecz rycerski" />
+    <string id="WahziEXA" text="Skórzane onuce" />
+    <string id="WaQOFmas" text="Topór z imperium" />
+    <string id="wBfGpcCO" text="Watowany kapalin" />
+    <string id="WCbpw1wM" text="Ciężki imperialny watowany hełm z nosalem" />
+    <string id="wEfZyccm" text="Pełny hełm z wiązanym czepcem" />
+    <string id="wEJAab0A" text="Północna czapka" />
+    <string id="WePcpx0u" text="Niebosiężny sztandar" />
+    <string id="wEs2uEmb" text="Kosztowny wschodni płaszcz" />
+    <string id="wfhHGTbl" text="Stepowy łuk wojenny" />
+    <string id="wG582fzT" text="Watowana łebka" />
+    <string id="Wh48Wl0C" text="Vlandzka ciężka lanca" />
+    <string id="WH7bbK6G" text="Zachodni watowany płaszcz" />
+    <string id="whvMZZba" text="Podbite wyściełane karwasze" />
+    <string id="wiyLpYfw" text="Zachodnie strzały" />
+    <string id="wKucIANJ" text="Skórzany płaszcz" />
+    <string id="wltdyF2j" text="Łuk myśliwski" />
+    <string id="wMO0hoqC" text="Zachodnia pospolita suknia" />
+    <string id="WMqHlEvb" text="Segmentowy szyszak kolczy" />
+    <string id="wpaVnRZG" text="Trójkątna chorągiew " />
+    <string id="WpdmIlU5" text="Nitowana tarcza migdałowa" />
+    <string id="WrlIl4nW" text="Zachodnia pika" />
+    <string id="WRqYWspc" text="Długi łuk możnego" />
+    <string id="WrwO8xsN" text="Zszywane skórzane naramienniki" />
+    <string id="wSaoZOr2" text="Północny szpiczasty opierzony hełm możnego" />
+    <string id="WSk5Sibs" text="Serek" />
+    <string id="WST7ftTa" text="Północny płaszcz płytowy" />
+    <string id="wSUN0Dmo" text="Dummy Max Armor" />
+    <string id="WUArer5A" text="Otwarty watowany czepiec" />
+    <string id="WvDZMmaj" text="Hełm nomada" />
+    <string id="WVqaRKUm" text="Wełna" />
+    <string id="wW3iouiU" text="Hidżab" />
+    <string id="WYFDXE82" text="Duża okrągła tarcza" />
+    <string id="WYytQbvS" text="Pełny hełm z bojowym czepcem" />
+    <string id="wZ3nKO6j" text="Wschodnie skórzane naramienniki" />
+    <string id="x0x1gIbT" text="Mężobójca" />
+    <string id="X1Wn0sBa" text="Skórzany ćwiekowany hełm z surową łuskową podbitką" />
+    <string id="X3FAb6Wm" text="Północny przyzdabiany hełm z wizjerem" />
+    <string id="x8gjWt79" text="Ciężki topór obosieczny" />
+    <string id="xa7KRSCy" text="Podszywana skórzana kurta" />
+    <string id="XazcYatD" text="Imperialny hełm z nosalem" />
+    <string id="xbB9Ga5X" text="Zwężane północne ostrze" />
+    <string id="XbwDj80t" text="Stepowe strzały" />
+    <string id="XDsFl200" text="Imperialna lanca" />
+    <string id="XGX6DbFL" text="Lamelkowe rękawice" />
+    <string id="XH9f3yOX" text="Płaszcz futrzany z tuniką" />
+    <string id="xkX9T0yT" text="Luźno zawiązany południowy hełm" />
+    <string id="xl5MgK49" text="Sturgijski ciężki hełm jeździecki" />
+    <string id="xnDWqYKW" text="Łowca" />
+    <string id="xnoAJwoy" text="Pełny hełm watowany" />
+    <string id="XoISdMVx" text="Wschodni hełm szlachcica z futrem" />
+    <string id="XOvg9rbg" text="Południowy pancerz strzelca" />
+    <string id="XRaPBg6d" text="Mały zgryźliwy topór" />
+    <string id="xS7m37o7" text="Wysoki hełm kolczy" />
+    <string id="Xs8a5YxN" text="Hełm południowego pana" />
+    <string id="xsO9LNmO" text="Kaptur kolczy z imperium" />
+    <string id="xsu6bPTv" text="Surowy len" />
+    <string id="XTGdfqVV" text="Przepastny gwieździsty falcjon" />
+    <string id="XTqplCsv" text="Północny Hauberk" />
+    <string id="xTyib5ms" text="Szeroka listkowa profilowana włócznia" />
+    <string id="XU9WgcIO" text="Wzmocniony zamszowy pancerz" />
+    <string id="xWFW8jXw" text="Topór bitny" />
+    <string id="xYUHruEl" text="Góralska kapuza" />
+    <string id="XyXSx0R8" text="Pospolite wschodnie odzienie" />
+    <string id="XZAAz7NX" text="Krótka imperialna tunika" />
+    <string id="y3oIzUEp" text="Tunika z naramiennikami" />
+    <string id="y9uMjAKT" text="Wzmocnione zamszowe naramienniki" />
+    <string id="YAOfXanz" text="Północny hełm magnata" />
+    <string id="YAYhozbN" text="Koń stepowy" />
+    <string id="ybpZdt9S" text="Północna fałdowana tkanina" />
+    <string id="Ybq7jZDj" text="Góralska czapa z cieńkiej skóry" />
+    <string id="yCvBx27Z" text="Ząbkowana włócznia" />
+    <string id="Yd4lmlQp" text="Wspaniała wąska stalowa kaskara" />
+    <string id="YDibTDob" text="Góralski hełm koronny" />
+    <string id="ydxXW0ZW" text="Północny podbity skórą hełm" />
+    <string id="YEUFtX4G" text="Wilcze ramię" />
+    <string id="YfB0SJqY" text="Kolczuga z białym tabardem" />
+    <string id="yFjmkALW" text="Północna kolczuga ze skórzanym tabardem" />
+    <string id="ygfhbfr0" text="Wysoki hełm" />
+    <string id="YGQ6UXCo" text="Górski łuk myśliwski" />
+    <string id="yGwxXsIL" text="Bojowy koń stepowy" />
+    <string id="Yh7Dorsr" text="Skórzana uprząż" />
+    <string id="yHGfsYzg" text="Wyważona wschodnia włócznia" />
+    <string id="YLplNGxb" text="Kalradyjska buława" />
+    <string id="yMi4ijgI" text="Wyściełany kaptur nomadów" />
+    <string id="Yms2FQ7g" text="Pół-kolcza zbroja końska" />
+    <string id="YMtHkAUj" text="Wschodni gruby płaszcz" />
+    <string id="Yo56PtJZ" text="Imperialna przeszywanica" />
+    <string id="YPUDAJDH" text="Harpun" />
+    <string id="YqhOxb1Z" text="Hełm lamelkowy" />
+    <string id="yQTBY9ie" text="Biżuteria" />
+    <string id="YrAVxmFn" text="Góralski szeroki miecz" />
+    <string id="YRYJGzxw" text="Zdobiona Adarga" />
+    <string id="YteV789y" text="Góralski hełm futrzany" />
+    <string id="yTWOMSmv" text="Tunika z konopii" />
+    <string id="z62uDlbh" text="Nordycka okrągła tarcza" />
+    <string id="Z6Ak3H6G" text="Dziryt" />
+    <string id="z6eTba5h" text="Ciężki zszywany hełm z nosalem" />
+    <string id="z8d2uyY1" text="Segmentowy podbijany szyszak" />
+    <string id="Z8Kc6XlP" text="Zachodni oszczep" />
+    <string id="Z9RlnXrD" text="Futrzana spódnica" />
+    <string id="zAvb7WKe" text="Segmentowy podbijany hełm" />
+    <string id="ZbmlNZpU" text="Wschodnia futrzana czapa" />
+    <string id="zbsajPMp" text="Halabarda" />
+    <string id="ZbsGBv10" text="Knur" />
+    <string id="zBUT90xQ" text="Thamaskijska stalowa kaskara" />
+    <string id="Ze9u7Saj" text="Żelazny piórowany kolczy spangen z brązu" />
+    <string id="ZEybMjoq" text="Północna czapka z niewygarbowanej skóry" />
+    <string id="ZFde57gC" text="Wytrzymałe góralskie siodło" />
+    <string id="ZFETxZKP" text="Kefija z jedwabną owijką" />
+    <string id="ZFwKlHIJ" text="Leśny łuk długi" />
+    <string id="ZgVVPGTb" text="Winogrona" />
+    <string id="zGXZJFOb" text="Zbroja lamelkowa z łuskowanym spodem" />
+    <string id="ZjAZNjvu" text="Północna prążkowana zbroja końska" />
+    <string id="ZJYVpjuR" text="Siodło dla wielbłąda z ciężkim bagażem" />
+    <string id="ZLpYFYXo" text="Wspaniała ząbkowana stalowa włócznia" />
+    <string id="zLxE6e7A" text="sturgian_fortified_armor" />
+    <string id="zmEnxUpL" text="Imperalna łuskowa zbroja końska" />
+    <string id="ZOoxd36t" text="Zbroja góralskiego najemnika" />
+    <string id="ZOWdFaUi" text="Wysoki hełm z misiurką" />
+    <string id="ZqbyJ5Pl" text="Żelazny okrągły kapalin z imperialną misiurką" />
+    <string id="ZqTFQeai" text="Skórzana tunika" />
+    <string id="zQv3w264" text="wyściełany czepiec" />
+    <string id="ZRDoABz9" text="Hełm podszyty futrem" />
+    <string id="zUFRE9y4" text="Kilof" />
+    <string id="ZuOWvXMB" text="Góralski skórzany ćwiekowany hełm" />
+    <string id="ZV1bKLUn" text="Kapalin ze skórzaną owijką" />
+    <string id="Zvxydvao" text="Imperialna bogata suknia" />
+    <string id="Zwb65ufG" text="Glina" />
+    <string id="Zx4h7jDy" text="Dummy Min Armor" />
+    <string id="zZ2G7uIO" text="Kapalin z misiurką" />
+  </strings>
+</base>

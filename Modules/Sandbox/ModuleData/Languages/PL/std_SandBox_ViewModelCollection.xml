@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="3CpNUnVl" text="Anuluj" />
+    <string id="5zeL8sa9" text="Zyskujesz {A0} wpływu." />
+    <string id="6qYaQkDD" text="{COUNT} + {PRISONER_COUNT}w" />
+    <string id="7WdWK2Dt" text="Zapisz grę" />
+    <string id="8OkPHu4f" text="Nie" />
+    <string id="9NuttOBC" text="Wczytaj" />
+    <string id="aeouhelq" text="Tak" />
+    <string id="Ahy035gM" text="Koszt budowy" />
+    <string id="azJulvrp" text="{?IS_BETTING}Stracisz {BET_AMOUNT}{GOLD_ICON}, jeżeli teraz zrezygnujesz.{newline}Na pewno chcesz się wycofać?" />
+    <string id="bV75iwKa" text="Zapisz" />
+    <string id="CiIWjF3f" text="+{PRISONERAMOUNT}w" />
+    <string id="eiWQoW9j" text="Zyskujesz {A0} renomy." />
+    <string id="eL8nhkhQ" text="Utwórz nowy zapis" />
+    <string id="eTw2aNV5" text="+" />
+    <string id="GAWxyVgq" text="Usuń" />
+    <string id="GZWPHmAw" text="Dzień : {DAY}" />
+    <string id="HH2mZq8J" text="Czy na pewno chcesz usunąć tę zapisaną grę?" />
+    <string id="hiCxFj4E" text="Zapisane kampanie" />
+    <string id="hYL3CFHX" text="Czy chcesz nadpisać zapisaną grę?" />
+    <string id="IwhpeT8C" text="Poziom : {PLAYER_LEVEL}" />
+    <string id="IXwOaa98" text="Rozmiar oddziału" />
+    <string id="JAFIo7cM" text=":" />
+    <string id="kJtNMYum" text="Niezgodność modułu" />
+	<string id="L9GnQvsq" text="Stawka: {BETTED_DENARS}" />
+    <string id="LBNzsqyb" text="Lenna" />
+    <string id="lh0so0uX" text="Czy chcesz załadować zapisaną grę z innymi modułami?" />
+    <string id="lPMYSSAa" text="Wymagane narzędzia" />
+    <string id="mDFhzEMC" text="Maks. punkty zdrowia" />
+	<string id="nvemmBZz" text="Zdobywasz {AMOUNT}% łupów i więźniów" />
+    <string id="O9nwLrYp" text="+{WOUNDEDAMOUNT}r" />
+    <string id="oBbiVeKE" text="Zdrowie" />
+    <string id="oHaWR73d" text="Ok" />
+    <string id="Q1HIlJxe" text="Nadpisz" />
+    <string id="QHV8aeEg" text="Usuń zapis" />
+    <string id="qIeDZoSx" text="Kupione" />
+    <string id="qSi4DlT4" text="Żywność" />
+    <string id="R2AaCaPJ" text="Oczekiwana zmiana" />
+    <string id="raD9MK3O" text="Poziom trudności" />
+    <string id="RVPidk5a" text="Wpływ" />
+    <string id="UwuYCgIU" text="Uwaga" />
+    <string id="V4iU0wRv" text="Złoto" />
+    <string id="WAKz9xX8" text="Zyskujesz {A0} morale." />
+    <string id="WDlVhNuq" text="Nazwij swój plik zapisu" />
+    <string id="WiNRdfsm" text="Wyjdź" />
+    <string id="xu5NA6AW" text="Zyskujesz {A0}% łupów." />
+    <string id="xzzSaN4b" text="Spodziewany: {OVERALL_EXPECTED_DENARS}" />
+    <string id="yF5fpwNE" text="Razem: {TOTAL}" />
+    <string id="YgyHVu8S" text="Sprzedano" />
+    <string id="YXgNatqF" text="Wersja tego zapisu nie odpowiada bieżącej wersji gry. Postępuj ostrożnie." />
+  </strings>
+</base>

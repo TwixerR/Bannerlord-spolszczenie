@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="6g08hTX5" text="Ziarno zebrane z lokalnych pól jest tu przetwarzane na brzeczkę, z którego warzy się piwo. W Calradii kufel dobrego piwa jest jedną z nielicznych rzeczy która łącząy wszystkie klasy społeczne." />
+    <string id="7hx2Nlmd" text="Garbarnia" />
+    <string id="8MwqyFfS" text="Kowal" />
+    <string id="AfiEQPky" text="Każde miasto ma kilku rzemieślników. Ktoś musi robić codzienne rzeczy dla zwykłych ludzi, a większość robi to sama." />
+    <string id="aIUXMvjS" text="Winiarnia wytwarza wino ze sprasowanych winogron. Jest to towar zarezerwowany dla możniejszych mieszkańców Calradii i zawsze cieszy się popytem." />
+    <string id="boupIGPX" text="Olejarnia" />
+    <string id="bZeZCHoa" text="Tkalnia wełny" />
+    <string id="cabJ2jXP" text="Warsztaty ceramiczne przekształcają glinę w ceramikę. Nie ma bogatych ani biednych domowników, którzy mogliby przeżyć dzień bez kubków, garnków i innych naczyń." />
+    <string id="cxrsASao" text="Cenna ruda srebra zamienia się w piękną biżuterię u złotnika. Biżuteria jest jednym z najwartościowszych towarów luksusowych." />
+    <string id="EBCKXbTa" text="Przetwórnia aksamitu" />
+    <string id="eS6nGak1" text="Tkacz wełny" />
+    <string id="EVSoHzAQ" text="Tu wykonuje się odzież z wełny owczej. Przetworzone runo owcze cenione jest za swe właściwości izolacyjne." />
+    <string id="GsaLzLfl" text="Gorzelnia" />
+    <string id="gZArIwNi" text="Złotnik" />
+    <string id="HXuAkbcU" text="Tkalnia aksamitu" />
+    <string id="IO7Jgato" text="Cieśla" />
+    <string id="IwFxZ6ab" text="Surowy len jest tu pleciony w użyteczne płótno. Wiele osób kupuje go do ogólnego użytku. Jest również niezbędny do produkcji odzieży, oraz innych dóbr." />
+    <string id="J2Ioper5" text="Kuźnie są kluczowym elementem zaopatrzenia sił zbrojnych. Ruda żelaza jest przetapiana i przekuwana w rozmaite elementy, narzędzia i uzbrojenie." />
+    <string id="KcDJ5HXC" text="Mocne drewno liściaste ma wiele zastosowań. Rzemieślnicy tworzą z niego łuki i tarcze." />
+    <string id="Kqt8RHh7" text="Kuźnia" />
+    <string id="LC0mHXge" text="Oliwki są tłoczone w prasie do oliwek, uzyskując z nich olej. Ten z kolei zawsze ma dobrą cenę na rynku." />
+    <string id="NbhGCck5" text="Surowa skóra nie nadaje się do niczego. Ale w garbarni zamieniamy je w skórę i lekkie zbroje." />
+    <string id="ousGnzju" text="Garbarz" />
+    <string id="PdvjpThP" text="Właściciel winiarni" />
+    <string id="pVjxlT1f" text="Piwowar" />
+    <string id="QChaCM2g" text="W tym warsztacie delikatna bawełna jest przetwarzana w jeszcze delikatniejszy aksamit. Aksamit jest jednym z najbardziej luksusowych towarów w Calradii." />
+    <string id="qfzkMuLj" text="Rzemieślnik" />
+    <string id="RLz2b53X" text="Sukiennik" />
+    <string id="Tj7ErPfn" text="Sklep z ceramiką" />
+    <string id="tK4IiP3J" text="Przetwórnia lnu" />
+    <string id="UiSes6XY" text="Warsztat ciesielniczy" />
+    <string id="uy2mSmw3" text="Prasa do wina" />
+    <string id="VHLUHBaT" text="Rzemieślnicy" />
+    <string id="wCuAxt4m" text="Wyciskacz" />
+    <string id="wLTQpbIM" text="Garncarz" />
+  </strings>
+</base>

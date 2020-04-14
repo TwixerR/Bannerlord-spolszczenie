@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="2NR2E663" text="Oaza" />
+    <string id="3aOIY6wl" text="Kopalnia Soli" />
+    <string id="6WbkldyD" text="Tartak" />
+    <string id="7dW5m6Xa" text="Ranczo dla bydła" />
+    <string id="BPPG2XF7" text="Farma pszenicy" />
+    <string id="dIBuwAhe" text="Farma Przypraw" />
+    <string id="EBO1FIC9" text="Farma owiec" />
+    <string id="ewrkbwI9" text="Drzewa oliwne" />
+    <string id="hopZmzBi" text="Stepowa Stajnia" />
+    <string id="hPq4vD4Z" text="Zatrzymaj budowe" />
+    <string id="koX9okuG" text="Żaden" />
+    <string id="NWUTYDQ0" text="Świątynia" />
+    <string id="OSron4OZ" text="Rybołówstwo" />
+    <string id="pYY1UNgS" text="Kopalnia Gliny" />
+    <string id="rHcVKSbA" text="Kopalnia Żelaza" />
+    <string id="vPt1OF30" text="Pustynna Stajnia" />
+    <string id="Xj8gsFrW" text="Jedwabna Roślina" />
+    <string id="Z8ntYx0Y" text="Pole lnu" />
+    <string id="ZtxWTS9V" text="Winnica" />
+    <string id="zzQdNpXw" text="Stajnia" />
+  </strings>
+</base>

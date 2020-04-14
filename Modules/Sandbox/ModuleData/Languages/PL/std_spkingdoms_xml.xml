@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="0B27RrYJ" text="Battania" />
+    <string id="5djtBrHj" text="Sułtan" />
+    <string id="8HMyTKF6" text="Vlandowie" />
+    <string id="8pjMAqOg" text="Senat" />
+    <string id="afvM7XpQ" text="Wysoki Król" />
+    <string id="bF7HmNGQ" text="Khanat Khuzaicki" />
+    <string id="bgjiFSHZ" text="Battanians" />
+    <string id="bVihnRUu" text="Konfederacja małych królestw, która znana jest teraz jako Księstwo Sturgii powstała ledwo sto lat temu. Gdy kolonizatorzy osiedlili się wzdłuż wielkich rzek północy, przywódcy lokalnych plemion zawarli poprzez małżeństwa pakty z Nordami oraz podróżnikami, oraz wynajęli ich miecze, aby pokonać swych sąsiadów. Pod presją imperium, wybrali księcia by dowodził im w wojnie, z czasem tytuł księcia stał się urzędem dziedzicznym. Jednakże idea monarchii nigdy nie miała łatwo z myślącymi o niezależności bojarami, a potencjał rebelii zawsze spoglądał spod powierzchni polityki Strugii." />
+    <string id="C4qjBqLO" text="Sturgians" />
+    <string id="dN5JCX8n" text="Rada Starszych" />
+    <string id="DrnZOsjo" text="Sukcesja Dynastyczna" />
+    <string id="EBCV0LcU" text="Mówca" />
+    <string id="fE5U9ApA" text="Imperium Calradii nie jest monarchią. Mieszkańcy Calradii domagali się tego. Cesarz, dawniej tylko dowódca armii, mógł również zająć się większością innych spraw państwowych. Zamiast być wybieranym co kilka lat przez Senat, teraz może rządzić przez całe swoje życie, który to urząd może być dziedziczony przez jego syna. Popularne zgromadzenia, które niegdyś decydowały o przyjęciu kluczcowych polityk wygasło, a Senat, czyli zgromadzenie właścicieli ziemskich może mieć znacznie mniej władzy, niż to miało miejsce na przestrzeni wieków. Jednakże nie jest to monarchia, ponieważ jest całkowicie zabronione by Calradianie byli rządzeni przez Króla. Imperium jest przykładem tego, co dzieje się, gdy liga państw-miast podbija kontynent. Społeczność niegdyś rządzona przez wolnych rolników o względnie równym bogactwie ma teraz ogromną przepaść pomiędzy bogatymi a biednymi mieszkańcami. Instytucje zaprojektowane, aby zapobiec sytuacji, w której jeden człowiek stanie się tyranem wchodzi w konflikt z niekończącą się wojną, która wymaga jednolitego dowodzenia. Bez jakichkolwiek płynnych sukcesji śmierć cesarza zawsze była potencjalnym kryzysem. Zwykle Cesarz mianował spadkobiercę, senat ratyfikował jego wybór, a ludzie (czyli wojsko) uznawali go. Jednak nie zawsze odbywało się to tak płynnie, a wtedy sukcesja rozstrzygana była na polu bitwy. Obecny konflikt, który wybuchł po zamordowaniu ostatniego Cesarza Arenicosa, jest jedną z tych Cesarskich wojen domowych." />
+    <string id="fGNdo1BK" text="Przez stulecia plemiona na rozległych stepach na wschód od imperium były zadowolone z życia jako koczownicy, zapuszczając się na ziemie cesarskie w celu najazdów i handlu, a następnie wracając do swojej rodowej wolności. Jednak dwa pokolenia temu wydarzyło się coś daleko na wschodzie - być może zmiana wiatrów lub jakiś straszny, ale odległy zdobywca - a końskie klany zostały wprawione w ruch. Khuzait Urkhun poprowadził klany najbliższe imperium do ich  wschodnich prowincji, pokonując wschodnią prowincję i tworząc khanat. Narzucił dyscyplinę niesfornym klanom, zmuszając ich, by jechali na wojnę na jego rozkaz, a nie tylko wtedy, kiedy chcieli. Jednak po jego śmierci duch jedności, który ich zainspirował, zaginął. Jego potomkowie nadal rządzą khanatem, ale niektóre inne klany plewą pod jego zwierzchnictwem, a inne marzą o tym, by zostać chanem. " />
+    <string id="FjwRsf1C" text="Vlandia" />
+    <string id="FmbgPGBL" text="Wielki Książe" />
+    <string id="frBQ9mbP" text="Południowe Imperium" />
+    <string id="GbnlN6na" text="południowe Imperium" />
+    <string id="GH6FLbYm" text="Tajna Rada" />
+    <string id="hwnp9abW" text="Król" />
+    <string id="IaCpmuL5" text="Reformy Ziemskie" />
+    <string id="IPrTwc28" text="Zgromadzenie Plemienne" />
+    <string id="IudGLWQZ" text="Monarchia Vlandii wywodzi się od Osrica Iron-Arma, wodza, który przejął zachodnie wybrzeża Imperium i został przez cesarzy za cenę pokoju uznany za Króla. Uznał on swych poruczników za baronów i hrabiów, zapewniając im zwierzchnictwo nad ich ziemiami w zamian za zebraniem się pod jego sztandarem w czasie wojny. Niektórzy królowie Vlandii starali się rozszerzyć wpływy królestwa; inni pozwalali baronom na spory między sobą, o ile pieniądze, oraz zasoby ludzkie były tam, gdzie były potrzebne." />
+    <string id="iWyvNzBB" text="Ochrona Własności" />
+    <string id="iYCR3xuQ" text="Księstwo of Sturgia" />
+    <string id="lAWwcO6b" text="Królestwo Vlandii" />
+    <string id="NaNMRPv4" text="Aserai" />
+    <string id="NF627oiX" text="Północne Imperium" />
+    <string id="nsDj8Qxl" text="północne Imperium" />
+    <string id="PjO7oY16" text="Sturgia" />
+    <string id="qaDIU0XC" text="High Kingdom of the Battanians" /> X
+    <string id="qggtvf8Y" text="Imperium zawsze wolało nie wysyłać swych legionów na pożerające wojska pustkowie Nahasy. Zamiast tego narzucało swoją władzę na to pogranicze, jednocząc władców wśród klanów, które rywalizowały w niekończącym się tańcu o władzę. Te klany, które mogły zabezpieczyć ładunki w oazach, wygrały imperialną dotację na ochronę karawan, dzięki czemu się wzbogacały. Te, które nie mogły, zostały zepchnięte na pustynie, pozostawione do wychowywania kóz i napadania na karawany, dopóki nie będą w stanie uknuć swego powrotu. Dzisiaj, wraz z upadkiem Imperium, Aserai zgodzili się na utworzenie konfederacji pod Sułtanem, wybranym przez najbogatszy z klanów Banu Hulyan. Jednak wszyscy wiedzą, że taniec został tylko tymczasowo zatrzymany, a gdy nadejdzie właściwy moment zacznie się od nowa." />
+    <string id="rqHFujhr" text="Święta Wysokość" />
+    <string id="sg4bbc7K" text="Zeznanie" />
+    <string id="sZLd6VHi" text="Khuzait" />
+    <string id="UsbwPmYb" text="Sułtanat Aserai" />
+    <string id="vJOWy1QF" text="Khuzaits" />
+    <string id="yG3YUySN" text="Zachodnie Imperum" />
+    <string id="ZEmH0MwL" text="zachodnie Imperium" />
+    <string id="ZjaaAoxd" text="Od niepamiętnych czasów istniał Wielki Król Battanii, koronowany w wielkiej ceremonii na świętym wzgórzu Dunthanach. Zapytaj jednak każdego wodza Battońskiego w czyim „królestwie mieszka”., a on rozejrzy się po swoim dworze, polach i pastwiskach, trzodach i sługach i odpowie 'W moim oczywiście.' Dopiero ostatnio, idąc przykładem Imperium, Najwyżsi Królowie podjęli wszelkie wysiłki, aby wywrzeć swój autorytet. 'Takie niesforne bydło, jak mój lud, wymaga silnej reki pasterza, aby wyprowadzić je z wąwozu i chronić przed wilkiem', powiedział jeden z ostatnich wysokich króli, zaraz przed tym, jak został zdradzony przez swego zazdrosnego kuzyna i zabrany w łańcuchy do najbliższej placówki cesarskiej." />
+  </strings>
+</base>

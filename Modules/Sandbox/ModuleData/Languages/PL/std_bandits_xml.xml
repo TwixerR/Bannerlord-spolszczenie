@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="0Ikzzm71" text="Wódz Korsarzy" />
+    <string id="0qDNS83n" text="Bandyta Nomadów" />
+    <string id="9laVlEH9" text="Górski bandyta" />
+    <string id="Awc23bFS" text="Rabuś" />
+    <string id="Bg63YFnh" text="Szef Bandytów Stepowych" />
+    <string id="C1Fkzdvu" text="Kapitan korsarzy" />
+    <string id="C8DE6L73" text="Dezerter" />
+    <string id="cbnvgVhH" text="Łupieżca" />
+    <string id="cdbSCr6G" text="Harami" />
+    <string id="dc2qxanZ" text="Herszt leśnych zbójów" />
+    <string id="dq2cP8h0" text="Korsarz" />
+    <string id="HadsURl8" text="Łotrzyk" />
+    <string id="Nr8NkHXU" text="Ciężkozbrojny korsarz" />
+    <string id="P6Md9DpR" text="Rozbójnik" />
+    <string id="Q2V4uQrr" text="Herszt pustynnych bandytów" />
+    <string id="sFgODQ1q" text="Leśny zbój" />
+    <string id="uOAnHN47" text="Beduiński wędrowiec" />
+    <string id="urUwa4bf" text="Grabieżca" />
+    <string id="ZA4bgJ5V" text="Bandyta stepowy" />
+    <string id="ziOBJSzR" text="Herszt bandytów stepowych" />
+    <string id="ZKdiaaFo" text="Zbój" />
+    <string id="ZxmBdWTu" text="Zakapior" />
+  </strings>
+</base>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="171fTtIN" text="SandBox" />
+    <string id="6mN03uTP" text="Zapisane Gry" />
+    <string id="9NuttOBC" text="Wczytaj" />
+    <string id="A7349NHy" text="Krytyczna decyzja królestwa" />
+    <string id="AbEh2y8o" text="Zapisz i wyjdź" />
+    <string id="bFzZwwjT" text="Zbadaj" />
+    <string id="bV75iwKa" text="Zapisz" />
+    <string id="e0KdfaNe" text="Zapisz jako" />
+    <string id="NqarFr4P" text="Opcje" />
+    <string id="PXT6aA4J" text="Opcje Kampanii" />
+    <string id="RamV6yLM" text="Wyjdź do Menu" />
+    <string id="VHjIJGja" text="Musisz być w królestwie" />
+    <string id="XzZFhRwr" text="Wróć do gry" />
+  </strings>
+</base>

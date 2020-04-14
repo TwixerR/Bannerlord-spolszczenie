@@ -1,0 +1,51 @@
+Wczesna wersja 0.2 - druga publikacja z 12.04.2020
+
+Wersja tłumaczenia jest kompatybilna z wersją 1.1.0 gry Mount & Blade II: Bannerlord.
+Wykonano poprawki:
+-menu gry, ustawień i opcji,
+-jednostek,
+-elementów interfejsu
+-ciągi logiczne
+
+dodano:
+Baka: poprawione nazwy jednostek, poprawione nazwy w kuźni, poprawione błędy w opisach królestw, przetłumaczone wszystkie perki wraz z opisami, przetłumaczona duża część zarządzania miastem/zamkiem (nazwy budynków i opisy), no i robiłem trochę suchego tekstu czyli trochę konwersacji i questów, ale to raczej pod nic nie przypiszesz, bo nie wiem gdzie się to pojawia w grze. Rozwinięcia 4000 linijek tekstu, mieszanych elementów dialogów, opisów i statystyk. przetłumaczono częściowo perki i umiejętności.
+
+Daedalus: co do mnie, to poprawione jest całe tworzenie postaci. Poza wyborem kultury, co jest gdzieś w innym pliku, wszystko powinno tam być już na gotowo. Do tego ekrany - postaci, ekwipunku, klanu, dziennika, panel mapy - wszystko powinno już dość fajnie i spójnie wyglądać. Poprawiono obóz szkoleniowy.
+
+WPROWADZONO NOWĄ CZCIONKĘ
+
+Diox: Podjęto prace nad instalatorem plików, weryfikowanie danych, wprowadzanie poprawek i korekt do XMLi.
+
+Drogowit: Poprawiono nazwy przedmiotów, wstępne dialogi towarzyszy, część opisów zadań, eksperymentalne ciągi logiczne. Może być kilka fraz z "TEST PL".
+__ __ __ __ __ __ __
+Wszystkie błędy i uwagi prosimy kierować bezpośrednio na jednym z niżej wymienionych:
+
+drogowit@protonmail.com
+
+https://www.youtube.com/channel/UCfVW_udigPkWaX3Tai3_CWw
+
+Pozdrawiamy,
+Zespół Projekt Polski Bannerlord :)
+
+
+__ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+
+
+
+Wczesna wersja 0.1 - pierwsza publikacja z 07.04.2020.
+
+Wykonano podstawowe tłumaczenie:
+-ścieżki fabularnej,
+-przedmiotów,
+-jednostek,
+-interfejsu gry i opcji.
+
+__ __ __ __ __ __ __
+Wszystkie błędy i uwagi prosimy kierować bezpośrednio na jednym z niżej wymienionych:
+
+drogowit@protonmail.com
+
+https://www.youtube.com/channel/UCfVW_udigPkWaX3Tai3_CWw
+
+Pozdrawiamy,
+Zespół Projekt Polski Bannerlord :)

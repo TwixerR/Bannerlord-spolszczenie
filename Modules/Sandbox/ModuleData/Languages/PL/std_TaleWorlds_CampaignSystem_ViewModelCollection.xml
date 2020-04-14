@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+		<string id="05fdfc6e238429753ef282f2ce97c1f8" text="Ilość: " />
+    <string id="08abd5af7774d311cadc3ed900b47754" text="Typ: " />
+    <string id="0Q4Xo2BQ" text="Wybierz przywódcę nowego oddziału" />
+    <string id="0rBsbw1T" text="Brak efektu" />
+    <string id="13wo3QQB" text="Drugorzędna" />
+    <string id="154a34f8caccfc833238cc89d38861e8" text="Wymaga: " />
+    <string id="1CXlqb2U" text="Wybierz:" />
+    <string id="1oeak0OC" text="Wykuj" />
+    <string id="2abtb4xu" text="Niezależny" />
+    <string id="2ckyCKR7" text="Rezerwy" />
+    <string id="2Cq3tViJ" text="Limit jednostek w oddziale" />
+    <string id="2GWR9Cba" text="Ognisko" />
+    <string id="2nN1QuxZ" text="To zadanie zakończy się niepowodzeniem, chyba że zostanie ukończone w tym czasie." />
+    <string id="3025020b83b218707499f0de3135ed0a" text="Zwrotność: " />
+    <string id="305cf7f98458b22e9af72b60a131714f" text="Końska Zbroja: " />
+    <string id="345a87fcc69f626ae3916939ef2fc135" text="Prędkość Wymachu: " />
+    <string id="3CpNUnVl" text="Anuluj" />
+    <string id="3F0y3ugx" text="Sukces!" />
+    <string id="3ORSs1nN" text="Aktualny bonus: {BONUS}" />
+		<string id="3sxtCWPe" text="TEST Opuść Królestwo" />
+    <string id="43HYUImy" text="{SETTLEMENT} - Oblężenie" />
+    <string id="4cU98rkg" text="Przetapianie" />
+    <string id="4U9EnZt5" text="Krytyczny sukces!" />
+    <string id="4uMWNDoi" text="Szybkość pchnięć" />
+    <string id="51ZgFP8d" text="Ucieka przed {TARGET_PARTY}." />
+    <string id="5bzk75Ql" text="Goni {TARGET_PARTY}." />
+    <string id="5dCR9ixM" text="Możesz sprzedać ten warsztat za {AMOUNT} denarów." />
+    <string id="5dec16fa0be433ade3c4cb0074ef366d" text="Celność: " />
+    <string id="5fa36d2798479803b4518a64beb4d732" text="Długość broni: " />
+    <string id="5Unqsx3N" text="Potwierdź" />
+    <string id="63Ic1Ahe" text="Koszt: {UPGRADE_COST} (Nie posiadasz)" />
+		<string id="68IlDbA2" text="Potrzebujesz umiejętności {PERK_NAME}, aby ulepszyć oddział bandytów do normalnych żołdaków." />
+    <string id="6adabc1f82216992571c3e22abc164d7" text="Limit amunicji: " />
+    <string id="6GSXsdeX" text="Prędkość" />
+    <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Prędkość: " />
+    <string id="7h6cXdW7" text="Inżynier" />
+    <string id="7tBOCHm6" text="Kolor znaku:" />
+    <string id="7Xynf4IA" text="Ochrona rąk" />
+    <string id="8BlMRMiR" text="Poziom konia" />
+    <string id="8cad4a279770f269c4bb0dc7a357ee1e" text="Klasa: " />
+    <string id="8SOh9bah" text="Wybierz produkcję" />
+    <string id="92M0Pb5T" text="Zwiadowca" />
+    <string id="94aHU6nD" text="Dzienna produkcja" />
+    <string id="9slDj5wr" text="Zmień produkcję" />
+    <string id="a241aacb1780599430c79fd9f667b67f" text="Morale oddziału: " />
+		<string id="a8nRxITn" text="Więzień {PARTY_NAME}" />
+    <string id="aadiCuDe" text="{COMPLETION_PERCENT} (Do ukończenia pozostało {DAYS} dni)" />
+    <string id="AcMayd1p" text="Ucieka przed {TARGET_PARTY}" />
+    <string id="aE4ZRbB6" text=" {HEALTH}%" />
+    <string id="aFYwbosi" text="Ten bohater dowodzi już oddziałem" />
+    <string id="aGFxIvqx" text="Zostaw członka(ów)" />
+    <string id="aRhQzJca" text="Najemnicy nie mogą tworzyć armii, ani nimi zarządzać." />
+    <string id="armorTier" text="Poziom zbroi: " />
+    <string id="aROohsat" text="Już w innej armii." />
+    <string id="aTdrjrEh" text="{SWING_DAMAGE_FACTOR}" />
+    <string id="aVH7pKnK" text="Następna premia: {BONUS}" />
+	<string id="AxRxT2Xj" text="Gdy oddział zostanie rozwiązany, łączy się on z pobliskim oddziałem w klanie lub wędruje do najbliższej osady frakcji na mapie i dołącza do jej garnizonu.{newline}Nie będziesz w stanie tego cofnąć ani anulować.{newline}Jesteś {?PLAYER.GENDER}pewna{?}pewien{\?}?" />
+    <string id="B0pFBs5P" text="Ucieka przed {TARGET_PARTY}" />
+    <string id="bd7oAQq6" text="Dziennie" />
+    <string id="bdp65LWd" text="Rola w klanie" />
+    <string id="bfQLwMUp" text="Klany" />
+    <string id="BgqZWbga" text="Szlachta królestwa straci twoje zaufanie za porzucenie lojalności. Czy na pewno chcesz opuścić Królestwo?" />
+    <string id="BifGz0h4" text="Patroluje" />
+    <string id="bnrRzeiF" text="Nieaktywny" />
+    <string id="bPFjmYCI" text="{SHOP_NAME} x {SHOP_DIFFERENCE_COUNT}" />
+	<string id="BrY8itaf" text="Twoje oddziały wysłane, by wykonać przysługi lub zadania, ukażą się tutaj. Nie liczą się one do limitu oddziałów twojego klanu." />
+	<string id="C2qpwFq5" text="Posiada: {SETTLEMENTS}" />
+    <string id="c5eYzHaM" text="{DAYS} {?DAY_IS_PLURAL}dni{?}dzień{\?} (%{PERCENTAGE})" />
+    <string id="c6e4c8588ca9e42f6e1b47b11f0f367b" text="Długość: " />
+    <string id="c7638a0869219ae845de0f660fd57a9d" text="Obrażenia od szarży: " />
+    <string id="c9c5dfed2ca6bcb7a73d905004c97b23" text="Obrażenia: " />
+	<string id="ca8b1e8956057b831dfc665f54bae4b0" text="Wyważenie: " />
+    <string id="CaRbMaZY" text="Dzienne płace:" />
+    <string id="cbbUzYX3" text="Poziom trudności: {DIFFICULTY}" />
+    <string id="CExQ40Ux" text="{PARTY_1S_MEMBERS}   " />
+    <string id="cf61cce254c7dca65be9bebac7fb9bf5" text="Ochrona rąk: " />
+	<string id="cnmRwV4s" text="Limit amunicji" />
+    <string id="CnsIzaWo" text="Bitwa polowa" />
+    <string id="cUUI8u2G" text="Energia kowlaska" />
+    <string id="d2K6gMsZ" text="Zostaw członków. Musisz mieć co najmniej 1 towarzysza." />
+    <string id="DAmdTxuC" text="Zarządzanie armią" />
+    <string id="DbHLHwkX" text="Przetop" />
+    <string id="DNq9bdvV" text="{THRUST_DAMAGE_FACTOR}" />
+    <string id="dO95yR9b" text="Obrażenia od pchnięcia" />
+    <string id="Dqydb21E" text=" {PARTY_SIZE}" />
+	<string id="dWYm9GsC" text="Wymaga" />
+    <string id="DzviXC3W" text="Poziom:" />
+    <string id="e8390c3480028e34c370c7b60ebc41e2" text="Typ konia: " />
+    <string id="ebbyLN2i" text="Miasta" />
+	<string id="eHVq6yDa" text="Właściwości przedmiotu" />
+		<string id="eikN2SUN" text="TEST Ostatnio był {DAYS} dni temu." />
+	<string id="eIws123Z" text="Ochrona nóg" />
+    <string id="EQHq3bHM" text="Podróżuje do {TARGET_PARTY}" />
+	<string id="ErnykQEH" text="Wyrób końcowy" />
+    <string id="eTw2aNV5" text="+" />
+    <string id="EuGCNdHG" text="Opuść Królestwo" />
+    <string id="exnL6SS7" text="Atakuje {TARGET_SETTLEMENT}" />
+    <string id="EZxQHBF4" text="Możesz zmienić typ produkcji tego warsztatu za {AMOUNT} denarów." />
+    <string id="f2971dc587a9777223ad2d7be236fb05" text="Pogłoski handlowe" />
+    <string id="f4nc7FfE" text="Ulepsz do {UPGRADE_NAME}" />
+    <string id="f6vTzVar" text="Nie posiadasz mobilnego oddziału." />
+    <string id="Fa2nKXxI" text="Zarządca" />
+    <string id="FBYFcrWo" text="Pozostaw w osadzie" />
+    <string id="fI7a7RoE" text="Pojemność magazynu" />
+    <string id="FjJi1DJb" text="Ten bohater jest już częścią innego oddziału" />
+    <string id="fOSGakix" text="Nie możesz zarządzać armią, gdy jesteś w niewoli." />
+    <string id="G6cCjixe" text="{COMPLETION_PERCENT} (Około {DAYS} dni do ukończenia)" />
+    <string id="g9VIbA9s" text="Sierżant" />
+    <string id="GCaYjA5W" text="Musisz być przywódcą klanu, aby zmienić jego nazwę." />
+    <string id="gduqxfck" text="Nie posiadasz wszystkich wymaganych materiałów!" />
+    <string id="GgfucQ86" text="Wygnaj" />
+    <string id="ggpRTQQl" text="Przywódca oddziału" />
+    <string id="gsVtO9A7" text="Milicja" />
+    <string id="HAaElX8X" text="{PARTY_OWNERS_FACTION}" />
+    <string id="HcAV8x7p" text="Członek oddziału" />
+    <string id="HFZdseH9" text="Tylko władca królestwa może zmienić jego nazwę." />
+    <string id="HHTQVp52" text="Prędkość leczenia konia" />
+    <string id="hJypvWMR" text="Rafinuj" />
+	<string id="HkfY3Ds5" text="Ochrona ciała" />
+    <string id="hn9TPqhK" text="Poziom broni" />
+    <string id="horseTier" text="Klasa konia: " />
+    <string id="hr4MuPnt" text="Wymagane materiały" />
+    <string id="hTzTMLsf" text="Zasięg widzenia" />
+	<string id="hylxyNtU" text="Masz zbyt mało." />
+	<string id="Hz8XO8wk" text="Rządca nie może prowadzić mobilnego oddziału i jednocześnie pozostać rządcą." />
+    <string id="IagYTD5O" text="Dobrobyt" />
+    <string id="IcgVKFxZ" text="Władca" />
+    <string id="idRXFzQ6" text="Już jest dodany do tej armii." />
+    <string id="IJdjwXvn" text="Aktualny poziom: " />
+    <string id="Ioiqzz4E" text="Musisz być w armii, aby zwiększyć spójność" />
+    <string id="ipLqVv1f" text="Nie możesz zaprosić oddziału władcy do swojej armii." />
+    <string id="it8oPzb1" text="Ocena Kryminalna" />
+    <string id="iXXTONWb" text=" ({PARTY_SIZE})" />
+    <string id="iZ3w6opW" text="Spójność" />
+    <string id="j12VrGKz" text="Armia" />
+    <string id="j3iwQmoA" text="Aktualna wartość skupienia: {CURRENT_AMOUNT}" />
+    <string id="j4F7tTzy" text="Klan" />
+	<string id="J8ddrAOf" text="Efekty rządcy" />
+    <string id="j8uZBakZ" text="{PROPERTIES}" />
+    <string id="JIr3Jc7b" text="Zwróć wszystkie ziemie" />
+    <string id="jlgjLDo7" text="Garnizon" />
+    <string id="JOELdSab" text="Warsztat nie ma wystarczającego kapitału na ulepszenie. Potrzebuje co najmniej {AMOUNT} denarów." />
+    <string id="jPBhgu7a" text="Obozuje" />
+	<string id="jQdBl4hf" text="Rządca " />
+    <string id="JTxI3sW2" text="Oblega {TARGET_SETTLEMENT}" />
+    <string id="Jyfkahka" text="{VALUE} ({?POSITIVE}+{?}{\?}{DELTA_VALUE})" />
+    <string id="JYOcl7Ox" text="Nieskuteczne!" />
+    <string id="JzrodcIR" text="W twoim klanie nie ma nikogo, kto mógłby zarządzać tą osadą w tej chwili." />
+    <string id="k1E9DuKi" text="Wybierz wszystkich" />
+	<string id="kftE5nvv" text="Zbroja konia" />
+	<string id="knwId8DG" text="Nie możesz wyznaczyć więźnia na rządcę osady" />
+    <string id="koX9okuG" text="Nic" />
+    <string id="kqeA8rjL" text="Czy na pewno chcesz rozwiązać swoją armię?" />
+    <string id="kQsXUvgO" text="Nie jesteś w żadnym królestwie." />
+    <string id="KTKBKmvp" text="Współczynnik obrażeń pchnięcia " />
+    <string id="KTTyBbsp" text="Maks. zdrowie" />
+    <string id="kWVbHPtT" text="Razem" />
+	<string id="kx7q8ybD" text="Ochrona nóg" />
+    <string id="LBNzsqyb" text="Lenna" />
+    <string id="lc9s4rLZ" text="Stwórz armię" />
+    <string id="LEiZWuZm" text="{SKILL_NAME}: {SKILL_VALUE}" />
+    <string id="lGWb26Lj" text="Ten bohater jest zajęty wykonywaniem zadania." />
+    <string id="LpsoPtOo" text="Projekty" />
+    <string id="LsZEdD2z" text="Mury" />
+    <string id="LVmkE2Ow" text="Jednostki zdolne do walki" />
+    <string id="lVuGCYPC" text="Umiejętności kowalskie" />
+    <string id="lxwGbRwu" text="x {SHOP_DIFFERENCE_COUNT}" />
+    <string id="McJjNM50" text="Koszt: {UPGRADE_COST}" />
+    <string id="mDFhzEMC" text="Maks. zdrowie" />
+    <string id="Mfbc4rQR" text="Obrażenia od potrącenia" />
+	<string id="mg7id9om" text="Ilość żywności" />
+	<string id="mGUSMpTX" text="Fundusze" />
+    <string id="mp68RYnD" text="Limit wielkości oddziału" />
+    <string id="MqCH7R4A" text="Bezpieczeństwo" />
+    <string id="myMbtwXi" text="Premia morale" />
+    <string id="N63XYX2r" text="Wsparcie" />
+    <string id="N6QTvjMf" text="Więźniowie " />
+    <string id="NAA4pajB" text="Musisz opuścić swoją obecną armię, aby utworzyć nową." />
+    <string id="NC9bbrt5" text="Denary na koniec dnia" />
+    <string id="NcYbdiyT" text="Zmień przywódcę" />
+    <string id="nMcvafHY" text="Aktywny" />
+    <string id="NRpbagbZ" text="Biegnie do {TARGET_PARTY}" />
+    <string id="nYYUQQm0" text="Współczynnik obrażeń wymachu " />
+	<string id="O3dhjtOS" text="Ochrona głowy" />
+    <string id="oBbiVeKE" text="Zdrowie" />
+    <string id="ocSW4WA2" text="Krytyczna porażka!" />
+	<string id="oibdTnXP" text="Wyważenie" />
+    <string id="OIeXNTEn" text="Warsztat nie może zostać ulepszony." />
+    <string id="OkWLI5C8" text="Rozmiar:" />
+    <string id="Oo3fkeab" text="Poziom trudności: " />
+    <string id="OpzzCPiP" text="Podąża za {TARGET_PARTY}" />
+    <string id="OTaPfaJl" text="{PARTY_2S_MEMBERS}   " />
+    <string id="oUhd9YhP" text="{PARTY_LEADERS_FACTION}" />
+    <string id="p0nIO9c2" text="Warsztatu nie można przywrócić do poprzedniego stanu." />
+    <string id="p7raHA9x" text="Rafinacja" />
+    <string id="PAUsUq4Z" text="Wybierz przywódcę tej osady" />
+	<string id="PDdh1sBj" text="Imię" />
+    <string id="Pdo7PpS3" text="{TASK_NAME} {CURRENT_PROGRESS}/{TARGET_PROGRESS}" />
+    <string id="PHkC8Gia" text="Sprzedaj" />
+    <string id="pkbUiKFJ" text="Obecnie walczy z przeciwnikiem." />
+    <string id="POjDNVW3" text="Kucie" />
+    <string id="PpbopMjT" text="Przenieś wszystkich głównych więźniów" />
+    <string id="pqfz386V" text="Przywódca Kklanu" />
+    <string id="PRE5RKpp" text="Musisz odpocząć przez jakiś czas, zanim będziesz {?PLAYER.GENDER}mogła{?}mógł{\?} wykonać tę akcję ponownie." />
+    <string id="PS02CqPu" text=" {PARTY_MEMBER.LINK} (Zdrowie: {MEMBER_HEALTH}%)" />
+    <string id="Pvx4TU66" text="Przenieś wszystkie główne oddziały" />
+    <string id="pWfadZg9" text="Oddziały w armii" />
+    <string id="pWObBhj5" text="Nie możesz przydzielić przywódcy oddziału na stanowisko rządcy osady" />
+    <string id="PXT6aA4J" text="Opcje kampanii" />
+    <string id="q1J4a8rr" text="Szybkość nauki" />
+    <string id="QBPrRdQJ" text="Chirurg" />
+    <string id="qBq70qDq" text="Aktualny projekt" />
+    <string id="QeToaiLt" text="Obrażenia od cięcia" />
+    <string id="QGyoSLeY" text="Podróżuje do osady" />
+    <string id="qKUjgS6r" text="Osada" />
+    <string id="QlbkxoSp" text=" {TOOLTIP_TROOPS} ({PARTY_SIZE})" />
+    <string id="qRqnrtdX" text="Właściciel" />
+    <string id="qSi4DlT4" text="Żywność" />
+    <string id="QXBf26Rv" text="Nieznane zachowanie" />
+    <string id="QyVbwGLp" text="{PARTY_SIZE}" />
+    <string id="qZvNIVGV" text="W twoim klanie nie ma nikogo, kto mógłby teraz poprowadzić oddział." />
+    <string id="R2AaCaPJ" text="Spodziewana zmiana" />
+    <string id="Ra17aK4e" text="Kapitał:" />
+    <string id="Raa4j4rF" text="Wymaga: {UPGRADE_ITEM}" />
+	<string id="RClxLG6N" text="Utrzymuje pozycję" />
+    <string id="redwEIlW" text="Kwatermistrz" />
+	<string id="rg7OuWS2" text="Zwrotność" />
+    <string id="rgqA29b8" text="Masz zbyt niską umiejętność {SKILL_NAME}, aby móc użyć ten przedmiot" />
+    <string id="rGy8vjOv" text="Broni {TARGET_SETTLEMENT}." />
+    <string id="Rkh2k1OA" text="Ukończenie:" />
+    <string id="rsHPaaYZ" text="Spójność musi być niższa niż {MINAMOUNT}, by się zwiększyć" />
+    <string id="rThSy9ed" text="Wymaga: {UPGRADE_ITEM} (Nie posiadasz żadnego)" />
+    <string id="RVPidk5a" text="Wpływy" />
+	<string id="s31DnnAf" text="Obrażenia" />
+    <string id="s5b77f0H" text="Dodaje +{BOOSTAMOUNT} spójności do twej armii" />
+    <string id="s6koeapc" text="{MAP_FACTION}" />
+		<string id="S9tmCkHz" text="TEST This hero is clearing a common area" />
+	<string id="sa2TQu1G" text="Ten bohater jest zajęty rozwiązywaniem sprawy." />
+    <string id="Sls0KQVn" text="Wybory" />
+    <string id="slzfQzl3" text="Ten bohater zaginął" />
+	<string id="sqdzHOPe" text="Klasa" />
+    <string id="Srr4rOSq" text="Przenieś wszystkich więźniów" />
+    <string id="SVJlOYCB" text="Oddział posiada mniej niż 40% jednostek w stosunku do limitu swego rozmiaru" />
+    <string id="sVsaWZjg" text="Przenieś wszystkie jednostki" />
+    <string id="sVZaIPoQ" text="Prędkość wymachu" />
+    <string id="SzuCFlNq" text="Nie wybrano żadnego przedmiotu." />
+    <string id="t1lSXN9O" text="Sztandar twojego klanu niesiony do bitwy" />
+    <string id="t3tq0eoW" text="Oddziały" />
+	<string id="T9bndUYP" text="{SETTLEMENT} - Najazd" />
+    <string id="ta4R2RR7" text="Główny" />
+    <string id="TaK6ydAx" text="Podróżuje." />
+    <string id="TAnabTdy" text="Celność" />
+    <string id="tAwRIPiy" text="Koszt produkcji: {COST}" />
+    <string id="Te4xxzzK" text="Ilość denarów" />
+    <string id="tf7301NC" text="Prędkość leczena" />
+    <string id="tFGM0yav" text="Ten oddział rozwiązuje się." />
+		<string id="twtbH1zv" text="Ilość" />
+    <string id="TzLtVzdg" text="Ranne jednostki" />
+    <string id="UbZL2BJQ" text="Życie" />
+    <string id="UHLcmf9A" text="Limit ilości więźniów w oddziale" />
+    <string id="uJro3Bua" text="Ponad limit" />
+    <string id="uoDuiBZR" text="Nie możesz wyznaczyć siebie jako rządcy" />
+	<string id="US7UmBbt" text="Poziom zbroi" />
+    <string id="UxAl9iyi" text="Osobisty" />
+    <string id="v3OF6vBg" text="Wydajność" />
+    <string id="Ve5jkJqf" text="Automatyczna oferta" />
+    <string id="ViYdZUbQ" text="Rozwiąż armię" />
+    <string id="vLaBJFGy" text=" {PARTY_MEMBER.LINK} ({PARTY_SIZE})" />
+    <string id="Voa0sinH" text="Wymaga: {NEEDED_EXP_AMOUNT} dośw. (Posiadasz {CURRENT_EXP_AMOUNT})" />
+    <string id="vOojEcIf" text="Nie możesz mianować więźnia nowym przywódcą oddziału" />
+    <string id="Vq8yavES" text="Już w armii." />
+    <string id="VtWa9Pmh" text="Jedzie do {TARGET_SETTLEMENT}." />
+	<string id="VZjxs5Dt" text="Właściciel " />
+    <string id="W1tsTWZv" text=" {PARTY_MEMBER.LINK} ({MEMBER_HEALTH}%)" />
+    <string id="w8Yzf0F0" text="Zniszczony" />
+    <string id="weaponTier" text="Klasa broni: " />
+    <string id="WiNRdfsm" text="Gotowe" />
+    <string id="Wir2xZIg" text="Nie odblokował{?PLAYER.GENDER}a{?}e{\?}ś jeszcze niektórych z wybranych elementów." />
+    <string id="WN7cYIXM" text="Musisz być częścią Królestwa" />
+    <string id="WttsvMTW" text="{SETTLEMENT} - Bunt" />
+    <string id="XAL3t1bs" text="Podróżuje do punktu" />
+    <string id="XCz81XYm" text="Surowce" />
+    <string id="XIioBPi0" text="Bez zmian" />
+    <string id="Xmw93W6a" text="Zbyt mało wpływów" />
+    <string id="XseYJYka" text="Zarządaj" />
+    <string id="XSQ0Y9gy" text="Musisz być częścią Królestwa, aby stworzyć armię." />
+    <string id="xtlIFKaa" text="Czy na pewno chcesz opuścić Królestwo?{newline}Jeśli tak, wybierz sposób opuszczenia Królestwa." />
+    <string id="xtt9Oxer" text="Produkcja" />
+    <string id="XUtiwiYP" text="Długość: " />
+    <string id="xwRWjlar" text="Kolor tła:" />
+    <string id="xXSFaGW8" text="Rozwiąż" />
+    <string id="XYAVu2f0" text="Ściga: {TARGET_PARTY}." />
+	<string id="XzggyCPW" text="Ten bohater jest zajęty." />
+    <string id="YbGu9rSH" text="Ta postać jest już rządcą osady {SETTLEMENT_NAME}" />
+    <string id="ybLA7ZXp" text="Osiagnięto maksimum" />
+    <string id="YifFZaG7" text="Właściciel oddziału" />
+    <string id="YO0x7ZAo" text="Lojalność" />
+    <string id="YT9giTet" text="Limit nauki" />
+    <string id="yUVv3z5V" text="Patroluje wokół {TARGET_SETTLEMENT}." />
+    <string id="z8h0BRAb" text="Zatrzymaj wszystkie włości" />
+    <string id="zawBaxl5" text="Odległość : {DISTANCE}" />
+	<string id="ZcybPatO" text="Długość broni" />
+    <string id="zMMqgxb1" text="Typ" />
+	<string id="ZUgoQ1Ws" text="Typ konia" />
+    <string id="zWaCtOJU" text="{SETTLEMENTS}" />
+    <string id="zWaVxD6T" text="Prędkość oddziału" />
+    <string id="zZlWRZjO" text="Wojny" />
+  </strings>
+</base>

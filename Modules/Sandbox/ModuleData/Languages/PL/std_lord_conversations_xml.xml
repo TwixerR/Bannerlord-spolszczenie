@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="3WjKtaS0" text="W tej chwili nie dowodzę żadnym żołnierzem." />
+    <string id="5uCebOUD" text="Odpoczywamy w {s1}. {s14}{s15}" />
+    <string id="5ypRJiWZ" text="Dzięki za informację" />
+    <string id="62AkUCOw" text="Dlaczego się nie bronisz?..." />
+    <string id="6rTxjBWe" text="Rekrutujemy nowych żołnierzy z {s1}. {s14}{s15}" />
+    <string id="7TIRUaPi" text="Jedziemy do {s1}. {s14}{s15}" />
+    <string id="8SUpFvJD" text="Wycofujemy się do {s1}. {s14}{s15}" />
+    <string id="8VsbaDHu" text="Walczymy z {s1}. {s14}{s15}" />
+    <string id="8xvSu9fX" text="Wybacz mi {?NPC.GENDER}pani{?}panie{\?}. Nie wiem o czym myślałem." />
+    <string id="9BblWBGo" text="Jeśli szukasz walki przeciwko naszym wrogom, możesz spróbować {s4}. Otrzymaliśmy słowo, że siła {s5} Jest w okolicy. Obecnie nie zmierzam w tym kierunku, ale inni mogą być.  Oczywiście nie mogę zagwarantować, że nasi wrogowie będą na miejscu." />
+    <string id="b9iOMo1O" text="Prowadzę armię królestwa." />
+    <string id="DyQ18GAX" text="Kontroluję {s1}'s advance. {s14}{s15}" />
+    <string id="fbM7drKO" text="Dlaczego nie oblegasz?..." />
+    <string id="fBt8X6Tw" text="Eh? Co chcesz?" />
+    <string id="gBbIWuDW" text="TODO_OZAN_1 s43" />
+    <string id="GnxvoJ38" text="Jeśli szukasz akcji przeciwko naszym wrogom, możesz dołączyć do naszego ataku {s4}. Wróg może się nam przeciwstawić, więc dobrze jest mieć jak najwięcej ludzi." />
+    <string id="GUIwjFKP" text="Ok, najpierw zastosujmy się do twojej rady." />
+    <string id="gZSdus34" text="Oferuję ci jedną szansę na poddanie się lub śmierć." />
+    <string id="HEJOdRwi" text="Wybacz mi, {?NPC.GENDER}Pani{?}Panie{\?}. Nie wiem o czym myślałem." />
+    <string id="hjZkoJbc" text="Uważam że {ACTION} {SETTLEMENT} jest obecnie bardziej logiczny, czy możesz mi pomóc w tym. {AMOUNT}{GOLD_ICON}" />
+    <string id="HKMdHYb7" text="Stoję na mojej ziemi. Przygotuj się do walki!" />
+    <string id="JbWJ7Rxl" text="{POSSIBLE_TARGET}" />
+    <string id="JLXPDR9K" text="Nie wiem: {reg1} {s1} (ERROR)" />
+    <string id="ltS8zmH8" text="Jesteś szalony? Nie jestem twoim wrogiem." />
+    <string id="M7O3AItb" text="Wybacz mi. To nic." />
+    <string id="mjoxaNQz" text="Jeśli szukasz akcji przeciwko naszym wrogom, możesz spróbować {s4}. Otrzymaliśmy słowo, że siła {s5} jest w okolicy. Obecnie nie zmierzam w tym kierunku, ale inni mogą być.  Oczywiście nie mogę zagwarantować, że nasi wrogowie będą na miejscu." />
+    <string id="RFkvMoMU" text="Niszczymy wieś {s1}. {s14}{s15}" />
+    <string id="RJbrrM0K" text="{REASON}" />
+    <string id="s61RscYw" text="Gdzie?" />
+    <string id="sSrP56d2" text="Wypatrujemy wroga dookoła {s1}. {s14}{s15}" />
+    <string id="UUKIk0WP" text="Towarzyszymy {s1}. {s14}{s15}" />
+    <string id="vsxVIDqT" text="Więc odejdź." />
+    <string id="WzipKNWN" text="{s43}" />
+    <string id="x6qI4aBP" text="Co ja robię? Jak to wygląda ?! Jestem tu więźniem!" />
+    <string id="YLPPnLMu" text="Kieruję się w okolice {s1}. {s14}{s15}" />
+    <string id="ztuhSo8h" text="Dlaczego nie napadniesz?..." />
+  </strings>
+</base>

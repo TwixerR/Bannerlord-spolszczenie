@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="0W4dgUho" text="Zbanowany z gry do {BANNEDUNTIL}, Powód: {BANREASON}" />
+    <string id="2xOyWxIo" text="Gracz nie jest członkiem drużyny." />
+    <string id="4XDu4Qcd" text="Tylko lider drużyny może wykopać graczy z drużyny." />
+    <string id="5kgkZo2o" text="Gracza, którego próbujesz kopnąć, nie ma w drużynie!" />
+    <string id="91cJB1tP" text="Gracz {INVITEDPLAYER} jest już w drużynie." />
+    <string id="aFQa3pQt" text="Musisz być w poczekalni, aby awansować innego gracza na lidera drużyny." />
+    <string id="ah4Pm8wU" text="Musisz być w poczekalni, aby rozwiązać drużynę![Temporary]" />
+    <string id="bcdU2DHW" text="Gracz {INVITEE} zaproszony do drużyny przez {INVITER}." />
+    <string id="bivF3RXY" text="Nie możesz się awansować" />
+    <string id="BwBR7TJB" text="Nikt nie opuścił twojej drużyny i została rozwiązana!" />
+    <string id="caMylVF7" text="Nie można ustawić się w kolejce do bitwy, ponieważ nie wybrano żadnych włączonych typów gier." />
+    <string id="E2ILp86t" text="Nie można ustawić się w kolejce do bitwy, ponieważ region jest niedostępny." />
+    <string id="efpifbtd" text="Musisz być w lobby, aby zaprosić kogoś do drużyny!" />
+    <string id="emx7txM9" text="Awansować członków może wykonać tylko lider drużyny." />
+    <string id="fD2SyeA7" text="Nie możesz zaprosić się sam do drużyny." />
+    <string id="GZXVxl3E" text="{PLAYERNAME} Rozłączony. Twoje zaproszenie do drużyny jest już nieaktualne." />
+    <string id="i5ZTTTZw" text="Gracz {INVITEDPLAYER} nie jest w poczekalni." />
+    <string id="jP2hUg7H" text="Nie jesteś w drużynie!" />
+    <string id="kY2oXMng" text="Nie mogłeś się zalogować." />
+    <string id="l6a9vI9z" text="Tylko lider drużyny może zapraszać innych graczy." />
+    <string id="mcAG0eHJ" text="Musisz być w poczekalni, aby wykopać kogoś z drużyny![Temporary]" />
+    <string id="MepGBJMQ" text="Nie można znaleźć gracza, którego próbujesz awansować" />
+    <string id="mvQKpHXH" text="Twoja drużyna jest pełna." />
+    <string id="nJ7aEkRt" text="Jesteś zaproszony do drużyny przez {PLAYERNAME}." />
+    <string id="nw7r2S5z" text="Wybrane wyłączone typy gier: {GAMETYPES}." />
+    <string id="OByu0fjQ" text="Nie można ustawić się w kolejce do bitwy, ponieważ nie wszyscy gracze są gotowi do drużyny." />
+    <string id="olLwOWf8" text="Nie można ustawiać się w kolejce do bitwy, ponieważ nie wszyscy gracze używają anty-cheat." />
+    <string id="p5K0ATtZ" text="Nie można zniszczyć starej sesji." />
+    <string id="pehfmZvM" text="Gracz {PLAYERNAME} został awansowany na lidera drużyny." />
+    <string id="Pn13ZKwI" text="Twoja drużyna została rozwiązana!" />
+    <string id="Rj8RhD7F" text="Porażka" />
+    <string id="Tauk2JzA" text="Niezgodność wersji, Wersja serwera: {SERVERVERSION} - Twoja Wersja: {CLIENTVERSION}." />
+    <string id="TpBDiSBp" text="{PLAYERNAME} został wyznaczony lider drużyny." />
+    <string id="VDDm5bqb" text="Możesz zaprosić tylko graczy z uruchomioną funkcją Anti-cheat." />
+    <string id="w8WiqZT3" text="Musisz uruchomić grę z Anti-cheat, aby dołączyć lub stworzyć drużynę!" />
+    <string id="wNubP2BF" text="Tylko lider drużyny może stać w kolejce po gry." />
+    <string id="xMa4QqvL" text="Obecni gracze w drużynie: {PLAYERS}" />
+    <string id="ysfEQO6c" text="Gracz nieodnaleziony" />
+    <string id="zyDyPr4I" text="Gracza, którego próbujesz awanswać, nie ma w twojej drużynie." />
+  </strings>
+</base>

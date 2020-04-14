@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="09gOOa0h" text="Strzelec zwiadowca" />
+    <string id="1sJcKkVP" text="Gwardzista" />
+    <string id="4C4WiTb2" text="Varyag" />
+    <string id="6aqDcMPr" text="Max. pancerz (55)" />
+    <string id="8qg72H8Z" text="Wojownik plemienny" />
+    <string id="afhXdjBU" text="Nomad" />
+    <string id="bHx8jaeI" text="Wojownik" />
+    <string id="CAYZDsAj" text="Legionista" />
+    <string id="cbnvgVhH" text="Najeźdźca" />
+    <string id="Cp7dI87a" text="Straż przednia" />
+    <string id="DMxJJWxt" text="Rekrut" />
+    <string id="Dq1sCO1y" text="Arbelestnik" />
+    <string id="eFWJjaBC" text="Postać multiplayer" />
+    <string id="eIk6jaOG" text="Włócznik" />
+    <string id="eM1qFKNs" text="Strzelec wyborowy" />
+    <string id="eU0uANvZ" text="Strzelec konny" />
+    <string id="fS5BIf3J" text="Zaprzysiężony" />
+    <string id="ft6QaIms" text="Katafrakt" />
+    <string id="g9VIbA9s" text="Sierżant" />
+    <string id="gLlheMwd" text="Powołany wieśniak" />
+    <string id="gytrdYMU" text="Mameluk" />
+    <string id="hchDYAKL" text="Lansjer" />
+    <string id="HCzbW0hE" text="Wojownik klanowy" />
+    <string id="ieiqOaZp" text="Strzelec" />
+    <string id="ixqTFMVA" text="Wojownik konny" />
+    <string id="j5I7tYSd" text="Fiann" />
+    <string id="k1Xr4rKn" text="Drużynnik" />
+    <string id="lar4lfKR" text="Straż Khana" />
+    <string id="LLKreyq7" text="Dziki wojownik" />
+    <string id="LNfQk4MM" text="Min. pancerz (0)" />
+    <string id="My0a4Miq" text="Halabardier" />
+    <string id="naBbiK9v" text="Motłoch" />
+    <string id="NJRUb0C1" text="Straż Platyńska" />
+    <string id="nt7wUxIa" text="Beduin" />
+    <string id="PoY2Vh7K" text="Stepowy łuk" />
+    <string id="q1tbZIR9" text="Wyż. śr. pancerza (37)" />
+    <string id="rdIGpLLh" text="Goniec" />
+    <string id="RjjIbn4V" text="Weteran" />
+    <string id="RssJTUpL" text="Berserker" />
+    <string id="s9oED1IR" text="Bojówkarz" />
+    <string id="Tm3CY9tC" text="Niż. śr. pancerza (12)" />
+    <string id="TNQaD5p2" text="Poborowy strzelec" />
+    <string id="WtEoXblx" text="Rycerz" />
+    <string id="XeXJAB6a" text="Piechota Menavlionu" />
+    <string id="xnDWqYKW" text="Łowca" />
+    <string id="yDiWi6SO" text="Dzikus" />
+    <string id="ZKdiaaFo" text="Rozbójnik" />
+  </strings>
+</base>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="1CCSLaXG" text="Honorowy" />
+    <string id="2LhoHBb4" text="Zdystansowany i Ostrożny" />
+    <string id="2oLzxPGu" text="Agresywny i pyta wiele osób" />
+    <string id="3ojhI49j" text="Lodowaty" />
+    <string id="4Kb43rdf" text="Wierny" />
+    <string id="5L4ox55u" text="Zawsze pierwszy {?NOTABLE.GENDER}ona{?}on{\?} szyja na linii dla przyczyny." />
+    <string id="5ogR7oUW" text="Szlachetny i Hojny" />
+    <string id="6okDQlyn" text="Ostrożny" />
+    <string id="6tOrCXWu" text="Uważa na tych, którzy służyli {?NOTABLE.GENDER}ona{?}on{\?} dobrze." />
+    <string id="8aAbnMIo" text="Z dala" />
+    <string id="8D5Lx2LY" text="O miękkim sercu" />
+    <string id="9bUlUrVI" text="Gwałtowny i okrutny" />
+    <string id="A27HuUiz" text="Śmiały" />
+    <string id="aDkmS7iN" text="Typ, który działa bezmyślnie" />
+    <string id="AgE2Wffg" text="Dobry przyjaciel, ale niebezpieczny wróg" />
+    <string id="bSQF8nac" text="Ambitny" />
+    <string id="bYa051Bs" text="Przebiegły, agresywny i ambitny" />
+    <string id="CaSahkj4" text="Haniebny pod każdym względem" />
+    <string id="CUR5ZZtd" text="Tylko bezlitosny" />
+    <string id="Dkmja15D" text="Nie można ufać." />
+    <string id="Dz3kGpkM" text="Szalony, zły i niebezpieczny" />
+    <string id="dZ7OtsDv" text="Ostrożny, ale godny zaufania" />
+    <string id="etdkWOLn" text="Przebiegły" />
+    <string id="euinlzab" text="Nieśmiały" />
+    <string id="fgkQSbUE" text="Trochę nieuczciwy, ale złote serce" />
+    <string id="FNzGHbvb" text="Podatny na niebezpieczne szaleństwa" />
+    <string id="GMMg8AwD" text="Bezlitosny" />
+    <string id="gZMm5J4u" text="Nigdy nie działa w pośpiechu ... Zawsze ma plan." />
+    <string id="hFtm7jZT" text="Całkowicie konwencjonalne" />
+    <string id="HNoD0Xcw" text="Odważny, ale łatwo rozwścieczony i bezlitosny" />
+    <string id="HTBQ3E3Q" text="Hojny dla przyjaciół" />
+    <string id="isnEHNXl" text="Stands up for what {?NOTABLE.GENDER}she{?}he{\?} believes in." />
+    <string id="jFLPNGdH" text="Odważny i honorowy" />
+    <string id="jqiKsw34" text="Przebiegły, ale o łagodnym sercu" />
+    <string id="JWTKNySw" text="Zaciśnięte pięści" />
+    <string id="KFvms0sR" text="Człowiek, który lubi podejmować skalkulowane ryzyko." />
+    <string id="kKFLfWbJ" text="Moralistyczny" />
+    <string id="Ks88a8lp" text="Trochę marudny" />
+    <string id="KxjSILpL" text="Typ, który wykorzystuje każdą przewagę" />
+    <string id="L3b9ZsLs" text="Rozrzutnik" />
+    <string id="LCs7NMyz" text="Tego nie znajdziesz w niebezpieczeństwie." />
+    <string id="LfmWyPEk" text="Standardowy" />
+    <string id="LtBwSe0J" text="Uprzejmy i troskliwy - choć niektórzy mogą powiedzieć, że ma miękkie serce" />
+    <string id="mH8FHX9r" text="Ostrożny, ale niebezpieczny" />
+    <string id="MoQbaOOk" text="Okrutny i przebiegły" />
+    <string id="MVnA7tkN" text="Honorowy, zły i okrutny, niezdolny do złamania przysięgi lub wybaczenia lekceważenia" />
+    <string id="mWkCWB6j" text="Miły, ale ostrożny" />
+    <string id="nnDG8Ryc" text="Odważny, ale uparty" />
+    <string id="NOEYSbeR" text="Honorowy, ale sztywny i okrutny" />
+    <string id="nYHM3bmc" text="Odważny, ale litościwy" />
+    <string id="OuXZbyeS" text="Uważny, uważny, aby nagradzać lojalnych wyznawców" />
+    <string id="OwOdbwc5" text="Czasami wpada bez namysłu." />
+    <string id="peI78GmJ" text="Nie jest pewien, co o tym myśleć..." />
+    <string id="ppTLY8tm" text="Sprawiedliwy i szczery, ale niewdzięczny" />
+    <string id="PW3Ya1AQ" text="Ohydny" />
+    <string id="Q3TaYO39" text="typ, który stara się być sprawiedliwy i sprawiedliwy" />
+    <string id="QtcN7aEk" text="odważny i ambitny" />
+    <string id="qXwYcJHa" text="Przyzwoity i miły" />
+    <string id="QzNHs8Ch" text="namiętny i odważny, choć czasem bez przemyślenia." />
+    <string id="RaecCLdK" text="Odważny i hojny, dobry przyjaciel" />
+    <string id="Raq3TcUa" text="troskliwy wobec innych" />
+    <string id="raQIsPly" text="Oszczędzanie wrogów, ale bezmyślny wobec przyjaciół" />
+    <string id="rarG5Bqa" text="Pomocny" />
+    <string id="S6XcP7Wz" text="Nie ma lepszego przyjaciela, Nie ma gorszego wroga" />
+    <string id="tc1PuNa8" text="Lojalny wobec przyjaciół, ale także okrutny i zmanipulowany" />
+    <string id="TGQD4r5Z" text="Dzielny" />
+    <string id="UoYPTOPV" text="Zdradziecki, ale przynajmniej nie okrutny" />
+    <string id="URWSOAfG" text="Sadysta" />
+    <string id="Vis2eo0Y" text="Mam okrutną passę, nie można zaprzeczyć." />
+    <string id="VnaT2Ipq" text="Uprzejmy" />
+    <string id="VujjcI1C" text="Ten ma dobre serce, nie można zaprzeczyć." />
+    <string id="WAzdB4DL" text="Sprytny i łobuzerski" />
+    <string id="WbyybDP6" text="Nie zawsze pamięta o {?NOTABLE.GENDER}jej{?}jemu{\?} dobra praca." />
+    <string id="wVfZh5eN" text="Posiada gwałtowny i niebezpieczny temperament" />
+    <string id="XPU5mqSi" text="Przebiegły" />
+    <string id="xSbcea2l" text="Niewiarygodne" />
+    <string id="Y8WpovVO" text="Przyzwoity, ale ostrożny" />
+    <string id="YeK2rAWJ" text="Okrutny" />
+    <string id="Yyw81AGG" text="Przyjazny, ale manipulacyjny" />
+    <string id="znOeRtlb" text="Intrygant" />
+  </strings>
+</base>

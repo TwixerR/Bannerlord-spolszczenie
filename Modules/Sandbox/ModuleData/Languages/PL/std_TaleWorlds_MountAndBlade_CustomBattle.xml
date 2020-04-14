@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="35IHscBa" text="WRÓG" />
+    <string id="4gOGGbeQ" text="Własna Bitwa" />
+    <string id="BC7n6qxk" text="GRACZ" />
+    <string id="fXhblsky" text="MAPA" />
+    <string id="MVOWsP48" text="Wybierz maszynę do walki w zwarciu" />
+    <string id="mxbq3InD" text="{ARMY_SIZE} Men" />
+    <string id="SLZzfNPr" text="Wybierz maszynę dystansową" />
+  </strings>
+</base>

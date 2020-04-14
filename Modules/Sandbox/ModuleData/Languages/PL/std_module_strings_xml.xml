@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="7ZhNilg8" text="Łatwy (5% premia)" />
+    <string id="9jSxo790" text="Realistycznie" />
+    <string id="AQfVclN8" text="Nagroda" />
+    <string id="B0uvwKae" text="Wybierz, czy towarzysze mogą umrzeć na polu bitwy." />
+    <string id="bLwIgxXa" text="Trudność rekrutacyjna" />
+    <string id="cA1D2Ua3" text="Będziesz potrzebował lepszych relacji z wodzami, aby uzyskać dostęp do wszystkich swoich żołnierzy." />
+    <string id="carorTAF" text="Zredukowane do 2/3 (Łatwo)" />
+    <string id="cUHlzCRx" text="Włącz śmierć Towarzysza" />
+    <string id="D9GkBqyW" text="Możesz opuścić pole treningowe, przytrzymując [{LEAVE_KEY}]{newline}Możesz wrócić w dowolnym momencie z mapy kampanii." />
+    <string id="DFMhzFGV" text="Posiadanie wiekszej liczby koni w ekwipunku może znacznie przyspieszyć twoją drużynę, ponieważ zwiększą one twoją prędkość i piechota będzie jeździć wolnymi końmi. Stado koni i muły przydają się jednak tylko do przewozu ładunku." />
+    <string id="EGwqzjpa" text="Możesz przytrzymać klawisz Tab, aby opuścić bieżący obszar." />
+    <string id="F8TaKnjh" text="Gdy jesteś w lokacji miejskiej lub wiejskiej, przytrzymanie klawisza Alt wyświetla znaczniki ważnych osób i punktów zainteresowania." />
+    <string id="fbaQp3ox" text="Włącz automatyczne przydzielanie profitów członkom twojego klanu." />
+    <string id="hEYfasE1" text="Otrzymywane Obrażenia do Twojej Postaci." />
+    <string id="HVrobtL5" text="Nazwa Królestwa:{newline} - Nie może zawierać cyfr.{newline} - Nie może być dłuższy niż {MAX_LETTER_COUNT} Znaków.{newline} - Nie może być krótszy niż {MIN_LETTER_COUNT} Znaków." />
+    <string id="IgeL6qHr" text="Otrzymywane obrażenia sojuszników, którzy nie są pod twoim dowództwem." />
+    <string id="IWD56KMc" text="Szybkość ruchu na mapie" />
+    <string id="JaHlwYmo" text="Gdy patrzysz na podpowiedź, możesz nacisnąć klawisz Alt, aby zobaczyć rozszerzoną wersję podpowiedzi." />
+    <string id="k4CF68S6" text="Wstrzymujemy się od głosu" />
+    <string id="k71J6bVH" text="Zwycięstwo" />
+    <string id="KbPD5cEw" text="Zredukowane do 1/3 (Bardzo Łatwo)" />
+    <string id="KM7uAbL8" text="Obrażenia Gracza" />
+    <string id="mD89ih8N" text="Zmień nazwę klanu" />
+    <string id="N6fz1efb" text="Pomija samouczek na początku gry." />
+    <string id="Oea9a5nY" text="Obrażenia Sojusznicze" />
+    <string id="qc9Llr3x" text="Towarzysz" />
+    <string id="QGA2TilH" text="W oknach gry możesz kliknąć element prawym przyciskiem myszy, aby otworzyć dla niego wpis encyklopedii. Działa to w przypadku portretów żołnierzy, ikon miasta i większości innych elementów." />
+    <string id="QUZku1Jr" text="Kary prędkości drużyny będą bardziej skuteczne na mapie kampanii." />
+    <string id="QzmJL5I7" text="Łatwy (1 Dodatkowo)" />
+    <string id="raD9MK3O" text="Trudność" />
+    <string id="ReNnVfEn" text="Zmień nazwe Królestwa" />
+    <string id="RyNYEVYp" text="{RANK}." />
+    <string id="RZFAxCMp" text="Bardzo Łatwo (10% premia)" />
+    <string id="sp8Kred0" text="Członek musi być w drużynie gracza, aby wykonać tę akcję." />
+    <string id="TZ9ugd1p" text="Automatyczne przydzielanie umiejętności członka klanu" />
+    <string id="UcgNVM0P" text="Bardzo Łatwo (2 Dodatkowo)" />
+    <string id="UfQotsfo" text="Ranga #" />
+    <string id="vGF5S2hE" text="Tabela liderów" />
+    <string id="wip6jLEM" text="Otrzymywane Obrażenia Twoich Żołnierzy." />
+    <string id="ZcyJePFm" text="Obrażenia Sojuszniczych Oddziałów" />
+    <string id="ZWiFWA2W" text="Pomiń samouczek głównej fabuły" />
+  </strings>
+</base>
