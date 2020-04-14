@@ -13,11 +13,11 @@
     <string id="8wlvxzuP" text="{HERO_1.LINK} spotkał się z {HERO_2.LINK}." />
     <string id="a0qduLNq" text="{SETTLEMENT} jest teraz bezpieczny." />
     <string id="aheVbtmm" text="{ITEM} w {FACTION}" />
-    <string id="aowJMil0" text="{KINGDOM} zostało zniszczone." />
+    <string id="aowJMil0" text="{KINGDOM} zniszczone!" />
     <string id="AQK4ADS5" text="{HERO_1.LINK} Zamordował {HERO_2.LINK}" />
     <string id="AxMrFoea" text="{TOWN_NAME} jest oblegany przez drużyne kierowaną przez {LORD.LINK} z {FACTION_NAME}!" />
-    <string id="bNAxWneP" text="{INSULTER.LINK} mówi {INSULTEE.LINK} wyłudza pieniądze od przedsiębiorstw." />
-    <string id="bNDUtygL" text="{INSULTER.LINK} mówi {INSULTEE.LINK} gromadzi towary, by podnieść ceny." />
+    <string id="bNAxWneP" text="{INSULTER.LINK} mówi, że {INSULTEE.LINK} wyłudza pieniądze od przedsiębiorstw." />
+    <string id="bNDUtygL" text="{INSULTER.LINK} mówi, że {INSULTEE.LINK} gromadzi towary, by podnieść ceny." />
     <string id="Bovy7D7s" text="{MOTHER.LINK} urodziła, ale dziecko było martwe." />
     <string id="bZvmjYPE" text="{PARTY} chroni {SETTLEMENT}" />
     <string id="Cae69FRp" text="{SETTLEMENT} jest broniony przez {PARTY}" />
