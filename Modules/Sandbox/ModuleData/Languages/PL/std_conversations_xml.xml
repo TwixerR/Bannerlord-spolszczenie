@@ -1533,105 +1533,105 @@
     <string id="Y4jwHrbX" text="I want you to arrest this man immediately!" />
     <string id="Y5iYkqku" text="Perhaps I may still be able to change your {s11}'s mind" />
     <string id="y6DSyJap" text="Underlying all the tensions is the possibility that a lord may abandon his liege, and pledge vassalhood to another. In theory, each lord has sworn an oath of vassalage, but in practice, a vassal can always find an excuse to absolve himself. The vassal may claim that the liege has failed to hold up his end of the bargain, to protect the vassal and treat him justly. Or, the vassal may claim that his liege is in fact a usurper, and another has a better claim to the kingship." />
-    <string id="Y6NsnfGl" text="Yes. Here is money for the land." />
-    <string id="y9HNHxHy" text="Everything in his power, you say? Em... Let me think about this..." />
-    <string id="y9TRGNwz" text="Yes. We no longer need all our forces here." />
-    <string id="yARXQlEN" text="You'll not help a woman in need? You should be ashamed, {PLAYER.LINK}... Please leave me, I have some important embroidery to catch up." />
-    <string id="yaY6mO9t" text="Tell me what kind of practice you want." />
-    <string id="ybLYC8eo" text="Every so often, a king or great lord of Calradia will hold a feast. In towns they will often be accompanied by tournaments, and in castles they will be accompanied by hunts. The feasts provide a chance for the lords to repair some of the rivalries that may undermine the strength of the realm. They also provide an opportunity for families to show off their eligible daughters, and ladies will often be allowed to mingle unsupervised with the guests." />
-    <string id="yc0McwdT" text="Maybe I can help you. Who are you looking for?" />
-    <string id="Yd2ATzbQ" text="Oh, yes, of course. We had already got the money for you. Here, please accept these {reg12}{GOLD_ICON} together with our most sincere thanks. Me and the people of our town will not forget your help." />
-    <string id="yD3bFyqa" text="Truly, {PLAYER.LINK}, you are nothing short of totally incompetent. Failing to capture both the spy AND his handler plumbs astonishing new depths of failure. Forget any reward I offered you. You've done nothing to earn it." />
-    <string id="YDbO3Nyk" text="Haven't you already taken up the cause of {s17}? You must have a very strong sense of justice, indeed. But no, thank you. I will not be part of your game." />
-    <string id="YDCbrW2z" text="Well, that's all I can tell you. Good bye." />
-    <string id="ydyscteN" text="Do you want us to follow you?" />
-    <string id="YEDo05Vv" text="You have no chance against us. Surrender now or we will kill you all..." />
-    <string id="yFcagxBb" text="At this point, there are no particularly urgent matters which need your attention. Is there anything you wish done?" />
-    <string id="YfdMi33Q" text="Excellent! You'll find the looters roaming around the countryside, probably trying to rob more good people. Kill or capture the bastards, I don't care what you do with them. I'll pay you a bounty of 40{GOLD_ICON} on every band of looters you destroy, until all the looters are dealt with." />
-    <string id="YfGPPc4S" text="The amount the bandits ask as ransom is {reg12}{GOLD_ICON}. I will give you that money once you accept to take the quest. You have 15 days to take the money to the bandits who will be waiting near the village of {s4}. Those bastards said that they are going to kill the poor girl if they don't get the money by that time. You will get your pay of {reg8}{GOLD_ICON} when you bring the girl safely back here." />
-    <string id="Yg5xaUa4" text="Perhaps... Do you give your word of honour that we'll be treated well?" />
-    <string id="ykhSfUuM" text="Yes. Come with me. I'll take you home." />
-    <string id="ylPQg8Ib" text="There is a small thing... My {s17} {s13} is due for a visit to her relatives at {s14}. The visit has been postponed several times already with all the trouble on the roads, but this time she is adamant about going. So, I want to at least make sure she's well-guarded. I trust you well, {PLAYER.LINK} so I would be very grateful if you could escort her to {s14} and make sure she arrives safe and sound." />
-    <string id="ymfQWF8Q" text="You have already been well-rewarded with fiefs appropriate to your accomplishments, I would say." />
+    <string id="Y6NsnfGl" text="Tak, oto zapłata za ziemię." />
+    <string id="y9HNHxHy" text="Wszystko, co w jego mocy, powiadasz? Hm... Pozwól mi się zastanowić..." />
+    <string id="y9TRGNwz" text="Tak. Nie potrzebujemy już wszystkich naszych sił tutaj." />
+    <string id="yARXQlEN" text="Nie pomożesz damie w potrzebie? Wstydź się, {PLAYER.LINK}... Opuść mnie, mam dużo zaległego szydełkowania." />
+    <string id="yaY6mO9t" text="Powiedz mi jakiego rodzaju treningu szukasz." />
+    <string id="ybLYC8eo" text="Od czasu do czasu król, czy inny większy szlachcic wyda ucztę. W miastach często towarzyszą im turnieje, w zamkach polowania. Uczty to wyborne narzędzie do naprawy relacji i zażegnania sporó, które trawią państwo. To także okazja dla rodów, aby zaprezentować swoje debiutantki. Wtedy też panny często wymykają się spod nadzoru rodziców." />
+    <string id="yc0McwdT" text="Może będę w stanie pomóc. Czego poszukujesz?" />
+    <string id="Yd2ATzbQ" text="Ah, tak, oczywiście. Zdobyliśmy już pieniądze dla Ciebie. Proszę, przyjmij {reg12}{GOLD_ICON} wraz z najszczeszymi podziękowaniami. Ludzie tego miasta nie zapomną tego co dla nich zrobił{?PLAYER.GENDER}aś{?}eś{\?}." />
+    <string id="yD3bFyqa" text="Zaprawdę, {PLAYER.LINK}, nie stoisz nawet o krok od absolutnej niekompetencji. Wypuszczenie szpiega ORAZ jego kontaktu zmienia znaczenie słowa porażka. Zapomnij o nagrodzie. Nie zrobiłeś niczego, aby na nią zasłużyć." />
+    <string id="YDbO3Nyk" text="Czy {s17} nie ma już Twojego poparcia? Musisz mieć bardzo złe poczucie sprawiedliwości. Dziękuję, nie będę się mieszać w Twoją grę." />
+    <string id="YDCbrW2z" text="Cóż, to wszystko, co mogę Ci powiedzieć. Żegnaj." />
+    <string id="ydyscteN" text="Czy mamy podążać za Tobą?" />
+    <string id="YEDo05Vv" text="Nie macie z nami szans. Poddajcie się, albo wytniemy was co do jednego." />
+    <string id="yFcagxBb" text="W tej chwili nie ma żadnych pilnych spraw. W czym jeszcze mogę pomóc?" />
+    <string id="YfdMi33Q" text="Wspaniale! RRabusiów znajdziesz w okolicy, pewnie napadają na niewinnych ludzi. Zabij, lub poijmij psich synów, nie dbam o to. Za każdą bandę zapłacę 40{GOLD_ICON}. Więcej czeka Cię, jeśli pozbędziesz się wszystkich." />
+    <string id="YfGPPc4S" text="Bandyci żądają zapłąty {reg12}{GOLD_ICON}. Przekażesz te pieniądze. Masz 15 dni na dostarczenie im okupu koło {s4}. Zagrozili, że zabiją biedaczkę, jeżeli nie dostaną pieniędzy an czas. W nagrodę dostaniesz {reg8}{GOLD_ICON} jeśli sprowadzisz ją tutaj bezpiecznie." />
+    <string id="Yg5xaUa4" text="Możliwe... czy przysięgasz na swój honor, że będziemy należycie traktowani?" />
+    <string id="ykhSfUuM" text="Tak. Chodź ze mną. Zaprowadzę cię do domu." />
+    <string id="ylPQg8Ib" text="Jest taka drobnostka... Moja {s17} {s13} wybiera się w odwiedziny do krewnych. Wyjazd został przesunięty już wiele razy przez niebezpieczeństwa na drogach, ale teraz upiera się. Chcę, byś dopilno{?PLAYER.GENDER}wała{?}wał{\?}, że dotrze bezpiecznie. Ufam Ci, {PLAYER.LINK} i będę bardzo wdzięczny, jeżeli zgodzisz się na eskortę panny. Twoim celem będzie w {s14}." />
+    <string id="ymfQWF8Q" text="Powiedziałbym, że jesteś dostatecznie nagrodzon{?PLAYER.GENDER}a{?}y{\?]." />
     <string id="YmoacLba" text="{s14}" />
-    <string id="yn3Kuj7f" text="I stand by my words, my liege." />
-    <string id="YNeH1IaD" text="It is not unheard-of for adventurers to renounce allegiance to a Calradian king altogether, declare themselves kings, and claim land in their own name. This is a difficult path, however, as the great nobles of the land, with their long ancestries, are not likely to accept such upstarts as their monarch. Such rulers would need to be very careful in establishing their right to rule, or they would be set upon from all sides." />
-    <string id="ypAKY9ap" text="{s1} is not being managed by anyone. Whom shall I put in charge?" />
-    <string id="ypKzY3pI" text="Oh really? Well, I'm not just going to wait around here. I'm going to go to the towns to look for other work. Is that what you want?" />
-    <string id="YQA8wyM6" text="Yes, selecting the direction you swing your weapon is a crucial skill. There are four main directions you may use: right swing, left swing, overhead swing and thrust. You must use each one wisely. [to control your swing direction with default controls, move your mouse in the direction you want to swing from as you press the left mouse button]." />
-    <string id="yr3f3kEJ" text="I am {PLAYER.LINK}." />
-    <string id="Yrp43Z2b" text="Hah! Those prisoners are only going free if you pay their ransom. Did you bring any silver?" />
-    <string id="yrW9RGEl" text="It is a sad day when that {s43} manages to avoid the hand of justice yet again. I thought you would be able to do this, {PLAYER.LINK}. Clearly I was wrong." />
-    <string id="ysiagNDd" text="I am interested." />
-    <string id="ysxUzdCR" text="I have changed my mind. You must back to your village!" />
-    <string id="YtB8JGys" text="Well, {s21}, at last I've found you. I have returned from my mission to {s31}. In general, I would say, {s14}." />
-    <string id="YunhrsJs" text="I am the rightful queen of Calradia" />
-    <string id="YUoK41eu" text="Ah, {PLAYER.LINK}. Have you any progress to report?" />
+    <string id="yn3Kuj7f" text="Obstaję przy mych słowach, Panie." />
+    <string id="YNeH1IaD" text="Zdarzało się i tak, że wasale odrzucali seniora, ogłaszali się władcą i zagrabiali ziemie. To trudna droga, szlachta z długą linią przodków wrośniętą głęboko w lenno nie zaakceptuje łatwo takich samozwańców jako ich panujących. Taki władca musi bardzo ostrożnie budować swoje poparcie, bo może łatwo znaleźć się w otoczeniu potężniejszych wrogów." />
+    <string id="ypAKY9ap" text="{s1} nie ma zarządcy. Kogo widzisz w tej roli?" />
+    <string id="ypKzY3pI" text="Doprawdy? Nie będę tutaj czekać. Pójdę za chlebem w świat. Tego chcesz?" />
+    <string id="YQA8wyM6" text="Prowadzenie broni to konieczna umiejętność. Są cztery główne kierunki: cios z prawej, z lewej, znad głowy i pchnięcie. Wybieraj je mądrze. [kierunek ciosu wybierasz poruszając myszą przed wciśnięciem przycisku ataku; dostosuj jego opcje]." />
+    <string id="yr3f3kEJ" text="Nazywam się {PLAYER.LINK}." />
+    <string id="Yrp43Z2b" text="Ha! Puszczę jeńców tylko za okupem. Przywiozł{?PLAYER.GENDER}aś{?}eś{\?} pieniądze?" />
+    <string id="yrW9RGEl" text="To przykry dzień, gdy {s43} jeszcze raz unika ramienia sprawiedliwości. Myślałem, że podołasz, {PLAYER.LINK}. Widocznie się myliłem." />
+    <string id="ysiagNDd" text="Jestem zainteresowany." />
+    <string id="ysxUzdCR" text="Zmieniłem zdanie. Musicie wracać do wioski!" />
+    <string id="YtB8JGys" text="{s21}, nareszcie Cię odnajduję. Powracam z misji w {s31}. Mogę powiedzieć, że {s14}." />
+    <string id="YunhrsJs" text="Jestem prawowitą królową Calraii!" />
+    <string id="YUoK41eu" text="Ah, {PLAYER.LINK}. Jakieś postępy?" />
     <string id="Yupa7fMa" text="{s15}" />
-    <string id="yUPOktil" text="I am not afraid of you, I will fight." />
-    <string id="yUTtDmxz" text="Let's begin then. I am ready." />
-    <string id="yVmNMjEp" text="Worry not, I can go to {s15} and deal with these scum for you." />
-    <string id="YvmoEc8v" text="Hey, I am trying to practice here. Go, talk with the archery trainer if you need guidance about ranged weapons." />
-    <string id="YvsrkSha" text="Aye, I am ready." />
-    <string id="YVVZjsi8" text="Forgive me, you look like a trader, but I see none of your merchandise." />
-    <string id="YvYajbVu" text="Splendid idea -- you do that." />
-    <string id="YXiJgTig" text="Very good. {s9} is your new minister. I shall make ready to rejoin you." />
-    <string id="YXpCqxM0" text="Very well -- repeat after me:^All the silks of Veluca, all the furs of Khudan^Would buy you not the briefest kiss^What I bestow, I bestow for love^And the sake of my own happiness^But brought you a gift? Let us see! Let us see!^Or should tell my father how you came to see me?" />
-    <string id="yYRwWF0a" text="Very well - we must do as tradition demands... Farewell, my lady" />
-    <string id="yZDHMlUV" text="I wish you to rejoin my party." />
-    <string id="YZENPWr3" text="Wait here a while longer. I'll come back for you." />
-    <string id="yzo2wTya" text="That I wish to put myself under his protection, as his vassal." />
-    <string id="YZVpoe9W" text="Well, nothing new lately. Prices, weather, the war, the same old things." />
-    <string id="Yzw5bKla" text="Well... My brother is home safe. I'm not sure what to do with him -- maybe pack him off to a university outside Calradia. That way, if he gets knocked on the head in a street brawl, no one can say it's my fault. But that's not your problem. Here's the rest of your reward. It was well-earned." />
-    <string id="Z0x0XCGv" text="You are the first and the last/the outer and the inner..." />
-    <string id="z10YRevP" text="A {s8} it is." />
-    <string id="Z2ky9Ms7" text="No, that's not it. There's another issue I wish to discuss." />
-    <string id="Z4biEQTD" text="What?! What infamy is this?" />
-    <string id="z4CPS1If" text="Good question. Attacking is the best defence, they say. A tactic many fighters find useful is taking an offensive stance and readying your weapon for attack, waiting for the right moment for swinging it. [You can ready your weapon for attack by pressing and holding down the left mouse button.]" />
-    <string id="z5bh5UKG" text="Alright. I will make the delivery." />
-    <string id="z6pMCwaf" text="{s66}, you should have {s1} for yourself. (fiefs: {s0})" />
-    <string id="Z6sDmM8b" text="On second thought, it will be better to stay together for now." />
-    <string id="Z7To1Tun" text="Let's abandon our plan to {s10}." />
-    <string id="za78F8gO" text="Don't attack! We surrender." />
-    <string id="zAkghqEv" text="Which fief did you have in mind?" />
-    <string id="ZaVwisKq" text="Nothing. Forget it" />
-    <string id="zBckiq0Y" text="Well, you probably know everything I could tell you already. You seem to be doing pretty well." />
-    <string id="ZbgpZgAn" text="{PLAYER.LINK}, I've been expecting you. Word has reached my ears of your exploits. Why, I keep hearing such tales of prowess and bravery that my mind was quickly made up. I knew that I had found someone worthy of becoming my vassal." />
-    <string id="zCckB8yK" text="I hope you don't fail. In that case, I'll have to ask for the price of the cargo you were carrying." />
-    <string id="zDbCHabg" text="Thank you, good {?PLAYER.GENDER}lady{?}sire{\?}. I never forget someone who's done me a good turn." />
-    <string id="ZEDYzpl0" text="I had discussed this idea with some of my men. One could enter {s24}, either in disguise or openly, then walk up to the prison guard and try to take the keys by force. However, getting out may be difficult. The garrison may be slow to react, but even so, you are likely to find yourself fighting a half dozen or more of the enemy at once, with limited space in which to maneuver. If you can fight your way past them, though, you can probably get out." />
-    <string id="zEyC1wFG" text="Yes. Show me what you have for sale." />
-    <string id="ZFBFDCnR" text="The wind that blows the dry steppe dust..." />
-    <string id="ZFqlqyci" text="[Leave]" />
-    <string id="zFSQJsZb" text="What exactly do you do here?" />
-    <string id="ZHlVlla1" text="Then shortly after, I joined up with you." />
-    <string id="Zi7IBkxd" text="What is it that you poets and musicians do again?" />
-    <string id="ziA4catk" text="Very good." />
-    <string id="zLoASHZ6" text="I disagree with this strategy. I would prefer to {s4}." />
-    <string id="ZltRi2me" text="Come on in. I am opening the gates for you." />
-    <string id="zMElX4NU" text="I do." />
-    <string id="zNCZKGRR" text="Never! We must elope together at once!" />
-    <string id="ZNj3sXr7" text="You follow my lead. I'll take you through a safe route." />
-    <string id="znOenVhi" text="I can't be bothered with this right now." />
-    <string id="zo0eHsgE" text="Indeed, I am. I can't support you any longer." />
-    <string id="zoGULftr" text="Do you mean that? {s11} will be honor-bound to fight you, but challenging a lord to duel over a woman is seen as a bit hot-headed, even in this warlike age." />
-    <string id="zoK85NWv" text="Good to see you again {PLAYER.LINK}..." />
-    <string id="zpioxFi7" text="All right. I will do that.{s12}" />
-    <string id="ZqFVib44" text="I am unable to decide at this time" />
-    <string id="ZQHvsnPG" text="Good {PLAYER.LINK} -- you are a good and kind man, but a lady cannot defy her family. Such things are not done!" />
-    <string id="zr2atTsP" text="I don't have time for your petty dispute. Do not bother me with this again." />
+    <string id="yUPOktil" text="Nie boję się was. Stawaj do walki!" />
+    <string id="yUTtDmxz" text="Jestem gotowy, zaczynajmy." />
+    <string id="yVmNMjEp" text="Nie martw się, ruszę tam i pozbędę się tych szui dla ciebie." /> <!-- {s15} usunięte - nazwa miejsca docelowego -->
+    <string id="YvmoEc8v" text="Ej, trenuję tutaj! Idź do trenera łucznictwa, jeżeli potrzebujesz wskazówek." />
+    <string id="YvsrkSha" text="Gotów." />
+    <string id="YVVZjsi8" text="Przepraszam, wyglądasz jak kupiec, lecz nie widzę twojego towaru." />
+    <string id="YvYajbVu" text="Wyborny pomysł - tak też uczyń." />
+    <string id="YXiJgTig" text="Jak żądasz, {?PLAYER.GENDER}Pani{?}Panie{\?}. {s9} będzie Twym ministrem. Przygotuję się do drogi." />
+    <string id="YXpCqxM0" text="Powtarzaj za mną:^TODO All the silks of Veluca, all the furs of Khudan^Would buy you not the briefest kiss^What I bestow, I bestow for love^And the sake of my own happiness^But brought you a gift? Let us see! Let us see!^Or should tell my father how you came to see me?" />
+    <string id="yYRwWF0a" text="Dobrze, musimy czynić, jak wymaga tego tradycja... żegnaj, moja Pani." />
+    <string id="yZDHMlUV" text="Powróc do mojego oddziału." />
+    <string id="YZENPWr3" text="Poczekaj tutaj. Wrócę po ciebie." />
+    <string id="yzo2wTya" text="...że domagam się jego protekcji jako jego wasal w tym hołdzie poddaństwa." />
+    <string id="YZVpoe9W" text="Nic nowego. Pogoda, ceny, wojna, niezmienne tematy." />
+    <string id="Yzw5bKla" text="Ehh... mój brat jest już bezpieczny, w domu. Nie wiem co z nim począć-- może poślę go do akademii poza Calradią. Gdyby coś miało się mu przytrafić nikt nie będzie mnie winił. Ale to przecież nie Twoja troska. Oto reszta Twojej nagrody. Zasłużyłeś." />
+    <string id="Z0x0XCGv" text="Tyś mój początek i kres/mym słońcem i księżycem..." />
+    <string id="z10YRevP" text="To {s8}." />
+    <string id="Z2ky9Ms7" text="Nie, to nie to. Inną sprawę mam na myśli." />
+    <string id="Z4biEQTD" text="CO?! Cóż to za bezeceństwo?" />
+    <string id="z4CPS1If" text="Dobre pytanie. Mówią, że atak jest najlepszą formą obrony. Możesz przyjąć ofensywna postawę przygotowujac cios. [Przytrzymaj lewy przycisk myszy, aby przygotować cios]" />
+    <string id="z5bh5UKG" text="Zgoda, dostarczę." />
+    <string id="z6pMCwaf" text="{s66}, zatrzymaj sobie {s1}. (włości: {s0})" />
+    <string id="Z6sDmM8b" text="Po namyśle dochodzę do wniosku, że lepiej nie rozstawać się." />
+    <string id="Z7To1Tun" text="Porzućmy plan {s10}." />
+    <string id="za78F8gO" text="Nie atakujcie! Poddaję się." />
+    <string id="zAkghqEv" text="Któe lenno masz na myśli?" />
+    <string id="ZaVwisKq" text="Nic już. Nieważne" />
+    <string id="zBckiq0Y" text="Cóż, pewnie wies już wszystko o czym mógłbym Ci powiedzieć." />
+    <string id="ZbgpZgAn" text="{PLAYER.LINK}, spodziewałem się Ciebie. Doszły mnie słuchy o Twoich czynach. Ba! Opowieści o Twojej odwadze i sprawności jest tak dużo, że mam pewność. Jesteś godny zostania moim wasalem." />
+    <string id="zCckB8yK" text="Liczę, że nie zawiedziesz mnie. W prrzeciwnym wypadku będę spodziewał się rekompensaty za towar Ci powierzony." />
+    <string id="zDbCHabg" text="Dzięki, dobr{?PLAYER.GENDER}a{?}y{\?} {?PLAYER.GENDER}Pani{?}Panie{\?}. Nigdy nie zapomnę Wam tego." />
+    <string id="ZEDYzpl0" text="Rozważyłem ten plan z moimi ludźmi. Mógłbyś wniknąć w {s24}, skrycie, czy nie, znaleźć strażnika lochu i odebrać mu siłą klucze do niego. Aczkolwiek wydostanie się stamtąd będzie trudne. Choćby garrnizon późno zareagował to i tak będziesz musiał wyrąbać sobie drogę ucieczki w tuzinie ciał. Jeżeli poradzisz sobie z tym, plan może się udać." />
+    <string id="zEyC1wFG" text="Tak. Pokaż mi swoje towary." />
+    <string id="ZFBFDCnR" text="Ten wiatr, co pył po stepie gna..." />
+    <string id="ZFqlqyci" text="[wyjdź]" />
+    <string id="zFSQJsZb" text="Czym się trudzicie?" />
+    <string id="ZHlVlla1" text="Niedługo później dołączyłem do Ciebie." />
+    <string id="Zi7IBkxd" text="Co wy tam grajkowie i gryzipiórki robicie?" />
+    <string id="ziA4catk" text="bardzo dobrze." />
+    <string id="zLoASHZ6" text="Nie uważam tę strategię za słuszną. Wolałbym {s4}." />
+    <string id="ZltRi2me" text="Wejdź. Otwieram wrota." />
+    <string id="zMElX4NU" text="Tak." />
+    <string id="zNCZKGRR" text="Nigdy! Musimy pobrać się i uciec stąd już teraz!" />
+    <string id="ZNj3sXr7" text="Podążajcie za mną. Poprowadzę was bezpieczną drogą." />
+    <string id="znOenVhi" text="Nie mogę się tym teraz zajmować." />
+    <string id="zo0eHsgE" text="Tak. Nie mogę Cię więcej wspierać." />
+    <string id="zoGULftr" text="Jesteś tego pewny? {s11} będzie honorowo zmuszony do walki z tobą, ale wyzwanie szlachcica na pojedynek z powodu kobiety będzie uznane za przejaw gniewu, nawet w czasach tak obfitych w przemoc, jak obecne." />
+    <string id="zoK85NWv" text="Dobrze Cię znowu widzieć {PLAYER.LINK}..." />
+    <string id="zpioxFi7" text="Dobrze. Zrobię to.{s12}" />
+    <string id="ZqFVib44" text="Nie jestem w stanie podjąc teraz decyzji" />
+    <string id="ZQHvsnPG" text="Panie {PLAYER.LINK} -- jesteś szlachetnym i dobrym człowiekiem, ale nie mogę stanąć wbrew rodzinie. Taki czyn jet niedopuszczalny!" />
+    <string id="zr2atTsP" text="Nie mam czasu na twoje utarczki. Nie zawracaj mi tym już więcej głowy." />
     <string id="zRkrtG1h" text="As a consequence, it seems, our captain turned to villainy to recoup his fortune. I supposed I'd do the same if, the Heavens forbid, I ever faced indebtedness and ruination. Now, any watch captain worth his salary will have a few thieves and robbers on his payroll, to inform on the rest, but our captain decides to employ these bastards wholesale. He brings them into the town, lets them do as they will, and takes a share of their take. You've heard of poachers turning gamekeepers? Well, in the unfortunate land of Calradia, sometimes gamekeepers will turn poacher. Luckily, there's are still a few brave, honest souls in the watch who've told me how he works." />
-    <string id="ZsPzguWx" text="I was told that you sought satisfaction from {s13} to prove my innocence, {PLAYER.LINK}. It was a fine gesture, and I thank you for your efforts." />
-    <string id="Zss9pxaA" text="I am tired of these games! I will demand that your family compel you to marry me.." />
-    <string id="Zt2N4ETb" text="On second thought, stay with me for a while" />
-    <string id="zT5iVXip" text="Hah! Not so gallant now, are we? Now trouble me no more." />
-    <string id="Ztj8wg6g" text="Aye, my scouts saw the whole thing. That should make anyone else think twice before turning outlaw! The bounty is 40{GOLD_ICON} for every band, so that makes {reg1} in total. Here is your money, as promised." />
-    <string id="ZtMpx5Pa" text="Yes, I would say that. At this point, I would be tempted to say that I support {s15} instead. I am glad that you and I had this discussion, so that I know that we are of the same mind on this matter." />
-    <string id="ztpM4YHn" text="I can escort you to your destination for a price." />
-    <string id="zUR9cGpA" text="Ah... Very well then, forget I brought it up." />
-    <string id="zVuMLgpI" text="What do you want? You want to pay us some more money?" />
-    <string id="zw2HNJ0P" text="Yes {?NPC.GENDER}madam{?}sir{\?}. As you wish." />
+    <string id="ZsPzguWx" text="Doszły mnie słuchy, że wyzwałeś {s13} aby dowieśćmojej niewinności, {PLAYER.LINK}. To wspaniały gest. Dziękuję Ci." />
+    <string id="Zss9pxaA" text="Dusyć tego! Zażądam, aby rodzina zmusiła cię do ożenku!" />
+    <string id="Zt2N4ETb" text="Chociaż... zostań ze mną jeszcze" />
+    <string id="zT5iVXip" text="Ha! Już nie tak gładko, co? Idź i nie przeszkadzaj mi już." />
+    <string id="Ztj8wg6g" text="Tak, moi zwiadowcy widzieli całe zajście. To da do myślenia wszystkim myślącym o rozboju! Nagroda to 40{GOLD_ICON} za każdą bandę, co daje razem {reg1}. Oto Twoja nagroda, jak ustaliliśmy." />
+    <string id="ZtMpx5Pa" text="Tak, przyznaję. W obecnej sytuacji byłbym skłonny wesprzeć {s15}. Cieszę się, że jesteśmy tego samego zdania." />
+    <string id="ztpM4YHn" text="Mogę eskortować was. Za opłatą" />
+    <string id="zUR9cGpA" text="Aaa... Dobrze, zapomnijmy, że wspomniałem o tym." />
+    <string id="zVuMLgpI" text="Czego chcesz? Chcesz zapłacić jeszcze więcej?" />
+    <string id="zw2HNJ0P" text="Tak, {?NPC.GENDER}Pani{?}Panie{\?}. Wedle życzenia." />
     <string id="zWclyles" text="{s47}" />
-    <string id="zYfYCv6g" text="I fear I can't accept your offer." />
+    <string id="zYfYCv6g" text="Nie mogę przyjąć Twojej oferty." />
   </strings>
 </base>
